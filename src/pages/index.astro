@@ -11,120 +11,168 @@ import Layout from '../layouts/Layout.astro';
 <script type="application/ld+json">{"@type": ["Plumber", "LocalBusiness"], "name": "Wenatchee Well Pros", "url": "https://wenatcheewellpros.com", "telephone": "(509) 555-0142", "email": "info@wenatcheewellpros.com", "address": {"@type": "PostalAddress", "addressLocality": "Wenatchee", "addressRegion": "WA", "addressCountry": "US"}, "geo": {"@type": "GeoCoordinates", "latitude": 47.4235, "longitude": -120.3103}, "areaServed": [{"@type": "City", "name": "Wenatchee", "addressRegion": "WA"}, {"@type": "City", "name": "East Wenatchee", "addressRegion": "WA"}, {"@type": "City", "name": "Cashmere", "addressRegion": "WA"}, {"@type": "City", "name": "Leavenworth", "addressRegion": "WA"}, {"@type": "City", "name": "Chelan", "addressRegion": "WA"}, {"@type": "City", "name": "Quincy", "addressRegion": "WA"}, {"@type": "City", "name": "Moses Lake", "addressRegion": "WA"}], "@context": "https://schema.org", "description": "No water? Wenatchee Well Pros fixes well pumps fast across Chelan, Douglas and Grant counties. 24/7 emergency service, free estimates. Call us: (509) 555-0142.", "image": "https://wenatcheewellpros.com/images/og-image.webp", "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "opens": "07:00", "closes": "18:00"}], "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Well Pump Services", "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Well Pump Repair"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Well Pump Replacement"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure Tank Service"}}, {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Emergency No-Water Service"}}]}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How fast can you get to my property if I have no water?", "acceptedAnswer": {"@type": "Answer", "text": "For no-water emergencies we answer 24/7 and aim to be on site the same day, often within a few hours anywhere in the Wenatchee Valley. Outlying areas like Chelan, Quincy, and Moses Lake may take a bit longer, but we'll give you an honest time window when you call."}}, {"@type": "Question", "name": "How much does well pump repair cost in Wenatchee?", "acceptedAnswer": {"@type": "Answer", "text": "Most common repairs, like a bad pressure switch, failed capacitor, or waterlogged tank, run a few hundred dollars. A full submersible pump replacement typically lands between $1,800 and $4,500 depending on well depth and pump size. Every job starts with a free written estimate, and our well pump cost guide breaks down typical prices."}}, {"@type": "Question", "name": "What are the signs my well pump is failing?", "acceptedAnswer": {"@type": "Answer", "text": "Watch for sputtering faucets, low or pulsing pressure, cloudy or sandy water, a pump that runs constantly, or a sudden jump in your power bill. Any of those means the pump or pressure tank is struggling, and catching it early usually means a cheaper fix."}}, {"@type": "Question", "name": "Should I repair my well pump or replace it?", "acceptedAnswer": {"@type": "Answer", "text": "If the pump is under 8 to 10 years old and the failure is in a part like the switch, capacitor, or wiring, repair usually makes sense. If the motor itself is shot or the pump is past its expected life, replacement is the smarter money. We'll test everything on site and give you both numbers so you can decide."}}, {"@type": "Question", "name": "How long does a well pump last in North Central Washington?", "acceptedAnswer": {"@type": "Answer", "text": "Most submersible pumps last 10 to 15 years here, sometimes longer with a healthy pressure tank. Heavy irrigation use, sediment, and short cycling from a bad tank can cut that life in half. Keeping the pressure tank in good shape is the single best thing you can do for your pump."}}]}</script>
 <style is:global>
-  .rich p { font-size: 16px; line-height: 1.8; color: #555; margin: 0 0 16px; }
+  .rich p { font-size: 16px; line-height: 1.85; color: #5A6B76; margin: 0 0 16px; }
   .rich ul { padding-left: 20px; margin: 0 0 16px; }
-  .rich li { font-size: 16px; line-height: 1.8; color: #555; margin-bottom: 8px; }
-  .rich strong { color: #333A3F; }
-  .rich a { color: #B96A2C; font-weight: 600; text-decoration: none; }
+  .rich li { font-size: 16px; line-height: 1.85; color: #5A6B76; margin-bottom: 8px; }
+  .rich strong { color: #2B3A44; }
+  .rich a { color: #1273A8; font-weight: 600; text-decoration: none; }
   .rich a:hover { text-decoration: underline; }
 </style>
 </Fragment>
 
-<!-- HERO -->
-<section style="background:linear-gradient(135deg, #08344B 0%, #0E4D6E 65%, #08344B 100%);padding:72px 24px;">
-  <div class="hero-grid" style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:56px;align-items:center;">
+<!-- HERO: full-bleed panorama, centered -->
+<section style="position:relative;min-height:560px;display:flex;align-items:center;justify-content:center;text-align:center;overflow:hidden;">
+  <img src="/images/hero-panorama.webp" alt="Wenatchee valley with Cascade peaks, orchards, and the Columbia River" width="2000" height="950" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="eager" fetchpriority="high">
+  <div style="position:absolute;inset:0;background:linear-gradient(180deg, rgba(10,61,92,0.55) 0%, rgba(10,61,92,0.25) 55%, rgba(10,61,92,0.45) 100%);"></div>
+  <div style="position:relative;max-width:880px;padding:96px 24px 130px;">
+    <span style="display:inline-block;margin-bottom:18px;padding:7px 18px;border-radius:999px;font-family:'Nunito Sans',sans-serif;font-size:12px;font-weight:800;letter-spacing:0.16em;text-transform:uppercase;background:rgba(255,255,255,0.14);color:#fff;border:1px solid rgba(255,255,255,0.35);backdrop-filter:blur(3px);">Licensed &amp; Insured · North Central Washington</span>
+    <h1 style="font-family:'Nunito Sans',sans-serif;font-weight:800;color:#fff;line-height:1.08;letter-spacing:-0.015em;font-size:clamp(32px,5vw,58px);margin:0 0 18px;text-shadow:0 2px 24px rgba(10,61,92,0.45);">Well Pump Repair in Wenatchee That Gets Your Water Back Fast</h1>
+    <p style="font-size:18px;line-height:1.7;color:rgba(255,255,255,0.92);max-width:640px;margin:0 auto 30px;text-shadow:0 1px 12px rgba(10,61,92,0.5);">Pumps, pressure tanks, and no-water emergencies for homes, orchards, and rural properties. A real person answers 24/7, and every job starts with a free written estimate.</p>
+    <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+      <a href="/#contact" class="btn-green" style="font-size:15px;padding:16px 38px;">Get a Free Estimate</a>
+      <a href="tel:+15095550142" class="btn-white-outline" style="font-size:15px;">Call (509) 555-0142</a>
+    </div>
+  </div>
+  <!-- curved divider -->
+  <svg class="swoosh" style="position:absolute;bottom:0;left:0;" viewBox="0 0 1440 70" preserveAspectRatio="none" aria-hidden="true"><path d="M0,70 C360,10 1080,10 1440,70 L1440,70 L0,70 Z" fill="#ffffff"/></svg>
+</section>
+
+<!-- INTRO: photo card + copy -->
+<section style="padding:84px 24px 64px;background:#fff;">
+  <div class="intro-grid" style="max-width:1120px;margin:0 auto;display:grid;grid-template-columns:0.9fr 1.1fr;gap:64px;align-items:center;">
+    <div style="position:relative;">
+      <div style="border-radius:18px;overflow:hidden;box-shadow:0 24px 56px rgba(10,61,92,0.22);">
+        <img src="/images/about.webp" alt="Wenatchee Well Pros service crew with their truck" width="800" height="533" style="width:100%;display:block;" loading="lazy">
+      </div>
+      <div style="position:absolute;bottom:-18px;right:-14px;background:#2FA34D;color:#fff;border-radius:14px;padding:14px 22px;box-shadow:0 10px 26px rgba(47,163,77,0.4);">
+        <p style="font-family:'Nunito Sans',sans-serif;font-size:20px;font-weight:800;margin:0;line-height:1;">24/7</p>
+        <p style="font-size:11.5px;font-weight:700;margin:4px 0 0;letter-spacing:0.06em;text-transform:uppercase;">Emergency Line</p>
+      </div>
+    </div>
     <div>
-      <span style="display:inline-block;margin-bottom:12px;padding:4px 12px;border-radius:999px;font-size:11px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;background:rgba(143,208,234,0.18);color:#8FD0EA;border:1px solid rgba(143,208,234,0.3);">Licensed & Insured · North Central WA</span>
-      <h1 style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;color:#F6F3ED;line-height:1.08;letter-spacing:-0.01em;font-size:clamp(30px,4.4vw,52px);margin:0 0 18px;">Well Pump Repair in Wenatchee That Gets Your Water Back Fast</h1>
-      <p style="font-size:18px;line-height:1.7;color:rgba(246,243,237,0.85);max-width:540px;margin:0 0 28px;">We repair and replace well pumps and pressure tanks for homes, orchards, and rural properties across North Central Washington. Call us 24/7 and you'll get a real person, a fast response, and a free estimate before any work starts.</p>
-      <div style="display:flex;flex-wrap:wrap;gap:16px;">
-        <a href="/#contact" class="btn-cream">Get a Free Estimate</a>
-        <a href="tel:+15095550142" class="btn-outline-white">Call (509) 555-0142</a>
-      </div>
-    </div>
-    <div class="hero-img" style="border-radius:12px;overflow:hidden;box-shadow:0 24px 48px rgba(0,0,0,0.3);">
-      <img src="/images/hero.webp" alt="Well Pump Repair in Wenatchee That Gets Your Water Back Fast" width="800" height="533" style="width:100%;height:100%;object-fit:cover;display:block;" loading="eager" fetchpriority="high">
+      <span class="kicker">Your One-Stop Resource for Well Service</span>
+      <h2 class="section-heading" style="font-size:clamp(26px,3.4vw,40px);margin:0 0 18px;">Your Local Well Water Crew</h2>
+      <div class="rich"><p>Wenatchee Well Pros is a local well service company built for the way people actually live out here. A lot of our neighbors in Chelan, Douglas, and Grant counties are on private wells, and when the pump quits, everything stops. No showers, no stock water, no irrigation for the orchard. We started this company to fix that fast, without runaround or inflated bills.</p><p>Our techs handle <a href="/well-pump-repair-wenatchee/">well pump repair</a>, <a href="/well-pump-replacement-wenatchee/">full pump replacement</a>, and <a href="/pressure-tank-replacement-wenatchee/">pressure tank service</a> on everything from shallow jet pumps to deep submersibles set hundreds of feet down. Estimates are always free, and we'll tell you plainly whether a repair makes sense or you're better off replacing. If you're wondering what a fix should run, our <a href="/well-pump-cost/">well pump cost guide</a> lays out real numbers.</p></div>
+      <a href="/about/" class="btn-blue" style="margin-top:10px;">More About Us</a>
     </div>
   </div>
 </section>
 <style>
-  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr !important; } .hero-img { max-height: 320px; } }
+  @media (max-width: 900px) { .intro-grid { grid-template-columns: 1fr !important; gap: 44px !important; } }
 </style>
 
-<!-- SERVICES -->
-<section id="services" style="padding:80px 24px;">
-  <div style="max-width:1100px;margin:0 auto;">
-    <span class="section-tag">What We Do</span>
-    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,38px);margin:0 0 32px;">Well Pump &amp; Water System Services</h2>
-    <div class="svc-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:20px;">
-      <a href="/well-pump-repair-wenatchee/" style="display:flex;flex-direction:column;background:#fff;border:1px solid #e3ded4;border-radius:12px;padding:30px 26px;text-decoration:none;box-shadow:0 2px 8px rgba(14,77,110,0.06);transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 8px 28px rgba(14,77,110,0.14)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 8px rgba(14,77,110,0.06)'">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:20px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">Well Pump Repair</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0 0 18px;flex:1;">Low pressure, sputtering faucets, or a pump that won't shut off? We diagnose the real problem and fix it the same day whenever we can.</p>
-        <span style="font-size:13px;font-weight:600;color:#B96A2C;letter-spacing:0.04em;text-transform:uppercase;">Learn More &#8594;</span>
-      </a>
-      <a href="/well-pump-replacement-wenatchee/" style="display:flex;flex-direction:column;background:#fff;border:1px solid #e3ded4;border-radius:12px;padding:30px 26px;text-decoration:none;box-shadow:0 2px 8px rgba(14,77,110,0.06);transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 8px 28px rgba(14,77,110,0.14)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 8px rgba(14,77,110,0.06)'">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:20px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">Well Pump Replacement</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0 0 18px;flex:1;">When a pump is past saving, we'll size the right submersible or jet pump for your well depth and water needs. Most replacements are done in a single visit.</p>
-        <span style="font-size:13px;font-weight:600;color:#B96A2C;letter-spacing:0.04em;text-transform:uppercase;">Learn More &#8594;</span>
-      </a>
-      <a href="/pressure-tank-replacement-wenatchee/" style="display:flex;flex-direction:column;background:#fff;border:1px solid #e3ded4;border-radius:12px;padding:30px 26px;text-decoration:none;box-shadow:0 2px 8px rgba(14,77,110,0.06);transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 8px 28px rgba(14,77,110,0.14)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 8px rgba(14,77,110,0.06)'">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:20px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">Pressure Tank Service</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0 0 18px;flex:1;">A waterlogged or failing pressure tank makes your pump short cycle and burn out early. We repair, recharge, and replace tanks so your system runs steady.</p>
-        <span style="font-size:13px;font-weight:600;color:#B96A2C;letter-spacing:0.04em;text-transform:uppercase;">Learn More &#8594;</span>
-      </a>
-      <a href="/emergency-well-service-wenatchee/" style="display:flex;flex-direction:column;background:#fff;border:1px solid #e3ded4;border-radius:12px;padding:30px 26px;text-decoration:none;box-shadow:0 2px 8px rgba(14,77,110,0.06);transition:box-shadow 0.2s, transform 0.2s;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 8px 28px rgba(14,77,110,0.14)'" onmouseout="this.style.transform='';this.style.boxShadow='0 2px 8px rgba(14,77,110,0.06)'">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:20px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">Emergency No-Water Service</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0 0 18px;flex:1;">No water is not a wait-until-Monday problem, especially in a Wenatchee summer. Call any hour, any day, and we'll get a tech headed your way.</p>
-        <span style="font-size:13px;font-weight:600;color:#B96A2C;letter-spacing:0.04em;text-transform:uppercase;">Learn More &#8594;</span>
-      </a>
+<!-- PROBLEM TILES -->
+<section id="services" style="padding:72px 24px 84px;background:#EAF5FB;">
+  <div style="max-width:1120px;margin:0 auto;text-align:center;">
+    <span class="kicker">Fast Emergency Service Available</span>
+    <h2 class="section-heading" style="font-size:clamp(26px,3.4vw,40px);margin:0 0 40px;">Well Problems Solved Right the First Time</h2>
+    <div class="tile-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:22px;">
+      {[
+        { img: 'tile-no-water', label: 'No Water at All', href: '/emergency-well-service-wenatchee/', alt: 'Faucet with no water running' },
+        { img: 'tile-low-pressure', label: 'Low Water Pressure', href: '/well-pump-repair-wenatchee/', alt: 'Shower head with weak water pressure' },
+        { img: 'service-pump-repair-800', label: 'Pump Repair', href: '/well-pump-repair-wenatchee/', alt: 'Technician repairing a well casing head' },
+        { img: 'service-pump-replacement-800', label: 'Pump Replacement', href: '/well-pump-replacement-wenatchee/', alt: 'Technicians lowering a new submersible pump' },
+        { img: 'tile-pressure-tank', label: 'Pressure Tank Trouble', href: '/pressure-tank-replacement-wenatchee/', alt: 'Residential well pressure tank' },
+        { img: 'tile-dirty-water', label: 'Dirty or Cloudy Water', href: '/blog/well-water-sediment/', alt: 'Glass of cloudy sediment-tinted well water' },
+        { img: 'tile-frozen', label: 'Frozen Pipes & Pumps', href: '/blog/frozen-well-pipes/', alt: 'Frosted outdoor water pipe in winter' },
+        { img: 'tile-irrigation', label: 'Irrigation Wells', href: '/blog/irrigation-well-pumps/', alt: 'Orchard irrigation sprinklers running' },
+      ].map(t => (
+        <a href={t.href} style="display:flex;flex-direction:column;background:#fff;border-radius:16px;overflow:hidden;text-decoration:none;box-shadow:0 4px 16px rgba(10,61,92,0.1);transition:transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-4px)';this.style.boxShadow='0 14px 32px rgba(10,61,92,0.18)'" onmouseout="this.style.transform='';this.style.boxShadow='0 4px 16px rgba(10,61,92,0.1)'">
+          <img src={`/images/${t.img}.webp`} alt={t.alt} width="700" height="700" style="width:100%;aspect-ratio:1.25/1;object-fit:cover;display:block;" loading="lazy">
+          <span style="font-family:'Nunito Sans',sans-serif;font-size:14.5px;font-weight:800;color:#0A3D5C;padding:14px 12px;">{t.label}</span>
+        </a>
+      ))}
     </div>
   </div>
 </section>
 <style>
-  @media (max-width: 1000px) { .svc-grid { grid-template-columns: repeat(2,1fr) !important; } }
-  @media (max-width: 600px) { .svc-grid { grid-template-columns: 1fr !important; } }
+  @media (max-width: 1000px) { .tile-grid { grid-template-columns: repeat(2,1fr) !important; } }
+  @media (max-width: 520px) { .tile-grid { grid-template-columns: 1fr !important; } }
 </style>
 
-<!-- WHY US -->
-<section style="padding:0 24px 80px;">
-  <div style="max-width:1100px;margin:0 auto;">
-    <span class="section-tag">Why Homeowners Call Us</span>
-    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Straight Answers, Fast Water</h2>
-    <div class="feat-grid" style="display:grid;grid-template-columns:repeat(4,1fr);gap:20px;">
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">We Live and Work Here</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">We're based in the Wenatchee Valley, not dispatched from Spokane or Seattle. We know the local wells, the basalt, and the water tables from Cashmere to Quincy.</p>
+<!-- TRUST STRIP -->
+<section style="padding:0 24px;background:#fff;">
+  <div class="trust-grid" style="max-width:1120px;margin:-30px auto 0;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;position:relative;z-index:2;">
+    {[
+      { title: 'Licensed', desc: 'Washington-licensed well pump contractors on every job.' },
+      { title: 'Insured', desc: 'Fully insured so your property and well are protected.' },
+      { title: 'Free Written Estimates', desc: 'A real price on paper before any work begins.' },
+    ].map(b => (
+      <div style="background:#0A3D5C;border-radius:14px;padding:22px 26px;display:flex;align-items:center;gap:16px;box-shadow:0 12px 30px rgba(10,61,92,0.28);">
+        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#2FA34D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+        <div>
+          <p style="font-family:'Nunito Sans',sans-serif;font-size:16px;font-weight:800;color:#fff;margin:0 0 3px;">{b.title}</p>
+          <p style="font-size:13px;line-height:1.5;color:rgba(255,255,255,0.75);margin:0;">{b.desc}</p>
+        </div>
       </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">24/7 Emergency Response</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Wells don't fail on a schedule. Call at 2 a.m. on a Sunday and you'll reach a person, not a voicemail.</p>
-      </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">Straight Answers, Upfront Pricing</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">You get a free estimate with real numbers before we touch anything. If a $300 repair will do the job, we won't sell you a $3,000 replacement.</p>
-      </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:10px;padding:26px;box-shadow:0 2px 8px rgba(14,77,110,0.05);">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">Licensed and Insured in Washington</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Fully licensed, insured, and up to code on every job. Your well, your pump, and your property are protected.</p>
-      </div>
-</div>
-<style>
-  @media (max-width: 860px) { .feat-grid { grid-template-columns: 1fr !important; } }
-</style>
+    ))}
   </div>
 </section>
+<style>
+  @media (max-width: 900px) { .trust-grid { grid-template-columns: 1fr !important; margin-top: 24px !important; } }
+</style>
+
+<!-- WHY CHOOSE US -->
+<section style="padding:84px 24px;background:#fff;">
+  <div class="why-grid" style="max-width:1120px;margin:0 auto;display:grid;grid-template-columns:1.1fr 0.9fr;gap:64px;align-items:center;">
+    <div>
+      <span class="kicker">Why Choose Us?</span>
+      <h2 class="section-heading" style="font-size:clamp(26px,3.4vw,40px);margin:0 0 28px;">Straight Answers, Fast Water</h2>
+      <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:20px;">
+        {[
+          { title: 'We Live and Work Here', desc: "We're based in the Wenatchee Valley, not dispatched from Spokane or Seattle. We know the local wells, the basalt, and the water tables from Cashmere to Quincy." },
+          { title: '24/7 Emergency Response', desc: "Wells don't fail on a schedule. Call at 2 a.m. on a Sunday and you'll reach a person, not a voicemail." },
+          { title: 'Straight Answers, Upfront Pricing', desc: "You get a free estimate with real numbers before we touch anything. If a $300 repair will do the job, we won't sell you a $3,000 replacement." },
+          { title: 'Licensed and Insured in Washington', desc: 'Fully licensed, insured, and up to code on every job. Your well, your pump, and your property are protected.' },
+        ].map(w => (
+          <li style="display:flex;gap:14px;align-items:flex-start;">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#2FA34D" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;margin-top:3px;"><polyline points="20 6 9 17 4 12"/></svg>
+            <div>
+              <p style="font-family:'Nunito Sans',sans-serif;font-size:17px;font-weight:800;color:#0A3D5C;margin:0 0 4px;">{w.title}</p>
+              <p style="font-size:14.5px;line-height:1.7;color:#5A6B76;margin:0;">{w.desc}</p>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:20px;">
+      <div style="border-radius:18px;overflow:hidden;box-shadow:0 18px 44px rgba(10,61,92,0.2);">
+        <img src="/images/hero-800.webp" alt="Well technician at a residential wellhead in orchard country" width="800" height="800" style="width:100%;display:block;" loading="lazy">
+      </div>
+      <div class="stat-row" style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">
+        <div style="background:#1273A8;border-radius:14px;padding:24px;text-align:center;">
+          <p style="font-family:'Nunito Sans',sans-serif;font-size:26px;font-weight:800;color:#fff;margin:0;line-height:1;">$0</p>
+          <p style="font-size:12.5px;font-weight:700;color:rgba(255,255,255,0.85);margin:6px 0 0;letter-spacing:0.05em;text-transform:uppercase;">Estimate Fee</p>
+        </div>
+        <div style="background:#2FA34D;border-radius:14px;padding:24px;text-align:center;">
+          <p style="font-family:'Nunito Sans',sans-serif;font-size:26px;font-weight:800;color:#fff;margin:0;line-height:1;">Same Day</p>
+          <p style="font-size:12.5px;font-weight:700;color:rgba(255,255,255,0.85);margin:6px 0 0;letter-spacing:0.05em;text-transform:uppercase;">Most Repairs</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<style>
+  @media (max-width: 900px) { .why-grid { grid-template-columns: 1fr !important; gap: 44px !important; } }
+</style>
 
 <!-- PROCESS -->
-<section style="padding:72px 24px;background:#F6F3ED;">
-  <div style="max-width:1000px;margin:0 auto;">
-    <span class="section-tag">How It Works</span>
-    <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 40px;">From First Call to Running Water</h2>
+<section style="padding:76px 24px;background:#EAF5FB;">
+  <div style="max-width:1020px;margin:0 auto;text-align:center;">
+    <span class="kicker">How It Works</span>
+    <h2 class="section-heading" style="font-size:clamp(26px,3.4vw,38px);margin:0 0 44px;">From First Call to Running Water</h2>
     <div class="steps-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:32px;">
-      <div style="text-align:center;padding:0 16px;">
-        <div style="width:52px;height:52px;border-radius:50%;background:#0E4D6E;color:#F6F3ED;font-family:'Zilla Slab',Georgia,serif;font-size:22px;font-weight:700;display:flex;align-items:center;justify-content:center;margin:0 auto 14px;">1</div>
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:19px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">Call or Request a Free Estimate</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Reach us at (509) 555-0142 any time, day or night. Tell us what's happening and we'll give you an honest read on the problem and a time window for the visit.</p>
-      </div>
-      <div style="text-align:center;padding:0 16px;">
-        <div style="width:52px;height:52px;border-radius:50%;background:#0E4D6E;color:#F6F3ED;font-family:'Zilla Slab',Georgia,serif;font-size:22px;font-weight:700;display:flex;align-items:center;justify-content:center;margin:0 auto 14px;">2</div>
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:19px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">We Diagnose On Site</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">A tech tests your pump, pressure tank, switch, and wiring to find the actual failure. Then you get a written price before any work begins.</p>
-      </div>
-      <div style="text-align:center;padding:0 16px;">
-        <div style="width:52px;height:52px;border-radius:50%;background:#0E4D6E;color:#F6F3ED;font-family:'Zilla Slab',Georgia,serif;font-size:22px;font-weight:700;display:flex;align-items:center;justify-content:center;margin:0 auto 14px;">3</div>
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:19px;font-weight:700;color:#0E4D6E;margin:0 0 8px;">We Fix It and Test It</h3>
-        <p style="font-size:14.5px;line-height:1.7;color:#555;margin:0;">Most repairs and many full pump replacements are finished the same day. We don't leave until your pressure is steady and your water runs clear.</p>
-      </div>
+      {[
+        { step: '1', title: 'Call or Request a Free Estimate', desc: "Reach us at (509) 555-0142 any time, day or night. Tell us what's happening and we'll give you an honest read on the problem and a time window for the visit." },
+        { step: '2', title: 'We Diagnose On Site', desc: 'A tech tests your pump, pressure tank, switch, and wiring to find the actual failure. Then you get a written price before any work begins.' },
+        { step: '3', title: 'We Fix It and Test It', desc: "Most repairs and many full pump replacements are finished the same day. We don't leave until your pressure is steady and your water runs clear." },
+      ].map(s => (
+        <div style="background:#fff;border-radius:16px;padding:34px 26px;box-shadow:0 4px 18px rgba(10,61,92,0.08);">
+          <div style="width:54px;height:54px;border-radius:50%;background:#2FA34D;color:#fff;font-family:'Nunito Sans',sans-serif;font-size:22px;font-weight:800;display:flex;align-items:center;justify-content:center;margin:0 auto 16px;box-shadow:0 8px 20px rgba(47,163,77,0.35);">{s.step}</div>
+          <h3 style="font-family:'Nunito Sans',sans-serif;font-size:18px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">{s.title}</h3>
+          <p style="font-size:14.5px;line-height:1.7;color:#5A6B76;margin:0;">{s.desc}</p>
+        </div>
+      ))}
     </div>
   </div>
 </section>
@@ -132,80 +180,56 @@ import Layout from '../layouts/Layout.astro';
   @media (max-width: 760px) { .steps-grid { grid-template-columns: 1fr !important; } }
 </style>
 
-<!-- ABOUT -->
-<section style="padding:80px 24px;">
-  <div class="about-grid" style="max-width:1100px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center;">
-    <div style="border-radius:12px;overflow:hidden;box-shadow:0 18px 40px rgba(14,77,110,0.18);">
-      <img src="/images/about-800.webp" alt="Wenatchee Well Pros service crew" width="800" height="533" style="width:100%;display:block;" loading="lazy">
-    </div>
-    <div>
-      <span class="section-tag">About Us</span>
-      <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 18px;">Your Local Well Water Crew</h2>
-      <div class="rich"><p>Wenatchee Well Pros is a local well service company built for the way people actually live out here. A lot of our neighbors in Chelan, Douglas, and Grant counties are on private wells, and when the pump quits, everything stops. No showers, no stock water, no irrigation for the orchard. We started this company to fix that fast, without runaround or inflated bills.</p><p>Our techs handle <a href="/well-pump-repair-wenatchee/">well pump repair</a>, <a href="/well-pump-replacement-wenatchee/">full pump replacement</a>, and <a href="/pressure-tank-replacement-wenatchee/">pressure tank service</a> on everything from shallow jet pumps to deep submersibles set hundreds of feet down. Estimates are always free, and we'll tell you plainly whether a repair makes sense or you're better off replacing. If you're wondering what a fix should run, our <a href="/well-pump-cost/">well pump cost guide</a> lays out real numbers.</p></div>
-      <a href="/about/" class="btn-primary" style="margin-top:8px;">More About Us</a>
-    </div>
-  </div>
-</section>
-<style>
-  @media (max-width: 860px) { .about-grid { grid-template-columns: 1fr !important; } }
-</style>
-
-<!-- AREAS -->
-<section style="padding:0 24px 72px;">
-  <div style="max-width:860px;margin:0 auto;">
-    <span class="section-tag">Service Areas</span>
-    <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 16px;">Serving North Central Washington</h2>
-    <div class="rich"><p>We serve well owners across North Central Washington, from the Columbia River valley up into the orchards and foothills. That includes Wenatchee, <a href="/well-service-east-wenatchee/">East Wenatchee</a>, <a href="/well-service-cashmere/">Cashmere</a>, <a href="/well-service-leavenworth/">Leavenworth</a>, <a href="/well-service-chelan/">Lake Chelan</a>, <a href="/well-service-quincy/">Quincy</a>, and <a href="/well-service-moses-lake/">Moses Lake</a>. If you're on a rural road in Chelan, Douglas, or Grant County, odds are good we've worked a well near you.</p></div>
+<!-- SERVICE AREAS -->
+<section style="padding:76px 24px 60px;background:#fff;">
+  <div style="max-width:860px;margin:0 auto;text-align:center;">
+    <span class="kicker">Service Areas</span>
+    <h2 class="section-heading" style="font-size:clamp(24px,3vw,36px);margin:0 0 16px;">Serving North Central Washington</h2>
+    <div class="rich" style="text-align:left;"><p>We serve well owners across North Central Washington, from the Columbia River valley up into the orchards and foothills. That includes Wenatchee, <a href="/well-service-east-wenatchee/">East Wenatchee</a>, <a href="/well-service-cashmere/">Cashmere</a>, <a href="/well-service-leavenworth/">Leavenworth</a>, <a href="/well-service-chelan/">Lake Chelan</a>, <a href="/well-service-quincy/">Quincy</a>, and <a href="/well-service-moses-lake/">Moses Lake</a>. If you're on a rural road in Chelan, Douglas, or Grant County, odds are good we've worked a well near you.</p></div>
   </div>
 </section>
 
 <!-- FAQ -->
-<section style="padding:72px 24px;background:#F6F3ED;">
+<section style="padding:72px 24px;background:#EAF5FB;">
   <div style="max-width:860px;margin:0 auto;">
-    <span class="section-tag">FAQ</span>
+    <span class="kicker">FAQ</span>
     <h2 class="section-heading" style="font-size:clamp(24px,3.5vw,36px);margin:0 0 32px;">Frequently Asked Questions</h2>
     <div style="display:flex;flex-direction:column;gap:16px;">
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">How fast can you get to my property if I have no water?</h3>
-        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">For no-water emergencies we answer 24/7 and aim to be on site the same day, often within a few hours anywhere in the Wenatchee Valley. Outlying areas like Chelan, Quincy, and Moses Lake may take a bit longer, but we'll give you an honest time window when you call.</p>
-      </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">How much does well pump repair cost in Wenatchee?</h3>
-        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">Most common repairs, like a bad pressure switch, failed capacitor, or waterlogged tank, run a few hundred dollars. A full submersible pump replacement typically lands between $1,800 and $4,500 depending on well depth and pump size. Every job starts with a free written estimate, and our well pump cost guide breaks down typical prices.</p>
-      </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">What are the signs my well pump is failing?</h3>
-        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">Watch for sputtering faucets, low or pulsing pressure, cloudy or sandy water, a pump that runs constantly, or a sudden jump in your power bill. Any of those means the pump or pressure tank is struggling, and catching it early usually means a cheaper fix.</p>
-      </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">Should I repair my well pump or replace it?</h3>
-        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">If the pump is under 8 to 10 years old and the failure is in a part like the switch, capacitor, or wiring, repair usually makes sense. If the motor itself is shot or the pump is past its expected life, replacement is the smarter money. We'll test everything on site and give you both numbers so you can decide.</p>
-      </div>
-      <div style="background:#fff;border:1px solid #e3ded4;border-radius:8px;padding:24px 28px;">
-        <h3 style="font-family:'Zilla Slab',Georgia,serif;font-size:18px;font-weight:700;color:#0E4D6E;margin:0 0 10px;">How long does a well pump last in North Central Washington?</h3>
-        <p style="font-size:15px;line-height:1.75;color:#555;margin:0;">Most submersible pumps last 10 to 15 years here, sometimes longer with a healthy pressure tank. Heavy irrigation use, sediment, and short cycling from a bad tank can cut that life in half. Keeping the pressure tank in good shape is the single best thing you can do for your pump.</p>
-      </div>
+      {[
+        { q: 'How fast can you get to my property if I have no water?', a: "For no-water emergencies we answer 24/7 and aim to be on site the same day, often within a few hours anywhere in the Wenatchee Valley. Outlying areas like Chelan, Quincy, and Moses Lake may take a bit longer, but we'll give you an honest time window when you call." },
+        { q: 'How much does well pump repair cost in Wenatchee?', a: 'Most common repairs, like a bad pressure switch, failed capacitor, or waterlogged tank, run a few hundred dollars. A full submersible pump replacement typically lands between $1,800 and $4,500 depending on well depth and pump size. Every job starts with a free written estimate, and our well pump cost guide breaks down typical prices.' },
+        { q: 'What are the signs my well pump is failing?', a: 'Watch for sputtering faucets, low or pulsing pressure, cloudy or sandy water, a pump that runs constantly, or a sudden jump in your power bill. Any of those means the pump or pressure tank is struggling, and catching it early usually means a cheaper fix.' },
+        { q: 'Should I repair my well pump or replace it?', a: "If the pump is under 8 to 10 years old and the failure is in a part like the switch, capacitor, or wiring, repair usually makes sense. If the motor itself is shot or the pump is past its expected life, replacement is the smarter money. We'll test everything on site and give you both numbers so you can decide." },
+        { q: 'How long does a well pump last in North Central Washington?', a: 'Most submersible pumps last 10 to 15 years here, sometimes longer with a healthy pressure tank. Heavy irrigation use, sediment, and short cycling from a bad tank can cut that life in half. Keeping the pressure tank in good shape is the single best thing you can do for your pump.' },
+      ].map(f => (
+        <div style="background:#fff;border-radius:14px;padding:24px 28px;box-shadow:0 3px 12px rgba(10,61,92,0.06);">
+          <h3 style="font-family:'Nunito Sans',sans-serif;font-size:17px;font-weight:800;color:#0A3D5C;margin:0 0 10px;">{f.q}</h3>
+          <p style="font-size:15px;line-height:1.75;color:#5A6B76;margin:0;">{f.a}</p>
+        </div>
+      ))}
     </div>
   </div>
 </section>
 
 <!-- CONTACT -->
-<section id="contact" style="padding:80px 24px;background:linear-gradient(135deg, #08344B 0%, #0E4D6E 70%, #08344B 100%);">
-  <div class="contact-grid" style="max-width:1000px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start;">
+<section id="contact" style="position:relative;padding:90px 24px;overflow:hidden;">
+  <img src="/images/city-east-wenatchee.webp" alt="" width="1600" height="900" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;" loading="lazy" aria-hidden="true">
+  <div style="position:absolute;inset:0;background:linear-gradient(135deg, rgba(10,61,92,0.92) 0%, rgba(18,115,168,0.88) 100%);"></div>
+  <div class="contact-grid" style="position:relative;max-width:1020px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start;">
     <div>
-      <span class="section-tag" style="color:#8FD0EA;">Free Estimate</span>
-      <h2 style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;color:#F6F3ED;font-size:clamp(24px,3.5vw,38px);line-height:1.15;margin:0 0 16px;">Tell Us What Your Water&#39;s Doing</h2>
-      <p style="font-size:16px;line-height:1.8;color:rgba(246,243,237,0.85);margin:0 0 24px;">Describe the problem and where you are. We&#39;ll call you back with honest next steps and a written estimate. No water right now? Skip the form and call.</p>
-      <a href="tel:+15095550142" class="btn-cream" style="margin-bottom:12px;">Call (509) 555-0142</a>
-      <p style="font-size:13px;color:rgba(246,243,237,0.6);margin-top:16px;">24/7 emergency line for no-water calls.</p>
+      <span class="kicker" style="color:#7FE0A0;">Free Estimate</span>
+      <h2 style="font-family:'Nunito Sans',sans-serif;font-weight:800;color:#fff;font-size:clamp(24px,3.5vw,38px);line-height:1.12;margin:0 0 16px;">Tell Us What Your Water&#39;s Doing</h2>
+      <p style="font-size:16px;line-height:1.8;color:rgba(255,255,255,0.88);margin:0 0 24px;">Describe the problem and where you are. We&#39;ll call you back with honest next steps and a written estimate. No water right now? Skip the form and call.</p>
+      <a href="tel:+15095550142" class="btn-green" style="margin-bottom:12px;">Call (509) 555-0142</a>
+      <p style="font-size:13px;color:rgba(255,255,255,0.65);margin-top:16px;">24/7 emergency line for no-water calls.</p>
     </div>
-    <form action="https://formsubmit.co/info@wenatcheewellpros.com" method="POST" style="background:#fff;border-radius:12px;padding:32px;display:flex;flex-direction:column;gap:14px;box-shadow:0 24px 48px rgba(0,0,0,0.25);">
+    <form action="https://formsubmit.co/info@wenatcheewellpros.com" method="POST" style="background:#fff;border-radius:18px;padding:32px;display:flex;flex-direction:column;gap:14px;box-shadow:0 28px 60px rgba(0,0,0,0.3);">
       <input type="hidden" name="_subject" value="New estimate request — wenatcheewellpros.com">
-      <input type="text" name="name" placeholder="Your name" required style="padding:13px 14px;border:1px solid #d8d2c6;border-radius:6px;font-family:inherit;font-size:15px;">
-      <input type="tel" name="phone" placeholder="Phone number" required style="padding:13px 14px;border:1px solid #d8d2c6;border-radius:6px;font-family:inherit;font-size:15px;">
-      <input type="text" name="city" placeholder="City / area" style="padding:13px 14px;border:1px solid #d8d2c6;border-radius:6px;font-family:inherit;font-size:15px;">
-      <textarea name="message" placeholder="What's going on with your water?" rows="4" style="padding:13px 14px;border:1px solid #d8d2c6;border-radius:6px;font-family:inherit;font-size:15px;resize:vertical;"></textarea>
-      <button type="submit" class="btn-copper" style="justify-content:center;">Request Free Estimate</button>
+      <input type="text" name="name" placeholder="Your name" required style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;">
+      <input type="tel" name="phone" placeholder="Phone number" required style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;">
+      <input type="text" name="city" placeholder="City / area" style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;">
+      <textarea name="message" placeholder="What's going on with your water?" rows="4" style="padding:13px 16px;border:1.5px solid #D8E3EA;border-radius:10px;font-family:inherit;font-size:15px;resize:vertical;"></textarea>
+      <button type="submit" class="btn-green" style="width:100%;">Request Free Estimate</button>
     </form>
   </div>
 </section>
