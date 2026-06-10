@@ -31,7 +31,7 @@ Let's start with the table everyone scrolls for. These are installed prices, mea
 
 A few notes on reading that table honestly. The submersible rows cover the vast majority of homes in Chelan, Douglas, and Grant counties. Depth is the single biggest variable, and around here it swings a lot. Valley floor wells near the Columbia might hit water at 80 feet, while wells up on the benches or out toward Quincy can run 300 to 600 feet. That's geology, not pricing games, and your driller's well log will tell you exactly where you stand.
 
-If your water just quit and you need a number for your specific well, [call us at (509) 555-0142](tel:+15095550142) and we'll give you a straight estimate over the phone. Free, no pressure, and we answer 24/7.
+If your water just quit and you need a number for your specific well, [call us at (509) 224-3484](tel:+15092243484) and we'll give you a straight estimate over the phone. Free, no pressure, and we answer 24/7.
 
 ## What Drives Well Pump Replacement Cost Up or Down
 
@@ -107,7 +107,7 @@ One more local wrinkle. Sediment and sand are common in Columbia Valley wells, a
 
 Plan on $2,800 to $4,200 if you're an average home in the Wenatchee Valley with a well in the 100 to 250 foot range. Deeper well, bigger house, or a constant pressure upgrade pushes you toward $5,000 and up. Catch problems early, replace the tank when it's tired, and you'll get the full 15 years out of the new pump instead of 8.
 
-And if you're reading this with no water at the tap right now, skip the budgeting and get it diagnosed. We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake with free estimates and licensed, insured techs. Call (509) 555-0142, day or night.
+And if you're reading this with no water at the tap right now, skip the budgeting and get it diagnosed. We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake with free estimates and licensed, insured techs. Call (509) 224-3484, day or night.
 
 ## Frequently Asked Questions
 

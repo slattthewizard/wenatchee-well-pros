@@ -13,7 +13,7 @@ If you own rural property around Wenatchee, Cashmere, or Quincy, there's a decen
 
 The good news is that the process is straightforward once you know the rules. In this guide we'll cover what Washington actually requires, what decommissioning costs in 2026 (real numbers, not ranges so wide they're useless), how the work gets done, and when it makes sense to save an old well instead of sealing it.
 
-If you already know you've got an abandoned well that needs to go, [call us at (509) 555-0142](tel:+15095550142) and we'll walk the site with you. Estimates are free, and we handle the state paperwork.
+If you already know you've got an abandoned well that needs to go, [call us at (509) 224-3484](tel:+15092243484) and we'll walk the site with you. Estimates are free, and we handle the state paperwork.
 
 ## Why Washington Takes Abandoned Wells So Seriously
 
@@ -102,7 +102,7 @@ But plenty of "dead" wells aren't dead. Gary out in Quincy nearly sealed a 180 f
 
 A salvageable old well can become an irrigation source, livestock supply, or backup. A flow test and camera inspection typically runs a few hundred dollars, cheap insurance before a permanent decision. And if your current well has died suddenly and you're deciding between fixing it and starting over, that's exactly the kind of call our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) makes every week.
 
-Either way, don't let an open well sit. Cap it securely today, decide its future this month. If you want a straight answer on seal-it versus save-it, [give us a call at (509) 555-0142](tel:+15095550142). We'll tell you honestly which one your well deserves, even when the answer makes us less money.
+Either way, don't let an open well sit. Cap it securely today, decide its future this month. If you want a straight answer on seal-it versus save-it, [give us a call at (509) 224-3484](tel:+15092243484). We'll tell you honestly which one your well deserves, even when the answer makes us less money.
 
 ## Frequently Asked Questions
 

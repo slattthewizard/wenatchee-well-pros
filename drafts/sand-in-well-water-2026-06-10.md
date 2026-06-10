@@ -26,7 +26,7 @@ When sand starts coming through, one of four things is usually happening:
 
 Around here, geology matters too. Much of the Columbia River valley sits on glacial outwash, which is basically layered sand and gravel. Wells in Quincy, Moses Lake, and the flats around East Wenatchee are drilled right through it. That material makes for productive wells, but it also means the screen is doing heavy work every minute the pump runs. When the screen fails, sand has a short trip to your tap.
 
-A little fine sediment after a heavy pumping day is one thing. Visible sand that keeps showing up is a mechanical problem, and it's chewing on your pump right now. If you want a second opinion before it gets expensive, [give us a call at (509) 555-0142](tel:+15095550142) and we'll talk through what you're seeing. The phone call costs nothing.
+A little fine sediment after a heavy pumping day is one thing. Visible sand that keeps showing up is a mechanical problem, and it's chewing on your pump right now. If you want a second opinion before it gets expensive, [give us a call at (509) 224-3484](tel:+15092243484) and we'll talk through what you're seeing. The phone call costs nothing.
 
 ## Well Screen Failure: The Number One Cause of Sandy Well Water
 
@@ -133,7 +133,7 @@ Maybe you can't schedule the repair this week. Fair enough. A few moves will lim
 
 One more from the field. Dale in Cashmere noticed grit in his water in June 2025 and decided he'd deal with it after harvest. By October, his pump was drawing 30 percent more amps and the pressure tank had a half inch of sand packed in the bottom. The screen liner he eventually needed was always going to cost about $4,500. The pump, the tank bladder, and the emergency weekend call were another $3,900 he didn't have to spend. Sand problems are patient. Your equipment isn't.
 
-If you're seeing sand today, the smart move is a camera inspection and a pump check before anything else fails. Our [well pump repair](/well-pump-repair-wenatchee/) team runs diagnostics across Wenatchee, Leavenworth, Chelan, and the whole valley, and estimates are always free. Call [(509) 555-0142](tel:+15095550142) and we'll get eyes on it, usually within a day or two.
+If you're seeing sand today, the smart move is a camera inspection and a pump check before anything else fails. Our [well pump repair](/well-pump-repair-wenatchee/) team runs diagnostics across Wenatchee, Leavenworth, Chelan, and the whole valley, and estimates are always free. Call [(509) 224-3484](tel:+15092243484) and we'll get eyes on it, usually within a day or two.
 
 ## Frequently Asked Questions
 

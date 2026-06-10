@@ -35,7 +35,7 @@ Here's the more useful breakdown:
 
 Notice the spread. The pump itself matters less than what's around it. Water quality, well yield, pressure tank health, and electrical supply do more to set your pump's lifespan than the brand stamped on the motor.
 
-If your pump is already past the 10-year mark and acting strange, short on pressure, clicking, humming, tripping the breaker, don't wait for the full failure. [Call us at (509) 555-0142](tel:+15095550142) and we'll tell you straight whether it's a $300 fix or time to budget for a new pump. Free estimates, no pressure.
+If your pump is already past the 10-year mark and acting strange, short on pressure, clicking, humming, tripping the breaker, don't wait for the full failure. [Call us at (509) 224-3484](tel:+15092243484) and we'll tell you straight whether it's a $300 fix or time to budget for a new pump. Free estimates, no pressure.
 
 ## Well Pump Lifespan by Pump Type
 
@@ -130,7 +130,7 @@ Age alone doesn't condemn a pump. Age plus symptoms does. Watch for these:
 
 Any one of these on a pump over 10 years old is worth a service call. Two or more means start budgeting. We covered each symptom in detail in our post on the [signs your well pump is failing](/blog/signs-well-pump-failing/).
 
-One safety note. Checking a tripped breaker is fine. Opening the pressure switch, wiring, or control box is not a DIY job. Well pumps run on 240 volts, and wet ground plus high voltage is exactly as bad as it sounds. If a breaker won't hold or you smell burned wiring, stop there and [call (509) 555-0142](tel:+15095550142). We answer 24/7 for no-water emergencies, and we'd much rather take that call than the other kind.
+One safety note. Checking a tripped breaker is fine. Opening the pressure switch, wiring, or control box is not a DIY job. Well pumps run on 240 volts, and wet ground plus high voltage is exactly as bad as it sounds. If a breaker won't hold or you smell burned wiring, stop there and [call (509) 224-3484](tel:+15092243484). We answer 24/7 for no-water emergencies, and we'd much rather take that call than the other kind.
 
 ## Frequently Asked Questions
 

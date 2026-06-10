@@ -84,7 +84,7 @@ Here's the comparison that makes the schedule pay for itself. These are typical 
 
 Add up the left column and a thorough year of maintenance costs $400 to $900, much of it DIY-free. Any single item in the right column costs more than several years of upkeep.
 
-Planned replacements beat emergency replacements too. When we swap a pressure tank on a schedule, you pick the week and the water's off for two hours. When it fails on its own, you're hauling buckets from a neighbor's place. If your tank or pump is over 10 years old, it's worth a conversation. Give us a ring at [(509) 555-0142](tel:+15095550142) and we'll tell you straight whether yours has life left in it.
+Planned replacements beat emergency replacements too. When we swap a pressure tank on a schedule, you pick the week and the water's off for two hours. When it fails on its own, you're hauling buckets from a neighbor's place. If your tank or pump is over 10 years old, it's worth a conversation. Give us a ring at [(509) 224-3484](tel:+15092243484) and we'll tell you straight whether yours has life left in it.
 
 ## The Big-Ticket Items: Know Your System's Age
 

@@ -47,7 +47,7 @@ Hot stretch in July with everyone irrigating? Water tables in Chelan, Douglas, a
 
 Stand near the pressure tank or wellhead and have someone open a faucet. Humming with no water moving, clicking, or total silence each point to different failures. Make a note of what you hear. It'll save your technician diagnostic time, and that saves you money.
 
-Still dry after all seven? That's your cue to bring in a pro. [Call Wenatchee Well Pros at (509) 555-0142](tel:+15095550142) and tell us what you found. We answer 24/7, and the gauge reading plus what you heard often lets us show up with the right part on the truck.
+Still dry after all seven? That's your cue to bring in a pro. [Call Wenatchee Well Pros at (509) 224-3484](tel:+15092243484) and tell us what you found. We answer 24/7, and the gauge reading plus what you heard often lets us show up with the right part on the truck.
 
 ## Why a Well Suddenly Stops Producing Water
 

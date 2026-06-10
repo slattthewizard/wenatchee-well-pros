@@ -53,7 +53,7 @@ A worn submersible pump with damaged impellers can cavitate, which means it's li
 
 If the sputtering only happens on hot taps, your well is innocent. A water heater that's overheating or has a failing dip tube can put air, actually steam and dissolved gas, into the hot lines only. Quick test: run cold water at the same faucet. Solid cold flow plus sputtering hot flow means call a plumber, not a well company.
 
-If you're not sure which bucket you're in, that's literally what we do all day. [Give us a ring at (509) 555-0142](tel:+15095550142) and describe what the faucet is doing. We can usually tell you over the phone whether it sounds like a $30 fix or a pump problem.
+If you're not sure which bucket you're in, that's literally what we do all day. [Give us a ring at (509) 224-3484](tel:+15092243484) and describe what the faucet is doing. We can usually tell you over the phone whether it sounds like a $30 fix or a pump problem.
 
 ## How to Pin Down Where the Air Is Coming From
 
@@ -126,7 +126,7 @@ There's real DIY territory here, and there's territory that hurts people. Stay o
 
 One more cautionary tale. Dale up the Chumstick north of Leavenworth had sputtering taps for about three weeks last fall and figured it would sort itself out. The real problem was a failed check valve, maybe a $500 fix. The constant backspin and restart cycling finished off his 14-year-old pump on a Friday night in November, with guests arriving and the temperature dropping to 18 degrees. The emergency pump replacement ran $3,400. The sputtering was the system asking for help. It always is.
 
-If your faucets are coughing right now, don't wait for the Friday night version. [Call (509) 555-0142](tel:+15095550142), day or night, and we'll get a tech headed your way. We cover Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and estimates are free.
+If your faucets are coughing right now, don't wait for the Friday night version. [Call (509) 224-3484](tel:+15092243484), day or night, and we'll get a tech headed your way. We cover Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and estimates are free.
 
 ## Frequently Asked Questions
 

@@ -39,7 +39,7 @@ A private well system looks complicated in a diagram. In real life it's five mai
 
 **5. The pressure switch.** A small box, about the size of a deck of cards, that turns the pump on and off based on water pressure. It's the brain of the whole operation, and it costs about $30 in parts.
 
-If your water is doing something weird right now and you'd rather skip the theory, give us a ring at [(509) 555-0142](tel:+15095550142). We answer 24/7 and we'll tell you over the phone whether it sounds minor or urgent.
+If your water is doing something weird right now and you'd rather skip the theory, give us a ring at [(509) 224-3484](tel:+15092243484). We answer 24/7 and we'll tell you over the phone whether it sounds minor or urgent.
 
 ## How Does a Well Pump Work, Step by Step?
 
@@ -137,7 +137,7 @@ Any of these getting worse week over week is your cue to act, not wait.
 
 Here's the safety line, and we mean it. Checking your breaker panel and looking at the pressure gauge is homeowner territory. Opening the pressure switch cover, pulling a pump, or working on the wiring is not. Pressure switches carry 240 volts on exposed contacts, and wells plus electricity plus water is a combination that hurts people every year. The EPA's [private well owner resources](https://www.epa.gov/privatewells) are worth bookmarking for the maintenance side, but leave the live electrical work to a licensed tech.
 
-When you hit that line, that's our job. Wenatchee Well Pros handles [well pump repair across the Wenatchee valley](/well-pump-repair-wenatchee/) and everywhere from Leavenworth to Moses Lake, with 24/7 emergency response when the water just stops. Estimates are free and we're licensed and insured in Washington. Call [(509) 555-0142](tel:+15095550142) day or night, or shoot a note to info@wenatcheewellpros.com if it can wait until morning.
+When you hit that line, that's our job. Wenatchee Well Pros handles [well pump repair across the Wenatchee valley](/well-pump-repair-wenatchee/) and everywhere from Leavenworth to Moses Lake, with 24/7 emergency response when the water just stops. Estimates are free and we're licensed and insured in Washington. Call [(509) 224-3484](tel:+15092243484) day or night, or shoot a note to info@wenatcheewellpros.com if it can wait until morning.
 
 ## Frequently Asked Questions
 

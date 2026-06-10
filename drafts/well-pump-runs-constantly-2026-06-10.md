@@ -25,7 +25,7 @@ Why does it matter so much? Three reasons:
 - **Your power bill.** A typical 1 HP submersible pulls around 1,000 to 1,500 watts. Run it around the clock and you're adding $80 to $130 a month to your Chelan or Douglas County PUD bill.
 - **Dry running.** If the pump is running because the well level dropped, it may be sucking air part of the time. Running dry is the fastest way to kill a submersible pump. Period.
 
-If your pump has been running constantly for more than a day, don't gamble with it. [Call us at (509) 555-0142](tel:+15095550142) and we'll talk you through a quick check over the phone, free, before anything gets damaged.
+If your pump has been running constantly for more than a day, don't gamble with it. [Call us at (509) 224-3484](tel:+15092243484) and we'll talk you through a quick check over the phone, free, before anything gets damaged.
 
 ## The 6 Reasons a Well Pump Won't Shut Off
 
@@ -115,7 +115,7 @@ If you can't get a tech out until tomorrow, do this:
 - **If the pump is running and you have little or no water**, shut the breaker off and leave it off. The pump may be running dry, and every hour it runs could be the hour that kills it.
 - **If you hear grinding, smell hot electrical, or see a tripped breaker that won't reset**, leave everything off and don't troubleshoot further.
 
-A pump running constantly overnight isn't a "wait until Monday" problem in July heat with livestock, orchard blocks, or a houseful of kids depending on that well. That's why we run [24/7 emergency well service](/emergency-well-service-wenatchee/) across the valley. No water at 2 a.m.? [Call (509) 555-0142](tel:+15095550142) and you'll get a person, not a voicemail.
+A pump running constantly overnight isn't a "wait until Monday" problem in July heat with livestock, orchard blocks, or a houseful of kids depending on that well. That's why we run [24/7 emergency well service](/emergency-well-service-wenatchee/) across the valley. No water at 2 a.m.? [Call (509) 224-3484](tel:+15092243484) and you'll get a person, not a voicemail.
 
 One more thing. The opposite problem, a pump that clicks on and off every few seconds, has its own set of causes and is just as hard on the motor. If that's what you're hearing, read our piece on [well pump short cycling](/blog/well-pump-short-cycling/) instead.
 

@@ -26,7 +26,7 @@ Here's the short version. The tank itself runs $150 to $900 depending on size an
 
 Pay attention to that drawdown column. A "44 gallon" tank doesn't hold 44 gallons of water you can use. Roughly a third of the tank is water, and only part of that drains out before the pump kicks back on. Lots of folks buy a tank based on the big number on the label and end up undersized.
 
-The most common tank we install around Wenatchee is the 44 gallon size. For a typical 3 bedroom home on a private well, that job usually runs $700 to $950 including the new tank, a tank tee, new pressure switch, gauge, and relief valve. If your tank is failing right now and you want a real number instead of a range, [call us at (509) 555-0142](tel:+15095550142) and we'll give you a free estimate over the phone.
+The most common tank we install around Wenatchee is the 44 gallon size. For a typical 3 bedroom home on a private well, that job usually runs $700 to $950 including the new tank, a tank tee, new pressure switch, gauge, and relief valve. If your tank is failing right now and you want a real number instead of a range, [call us at (509) 224-3484](tel:+15092243484) and we'll give you a free estimate over the phone.
 
 One more line item worth knowing. Constant pressure systems, which use a variable speed pump and a small tank to hold steady pressure, run $2,000 to $5,000 installed. They're a different animal, and worth a look if you're already replacing the pump too.
 
@@ -109,7 +109,7 @@ Also worth saying: any time the system is opened up, it's smart to disinfect and
 
 Last one. Gary in East Wenatchee called us in February after his "new" tank, a bargain unit he'd installed himself in an uninsulated pump shed, split a fitting during a cold snap. The tank swap had saved him maybe $300 over hiring it out. The frozen fitting flooded the shed, killed the pressure switch, and the [emergency call](/well-pump-repair-wenatchee/) on a Sunday ran him $580. DIY is fine. DIY without insulating the pump house in our climate is a gamble.
 
-If you'd rather have it done right the first time, [get your free estimate here](/#contact) or call (509) 555-0142. We're licensed and insured in Washington, we answer 24/7, and we'll quote you a real number before any work starts.
+If you'd rather have it done right the first time, [get your free estimate here](/#contact) or call (509) 224-3484. We're licensed and insured in Washington, we answer 24/7, and we'll quote you a real number before any work starts.
 
 ## Frequently Asked Questions
 

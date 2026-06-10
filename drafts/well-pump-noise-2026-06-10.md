@@ -23,7 +23,7 @@ Before you can decode the sound, you need to know what's making it. Most well sy
 
 **The pipes.** Banging, gurgling, and vibration often come from the plumbing, not the pump. Air in the lines and water hammer are the usual suspects here.
 
-Quick test: stand by the pressure tank with a faucet running and just listen for two minutes. Note when the sound happens. Constant? Only when the pump kicks on? Every 20 to 40 seconds in a loop? That timing matters more than the sound itself, and it's the first thing our techs will ask about. If you'd rather have a pro listen instead, [call us at (509) 555-0142](tel:+15095550142) and we'll talk it through before anyone rolls a truck.
+Quick test: stand by the pressure tank with a faucet running and just listen for two minutes. Note when the sound happens. Constant? Only when the pump kicks on? Every 20 to 40 seconds in a loop? That timing matters more than the sound itself, and it's the first thing our techs will ask about. If you'd rather have a pro listen instead, [call us at (509) 224-3484](tel:+15092243484) and we'll talk it through before anyone rolls a truck.
 
 ## Clicking: The Most Common Well Pump Noise (and Often the Cheapest Fix)
 
@@ -96,7 +96,7 @@ Here's what these repairs typically run in Chelan, Douglas, and Grant counties. 
 
 Two patterns jump out of that table. First, the noises people ignore longest (clicking) have the cheapest fixes. Second, the price of waiting is steep. A $300 switch problem left alone becomes a $2,500 pump problem, because every symptom on this list puts extra wear on the motor.
 
-Age matters too. If your pump is past 12 to 15 years old and making noise, putting repair money into it may not pencil out. We'll tell you straight either way. Our [well pump repair](/well-pump-repair-wenatchee/) techs carry the parts to fix most noise problems in one visit, and if replacement really is the smarter move, you'll get real numbers, not a sales pitch. Estimates are free, so [get yours scheduled here](/#contact) or call [(509) 555-0142](tel:+15095550142). We answer 24/7, because no-water emergencies don't keep business hours.
+Age matters too. If your pump is past 12 to 15 years old and making noise, putting repair money into it may not pencil out. We'll tell you straight either way. Our [well pump repair](/well-pump-repair-wenatchee/) techs carry the parts to fix most noise problems in one visit, and if replacement really is the smarter move, you'll get real numbers, not a sales pitch. Estimates are free, so [get yours scheduled here](/#contact) or call [(509) 224-3484](tel:+15092243484). We answer 24/7, because no-water emergencies don't keep business hours.
 
 One more thing worth doing while a tech is on site: if your system has been sucking air or pumping sediment, have the water checked. The Washington State Department of Health recommends private well owners [test their water at least once a year](https://doh.wa.gov/community-and-environment/drinking-water/private-wells), and a disturbed well is exactly when contamination sneaks in.
 

@@ -13,7 +13,7 @@ If your well water smells like rotten eggs, you're dealing with hydrogen sulfide
 
 In this guide we'll walk through what actually causes that rotten egg smell, how to figure out which of the four common sources you've got, what each fix costs in North Central Washington, and when the smell is a warning sign of something bigger going on in your well. By the end you'll know exactly what to do next, even if that's just one simple test you can run tonight at your kitchen sink.
 
-Want to skip the detective work? [Call us at (509) 555-0142](tel:+15095550142) and we'll test your water and give you a straight answer, usually same week.
+Want to skip the detective work? [Call us at (509) 224-3484](tel:+15092243484) and we'll test your water and give you a straight answer, usually same week.
 
 ## Why Your Well Water Smells Like Rotten Eggs
 
@@ -110,7 +110,7 @@ Most sulfur smells are a nuisance, not a danger. The Washington State Department
 
 Rita in Moses Lake called us last spring because her water suddenly smelled like sulfur and looked cloudy at the same time. The smell wasn't the real problem. Her well cap had cracked over winter and field runoff was getting into the casing. Her coliform test came back positive. We disinfected the well, replaced the cap, and retested clean two weeks later, all for under $900. If she'd just bought a filter for the smell, her family would've kept drinking contaminated water.
 
-If your situation looks anything like Rita's, don't wait on it. Our [emergency well service](/emergency-well-service-wenatchee/) line answers 24/7, and sudden water changes qualify. For everything else, [send us a note](/#contact) and we'll schedule a visit, or call (509) 555-0142 during business hours. Estimates are always free.
+If your situation looks anything like Rita's, don't wait on it. Our [emergency well service](/emergency-well-service-wenatchee/) line answers 24/7, and sudden water changes qualify. For everything else, [send us a note](/#contact) and we'll schedule a visit, or call (509) 224-3484 during business hours. Estimates are always free.
 
 One more thing worth knowing. Sulfur water is hard on well equipment over time. Hydrogen sulfide corrodes steel, copper, and the components inside your pump and pressure switch. If you've lived with sulfur water for years and your pump is acting up, the two might be related. Our [well pump repair](/well-pump-repair-wenatchee/) team sees corrosion-shortened pump life regularly in the sulfur pockets around Quincy and Moses Lake, so treating the water often pays for itself in equipment lifespan alone.
 

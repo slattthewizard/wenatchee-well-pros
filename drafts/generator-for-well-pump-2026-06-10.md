@@ -23,7 +23,7 @@ There's another catch most folks miss. Almost every submersible pump around here
 
 Dale in Cashmere learned this the hard way during the December windstorm in 2024. Power went out for 41 hours across his stretch of the valley. He had a nice 2,200 watt inverter generator in the shop, so he figured he was set. It ran the fridge and some lights fine, but it had no 240 volt outlet and nowhere near the surge capacity for his 1/2 HP pump. His family hauled water in buckets from a neighbor's stock tank for two days. He called us the following week, and now he's got a properly sized 6,500 watt unit and a transfer switch. Total cost was about $2,100 installed, less than one ruined holiday weekend.
 
-Not sure what size pump is in your well? [Call us at (509) 555-0142](tel:+15095550142) and we'll pull it from your well records or check it on site, free of charge. Knowing your pump's horsepower is step one, and guessing wrong is expensive.
+Not sure what size pump is in your well? [Call us at (509) 224-3484](tel:+15092243484) and we'll pull it from your well records or check it on site, free of charge. Knowing your pump's horsepower is step one, and guessing wrong is expensive.
 
 ## What Size Generator to Run a Well Pump: The Numbers
 
@@ -96,7 +96,7 @@ After fifteen plus years working wells from Lake Chelan down to Moses Lake, the 
 
 The Washington Department of Health recommends every household store at least one gallon of water per person per day for emergencies, and on a well that advice matters double. Their [drinking water emergency guidance](https://doh.wa.gov/community-and-environment/drinking-water) is worth a read. Stored water buys you time. A generator buys you normalcy.
 
-And if an outage ends but your water doesn't come back, don't assume the pump is toast. Tripped breakers and pressure switch hangups after power events are common and cheap to fix. Our [24/7 emergency well service](/emergency-well-service-wenatchee/) exists for exactly these moments, and the truck carries the parts that usually fail. You can also [call (509) 555-0142 any hour](tel:+15095550142) and talk to a real tech, not an answering service.
+And if an outage ends but your water doesn't come back, don't assume the pump is toast. Tripped breakers and pressure switch hangups after power events are common and cheap to fix. Our [24/7 emergency well service](/emergency-well-service-wenatchee/) exists for exactly these moments, and the truck carries the parts that usually fail. You can also [call (509) 224-3484 any hour](tel:+15092243484) and talk to a real tech, not an answering service.
 
 ## The Bottom Line on Backup Power for Your Well
 

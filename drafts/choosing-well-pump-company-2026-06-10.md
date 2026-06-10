@@ -13,7 +13,7 @@ Here's the uncomfortable truth. The company you pick in that stressed-out moment
 
 This guide gives you a straight answer. You'll get the exact questions to ask any well pump contractor, the red flags that should send you running, and a simple way to compare quotes so you don't overpay. It works whether your well is in a Cashmere orchard, a Leavenworth hillside, or a wheat parcel outside Quincy.
 
-And if you'd rather skip the homework and talk to a local crew right now, [call (509) 555-0142](tel:+15095550142). We answer 24/7 and estimates are free.
+And if you'd rather skip the homework and talk to a local crew right now, [call (509) 224-3484](tel:+15092243484). We answer 24/7 and estimates are free.
 
 ## Why the Right Well Pump Company Near Me Matters More Than Price
 

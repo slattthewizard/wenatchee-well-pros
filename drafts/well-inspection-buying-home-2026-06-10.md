@@ -90,7 +90,7 @@ On a $500,000 rural property, a $900 inspection package is 0.18% of the purchase
 
 Compare that to what we replace after the fact. A complete pump system replacement is detailed in our [well pump replacement service page](/well-pump-replacement-wenatchee/), and the numbers there make the inspection fee look like pocket change.
 
-Want a firm quote for your specific property? [Call us at (509) 555-0142](tel:+15095550142) with the address and we'll pull the well log before we even schedule.
+Want a firm quote for your specific property? [Call us at (509) 224-3484](tel:+15092243484) with the address and we'll pull the well log before we even schedule.
 
 ## Red Flags That Should Change Your Offer
 

@@ -21,7 +21,7 @@ Most well systems around here are set to run between 40 and 60 psi. The pump kic
 
 A few local factors make this more common in the Wenatchee Valley than elsewhere. Our water is hard and mineral heavy, so scale builds up in pipes and fixtures fast. Summer irrigation pulls water tables down across Chelan, Douglas, and Grant counties. And a lot of homes on the benches and up the Entiat and Wenatchee river drainages have wells that are 30 or 40 years old, with original pumps and tanks that are simply tired.
 
-If you'd rather skip the detective work, [call us at (509) 555-0142](tel:+15095550142) and we'll diagnose it for you. Estimates are free and we're local, so we know what wells in your neighborhood typically look like.
+If you'd rather skip the detective work, [call us at (509) 224-3484](tel:+15092243484) and we'll diagnose it for you. Estimates are free and we're local, so we know what wells in your neighborhood typically look like.
 
 ## Quick Checks You Can Do Yourself (Safely)
 
@@ -137,7 +137,7 @@ A breaker that trips repeatedly means the pump motor is drawing too much current
 
 Water quality matters here too. A system that's been limping along at low pressure, or sat partially drained during repairs, is worth testing afterward. The Washington State Department of Health recommends private well owners [test their water at least annually](https://doh.wa.gov/community-and-environment/drinking-water/private-wells), and pressure work is a natural time to do it.
 
-If you're seeing any of the red flags above, our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles diagnosis and repair across the whole valley, and if your tank is the problem, [pressure tank replacement](/pressure-tank-replacement-wenatchee/) is usually a same-day job. We're licensed and insured in Washington, estimates are free, and we answer the phone 24/7 because no-water emergencies don't keep business hours. Call [(509) 555-0142](tel:+15095550142) and talk to someone who's pulled pumps in your zip code.
+If you're seeing any of the red flags above, our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles diagnosis and repair across the whole valley, and if your tank is the problem, [pressure tank replacement](/pressure-tank-replacement-wenatchee/) is usually a same-day job. We're licensed and insured in Washington, estimates are free, and we answer the phone 24/7 because no-water emergencies don't keep business hours. Call [(509) 224-3484](tel:+15092243484) and talk to someone who's pulled pumps in your zip code.
 
 Low pressure is annoying, but it's also your well system talking to you. Listen early, check the cheap stuff first, and don't let a $200 problem grow into a $4,000 one.
 

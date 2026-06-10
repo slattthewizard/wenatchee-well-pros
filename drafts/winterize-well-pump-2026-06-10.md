@@ -62,7 +62,7 @@ Irrigation lines, frost-free yard hydrants that aren't actually frost-free anymo
 
 ### 7. Make a cold snap plan
 
-Know where your pressure tank shutoff valve is. Know where the well pump breaker is. Tape our number, (509) 555-0142, inside the pump house door. When something freezes at 11 pm on a Friday, you don't want to be figuring this out from scratch.
+Know where your pressure tank shutoff valve is. Know where the well pump breaker is. Tape our number, (509) 224-3484, inside the pump house door. When something freezes at 11 pm on a Friday, you don't want to be figuring this out from scratch.
 
 Gary up in Leavenworth learned step 3 the expensive way two winters ago. His pipe run from the wellhead crossed about 18 feet of unheated crawl space with nothing but 30-year-old fiberglass batts sagging above it. The pipe froze on December 19th, split in two places, and dumped roughly 400 gallons under his house before he noticed the pressure drop. Between the pipe repair, the emergency call, and the crawl space cleanup, he was out about $2,300. The heat tape that would've prevented it: $55.
 
@@ -115,7 +115,7 @@ If you wake up to no water, don't immediately assume the pump died. In winter, a
 
 One warning we have to repeat every winter: never run a pump that isn't moving water. If the line is frozen, the pump can dead-head or run dry, and a submersible pump cooking itself 200 feet down turns a $400 problem into a $3,500 one. If you're not getting water, shut the pump breaker off and call someone.
 
-That someone can be us, any hour. Our [24/7 emergency well service](/emergency-well-service-wenatchee/) covers Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Frozen system at 2 am? [Call (509) 555-0142](tel:+15095550142) and you'll get a human, not a voicemail.
+That someone can be us, any hour. Our [24/7 emergency well service](/emergency-well-service-wenatchee/) covers Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Frozen system at 2 am? [Call (509) 224-3484](tel:+15092243484) and you'll get a human, not a voicemail.
 
 ## When to Handle It Yourself and When to Call
 
