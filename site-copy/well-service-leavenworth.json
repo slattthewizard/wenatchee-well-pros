@@ -1,0 +1,59 @@
+{
+  "slug": "well-service-leavenworth",
+  "city": "Leavenworth",
+  "metaTitle": "Well Pump Repair & Service in Leavenworth, WA | Well Pros",
+  "metaDescription": "Well pump repair, replacement, and pressure tank service in Leavenworth, WA. 24/7 no-water emergency response. Call Wenatchee Well Pros at (509) 555-0142.",
+  "h1": "Well Pump Repair and Service in Leavenworth, WA",
+  "heroSub": "From cabins up the Chumstick to homes out toward Plain and Lake Wenatchee, we keep Leavenworth wells pumping year round. No water? Call (509) 555-0142, day or night.",
+  "introHtml": "<p>Leavenworth wells work harder than most. Up here in the Cascades, a lot of homes sit on deep rock wells drilled hundreds of feet into granite, and the pump hanging at the bottom of that hole takes a beating. Add freezing winters, long driveways, and seasonal cabins that sit empty for months, and small problems have plenty of time to turn into big ones.</p><p>Wenatchee Well Pros handles <a href=\"/well-pump-repair-wenatchee/\">well pump repair</a>, <a href=\"/well-pump-replacement-wenatchee/\">pump replacement</a>, and <a href=\"/pressure-tank-replacement-wenatchee/\">pressure tank service</a> all over the upper valley, from Tumwater Canyon out to Plain, Peshastin, and the Lake Wenatchee area. We're about 25 minutes down Highway 2, we know these mountain wells, and estimates are always free.</p>",
+  "services": [
+    {
+      "title": "Well Pump Repair",
+      "desc": "Weak pressure, short cycling, or a dead pump at your Leavenworth home or cabin? We diagnose the real problem first, and we fix the pump, the wiring, or the control box instead of guessing."
+    },
+    {
+      "title": "Well Pump Replacement",
+      "desc": "Deep rock wells around Leavenworth often run 300 to 600 feet, which is hard on submersible pumps. When yours is done, we pull it and set a properly sized replacement, usually in one day."
+    },
+    {
+      "title": "Pressure Tank Service",
+      "desc": "A waterlogged pressure tank kills pumps fast, especially in vacation homes where nobody notices the clicking. We test, repair, or replace tanks so your pump stops short cycling itself to death."
+    },
+    {
+      "title": "24/7 Emergency No-Water Service",
+      "desc": "No water in January with guests arriving for the weekend is a real Leavenworth problem. Call us any hour and we'll get water flowing again, fast."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Deep Rock Wells in the Cascades",
+      "html": "<p>Most wells around Leavenworth are drilled through fractured granite and bedrock, not the looser soils you see down in the Columbia valley. That usually means deeper wells, lower flow rates, and pumps set a long way down. Pulling a pump from 500 feet isn't a weekend project, and it's not a job for a generic handyman.</p><p>Deep settings also change what can go wrong. Low-yield rock wells are prone to running dry in late summer, which can burn up a pump that doesn't have proper low-water protection. Sediment from fractured rock chews through impellers over time too.</p><p>We size pumps for the actual depth and yield of your well, add dry-run protection where it makes sense, and give you straight numbers before any work starts. If you're budgeting ahead, our <a href=\"/well-pump-cost/\">well pump cost guide</a> breaks down what these jobs typically run.</p>"
+    },
+    {
+      "heading": "Cabins and Vacation Homes With Neglected Wells",
+      "html": "<p>A big share of homes around Leavenworth, Plain, and Lake Wenatchee are second homes or short-term rentals. They sit empty for weeks, then a full house shows up and runs the system hard. Wells don't love that pattern. A pressure tank that lost its air charge in March goes unnoticed until the pump fails in July.</p><p>If you own a vacation place up here, a quick checkup once a year is cheap insurance. We test pressure switch settings, tank charge, amp draw on the pump, and flow at the wellhead. That 30-minute visit catches most failures before your renters do.</p><p>Already have guests standing in a dry shower? That's what our <a href=\"/emergency-well-service-wenatchee/\">emergency well service</a> is for. Call <strong>(509) 555-0142</strong> and we'll head up Highway 2.</p>"
+    },
+    {
+      "heading": "Freeze Protection for Mountain Winters",
+      "html": "<p>Leavenworth winters are no joke. Pipes between the wellhead and the house freeze, pressure switches in unheated well houses ice up, and heat tape that quit two seasons ago finally matters. Most of the no-water calls we get from the upper valley in December and January trace back to freezing, not the pump itself.</p><p>The good news is that freeze problems are mostly preventable. Proper pitless adapters, insulated well houses, working heat tape, and burying lines below frost depth solve almost all of it. We'll inspect your setup in the fall and fix the weak points before the cold locks in.</p><p>If something does freeze and crack, we repair the damage and then fix the cause so you're not making the same call next winter.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you actually come out to Leavenworth, or just Wenatchee?",
+      "a": "We're in Leavenworth all the time. It's about 25 minutes from our shop up Highway 2, and we cover Peshastin, Plain, the Chumstick, and out to Lake Wenatchee too. Same pricing as the rest of our service area, and estimates are free."
+    },
+    {
+      "q": "My Leavenworth cabin sat empty all winter and now there's no water. What happened?",
+      "a": "The usual suspects are a frozen or cracked line, a tripped pressure switch, or a pressure tank that lost its charge while nobody was watching. Sometimes it's the pump, but often it's something simpler and cheaper. Don't keep flipping the breaker, that can cook a struggling pump. Call us and we'll diagnose it properly."
+    },
+    {
+      "q": "How much does it cost to replace a well pump in a deep rock well?",
+      "a": "Deeper wells cost more because they need more wire, more pipe, and often a higher horsepower pump. Around Leavenworth, where 300 to 600 foot wells are common, most submersible replacements land in the $2,500 to $6,000 range installed. We quote the exact number before we touch anything, and our well pump cost guide has a full breakdown."
+    },
+    {
+      "q": "Can a Leavenworth well run dry in summer?",
+      "a": "Low-yield rock wells up here can drop off in late summer, especially in dry years. That doesn't always mean the well is dead. Options include lowering the pump, adding a storage tank, or installing dry-run protection so the pump shuts off instead of burning up. We'll test your well's recovery rate and tell you what's realistic."
+    }
+  ]
+}

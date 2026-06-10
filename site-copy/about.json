@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About Wenatchee Well Pros | Well Pump Experts in North Central WA",
+  "metaDescription": "Meet Wenatchee Well Pros, a local crew fixing well pumps and pressure tanks across Chelan, Douglas, and Grant counties. Fast response, honest written estimates.",
+  "h1": "A Local Crew That Hates Seeing You Without Water",
+  "heroSub": "We're well pump techs from right here in the Wenatchee Valley. We show up fast, explain things in plain English, and put every estimate in writing before we touch a thing.",
+  "storyHtml": "<p>Wenatchee Well Pros started the way a lot of good local businesses do, out of frustration. Our founders spent years working on wells across North Central Washington and kept seeing the same thing. A family loses water on a Friday, calls around, and gets told someone might make it out Tuesday. Days without water, in a region where summer hits triple digits and winter freezes pipes solid. That didn't sit right with us, so we built a company around fixing it.</p><p>Today we serve homeowners and orchardists from <a href=\"/well-service-leavenworth/\">Leavenworth</a> and <a href=\"/well-service-cashmere/\">Cashmere</a> down the valley through Wenatchee and <a href=\"/well-service-east-wenatchee/\">East Wenatchee</a>, up to <a href=\"/well-service-chelan/\">Lake Chelan</a>, and out across the Columbia Basin to <a href=\"/well-service-quincy/\">Quincy</a> and <a href=\"/well-service-moses-lake/\">Moses Lake</a>. We know this country. Deep basalt wells, long pump sets, hard water, irrigation systems that can't afford downtime during the growing season.</p><p>Most of our work is <a href=\"/well-pump-repair-wenatchee/\">well pump repair</a>, <a href=\"/well-pump-replacement-wenatchee/\">pump replacement</a>, and <a href=\"/pressure-tank-replacement-wenatchee/\">pressure tank service</a>, plus <a href=\"/emergency-well-service-wenatchee/\">24/7 emergency calls</a> when the water just stops. We're licensed and insured in Washington, and estimates are always free.</p><p>Here's the simple version of how we operate. We answer the phone. We tell you what's wrong in words that make sense. We hand you a written price before we start. And we never sell you a new pump when a $40 part will fix the one you've got.</p>",
+  "values": [
+    {
+      "title": "Show Up Fast",
+      "desc": "No water is an emergency, not an inconvenience. We run 24/7 emergency service because a house without water can't wait until Tuesday."
+    },
+    {
+      "title": "Plain English, Always",
+      "desc": "You'll know exactly what failed, why it failed, and what your options are. No jargon, no scare tactics, no mystery line items."
+    },
+    {
+      "title": "Written Estimates Before Work",
+      "desc": "You get a clear price in writing before we pick up a wrench. If something changes once we're in the well, we stop and talk to you first."
+    },
+    {
+      "title": "No Upsells",
+      "desc": "If a repair will do the job, we repair it. We'll only recommend a replacement when the math actually favors it, and we'll show you that math."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What areas do you serve?",
+      "a": "We cover North Central Washington, including Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy, and Moses Lake. That's most of Chelan, Douglas, and Grant counties. If you're on a private well in that area, give us a call at (509) 555-0142."
+    },
+    {
+      "q": "Do you charge for estimates?",
+      "a": "No. Estimates are free, and you get them in writing before any work starts. If you want a ballpark first, our well pump cost guide at /well-pump-cost/ breaks down typical repair and replacement prices."
+    },
+    {
+      "q": "Are you available for emergencies?",
+      "a": "Yes, 24/7. If your water stops at 2 a.m. or on a holiday weekend, call us. Most no-water calls in our service area get a tech the same day."
+    }
+  ]
+}

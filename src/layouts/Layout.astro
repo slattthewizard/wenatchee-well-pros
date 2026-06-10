@@ -1,0 +1,365 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  ogImage?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  ogTitle,
+  ogDescription,
+  ogImage = 'https://wenatcheewellpros.com/images/og-image.webp',
+} = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={ogTitle ?? title} />
+  <meta property="og:description" content={ogDescription ?? description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:site_name" content="Wenatchee Well Pros" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={ogTitle ?? title} />
+  <meta name="twitter:description" content={ogDescription ?? description} />
+  <meta name="twitter:image" content={ogImage} />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap"></noscript>
+
+  <!-- Shared base styles -->
+  <style is:global>
+    :root {
+      --deep: #08344B;       /* darkest blue */
+      --primary: #0E4D6E;    /* brand blue */
+      --mid: #16648C;        /* lighter brand blue */
+      --sky: #8FD0EA;        /* accent sky */
+      --copper: #B96A2C;     /* warm accent */
+      --cream: #F6F3ED;      /* light background */
+      --charcoal: #333A3F;   /* body text */
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', 'Segoe UI', Arial, sans-serif; color: #333A3F; background: #fff; margin: 0; }
+
+    .container { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+
+    /* Nav */
+    .nav-link {
+      position: relative; font-weight: 500; font-size: 14px; letter-spacing: 0.04em;
+      text-transform: uppercase; color: #333A3F; text-decoration: none; transition: color 0.2s;
+    }
+    .nav-link::after {
+      content: ''; position: absolute; bottom: -3px; left: 0; right: 0; height: 2px;
+      background: #0E4D6E; transform: scaleX(0); transform-origin: left;
+      transition: transform 0.25s cubic-bezier(0.34, 1.2, 0.64, 1);
+    }
+    .nav-link:hover { color: #0E4D6E; }
+    .nav-link:hover::after { transform: scaleX(1); }
+    .nav-link:focus-visible { outline: 2px solid #0E4D6E; outline-offset: 4px; border-radius: 2px; }
+
+    /* Dropdowns */
+    .dropdown-open .svc-dropdown { opacity:1 !important; visibility:visible !important; transform:translateY(0) !important; }
+    .dropdown-open svg { transform: rotate(180deg); }
+    .areas-open .areas-dropdown { opacity:1 !important; visibility:visible !important; transform:translateY(0) !important; }
+    .areas-open svg { transform: rotate(180deg); }
+    .dropdown-link { display: flex; align-items: center; padding: 10px 18px; min-height: 44px; font-size: 14px; color: #333A3F; text-decoration: none; transition: background-color 0.2s, color 0.2s; outline: none; }
+    .dropdown-link:hover { background-color: #F6F3ED; color: #0E4D6E; }
+    .dropdown-link:focus-visible { background-color: #F6F3ED; color: #0E4D6E; box-shadow: inset 2px 0 0 0 #0E4D6E; }
+    .dropdown-link:active { opacity: 0.7; }
+
+    /* Buttons */
+    .btn-primary {
+      display: inline-flex; align-items: center; gap: 8px; background: #0E4D6E; color: #F6F3ED;
+      font-family: 'Inter', sans-serif; font-weight: 600; font-size: 14px; letter-spacing: 0.06em;
+      text-transform: uppercase; padding: 14px 28px; border: 2px solid #0E4D6E; border-radius: 4px;
+      cursor: pointer; text-decoration: none; transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+      box-shadow: 0 4px 14px rgba(14,77,110,0.25), 0 1px 3px rgba(14,77,110,0.15);
+    }
+    .btn-primary:hover { background: #16648C; box-shadow: 0 6px 20px rgba(14,77,110,0.35); transform: translateY(-1px); }
+    .btn-primary:active { transform: translateY(0); box-shadow: 0 2px 8px rgba(14,77,110,0.2); }
+    .btn-primary:focus-visible { outline: 2px solid #8FD0EA; outline-offset: 3px; }
+
+    .btn-copper {
+      display: inline-flex; align-items: center; gap: 8px; background: #B96A2C; color: #F6F3ED;
+      font-family: 'Inter', sans-serif; font-weight: 600; font-size: 14px; letter-spacing: 0.06em;
+      text-transform: uppercase; padding: 13px 28px; border: 2px solid #B96A2C; border-radius: 4px;
+      cursor: pointer; text-decoration: none; transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+      box-shadow: 0 4px 14px rgba(185,106,44,0.25);
+    }
+    .btn-copper:hover { background: #CE7E3D; box-shadow: 0 6px 20px rgba(185,106,44,0.35); transform: translateY(-1px); }
+    .btn-copper:active { transform: translateY(0); }
+    .btn-copper:focus-visible { outline: 2px solid #8FD0EA; outline-offset: 3px; }
+
+    .btn-outline-white {
+      display: inline-flex; align-items: center; gap: 8px; background: transparent; color: #F6F3ED;
+      font-family: 'Inter', sans-serif; font-weight: 600; font-size: 14px; letter-spacing: 0.06em;
+      text-transform: uppercase; padding: 12px 28px; border: 2px solid rgba(246,243,237,0.7);
+      border-radius: 4px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, border-color 0.2s, transform 0.15s;
+    }
+    .btn-outline-white:hover { background: rgba(246,243,237,0.15); border-color: #F6F3ED; transform: translateY(-1px); }
+    .btn-outline-white:active { transform: translateY(0); }
+    .btn-outline-white:focus-visible { outline: 2px solid #8FD0EA; outline-offset: 3px; }
+
+    .btn-cream {
+      display: inline-flex; align-items: center; gap: 8px; background: #F6F3ED; color: #0E4D6E;
+      font-family: 'Inter', sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 0.06em;
+      text-transform: uppercase; padding: 14px 32px; border: 2px solid #F6F3ED; border-radius: 4px;
+      cursor: pointer; text-decoration: none; transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+    }
+    .btn-cream:hover { background: #fff; transform: translateY(-1px); box-shadow: 0 6px 20px rgba(0,0,0,0.2); }
+    .btn-cream:active { transform: translateY(0); }
+    .btn-cream:focus-visible { outline: 2px solid #8FD0EA; outline-offset: 3px; }
+
+    /* Footer */
+    .footer-link {
+      font-size: 14px; color: rgba(246,243,237,0.65); text-decoration: none;
+      transition: color 0.2s, opacity 0.2s; outline: none; display: inline-block;
+    }
+    .footer-link:hover { color: #F6F3ED; }
+    .footer-link:focus-visible { outline: 2px solid #8FD0EA; outline-offset: 2px; border-radius: 2px; color: #F6F3ED; }
+    .footer-link:active { opacity: 0.7; }
+
+    /* Typography helpers */
+    .section-tag {
+      display: inline-block; font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600;
+      letter-spacing: 0.14em; text-transform: uppercase; color: #B96A2C; margin-bottom: 10px;
+    }
+    .section-heading {
+      font-family: 'Zilla Slab', Georgia, serif; font-weight: 700; color: #0E4D6E;
+      line-height: 1.1; letter-spacing: -0.02em;
+    }
+
+    /* Animations */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(28px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .fade-up { animation: fadeUp 0.8s cubic-bezier(0.34, 1.2, 0.64, 1) both; }
+    .delay-1 { animation-delay: 0.15s; }
+    .delay-2 { animation-delay: 0.30s; }
+    .delay-3 { animation-delay: 0.45s; }
+
+    /* Mobile nav */
+    #mobile-menu { display: none; }
+    #mobile-menu.open { display: block; }
+    .desktop-nav { display: none; }
+    .menu-btn { display: inline-flex; }
+    @media (min-width: 900px) {
+      .desktop-nav { display: flex; }
+      .menu-btn { display: none; }
+      .desktop-cta { display: inline-flex !important; }
+    }
+
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #F6F3ED; }
+    ::-webkit-scrollbar-thumb { background: #0E4D6E; border-radius: 3px; }
+  </style>
+
+  <!-- Page-specific head content (schema, extra styles) -->
+  <slot name="head" />
+
+  <script>document.addEventListener('click',function(e){document.querySelectorAll('.dropdown-open').forEach(function(d){if(!d.contains(e.target))d.classList.remove('dropdown-open')});document.querySelectorAll('.areas-open').forEach(function(d){if(!d.contains(e.target))d.classList.remove('areas-open')})});</script>
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div style="background:#08344B;padding:8px 24px;">
+  <div style="max-width:1180px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;">
+    <div style="display:flex;align-items:center;gap:24px;color:#F6F3ED;font-size:12px;font-weight:500;letter-spacing:0.03em;">
+      <a href="tel:+15095550142" style="display:flex;align-items:center;gap:6px;color:#F6F3ED;text-decoration:none;">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        (509) 555-0142
+      </a>
+      <span style="display:flex;align-items:center;gap:6px;">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        24/7 Emergency No-Water Service
+      </span>
+    </div>
+    <span style="color:rgba(246,243,237,0.75);font-size:12px;">Serving North Central Washington</span>
+  </div>
+</div>
+
+<!-- STICKY HEADER -->
+<header style="position:sticky;top:0;z-index:100;background:#fff;border-bottom:1px solid #e3ded4;box-shadow:0 2px 12px rgba(14,77,110,0.07),0 1px 3px rgba(0,0,0,0.04);">
+  <div style="max-width:1180px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:72px;">
+    <!-- Logo -->
+    <a href="/" style="display:flex;align-items:center;gap:10px;text-decoration:none;" aria-label="Wenatchee Well Pros home">
+      <svg width="36" height="36" viewBox="0 0 36 36" fill="none" aria-hidden="true">
+        <circle cx="18" cy="18" r="17" fill="#0E4D6E"/>
+        <path d="M18 7 C 13 13.5, 10.5 17, 10.5 21 a 7.5 7.5 0 0 0 15 0 C 25.5 17, 23 13.5, 18 7 Z" fill="#8FD0EA"/>
+        <path d="M14.5 21.5 a 3.5 3.5 0 0 0 7 0" stroke="#0E4D6E" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      </svg>
+      <span style="display:flex;flex-direction:column;line-height:1.05;">
+        <span style="font-family:'Zilla Slab',Georgia,serif;font-weight:700;font-size:19px;color:#0E4D6E;letter-spacing:-0.01em;">Wenatchee Well Pros</span>
+        <span style="font-size:10px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:#B96A2C;">Well Pump &amp; Water Systems</span>
+      </span>
+    </a>
+
+    <!-- Desktop Nav -->
+    <nav class="desktop-nav" style="align-items:center;gap:28px;">
+      <div style="position:relative;">
+        <button onclick="this.parentElement.classList.toggle('dropdown-open')" class="nav-link" style="background:none;border:none;cursor:pointer;font-family:'Inter',sans-serif;font-weight:500;font-size:14px;letter-spacing:0.04em;text-transform:uppercase;color:#333A3F;display:flex;align-items:center;gap:4px;padding:8px 0;min-height:44px;">
+          Services
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s;"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="svc-dropdown" style="position:absolute;top:calc(100% + 8px);left:0;min-width:260px;background:#fff;border-radius:10px;box-shadow:0 4px 24px rgba(0,0,0,0.12),0 1px 4px rgba(0,0,0,0.06);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;">
+          <a href="/well-pump-repair-wenatchee/" class="dropdown-link">Well Pump Repair</a>
+          <a href="/well-pump-replacement-wenatchee/" class="dropdown-link">Well Pump Replacement</a>
+          <a href="/pressure-tank-replacement-wenatchee/" class="dropdown-link">Pressure Tank Service</a>
+          <a href="/emergency-well-service-wenatchee/" class="dropdown-link">Emergency No-Water Service</a>
+        </div>
+      </div>
+      <div style="position:relative;">
+        <button onclick="this.parentElement.classList.toggle('areas-open')" class="nav-link" style="background:none;border:none;cursor:pointer;font-family:'Inter',sans-serif;font-weight:500;font-size:14px;letter-spacing:0.04em;text-transform:uppercase;color:#333A3F;display:flex;align-items:center;gap:4px;padding:8px 0;min-height:44px;">
+          Service Areas
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s;"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="areas-dropdown" style="position:absolute;top:calc(100% + 8px);left:0;min-width:230px;background:#fff;border-radius:10px;box-shadow:0 4px 24px rgba(0,0,0,0.12),0 1px 4px rgba(0,0,0,0.06);padding:8px 0;opacity:0;visibility:hidden;transform:translateY(-8px);transition:opacity 0.2s,transform 0.2s,visibility 0.2s;z-index:100;">
+          <a href="/well-service-east-wenatchee/" class="dropdown-link">East Wenatchee</a>
+          <a href="/well-service-cashmere/" class="dropdown-link">Cashmere</a>
+          <a href="/well-service-leavenworth/" class="dropdown-link">Leavenworth</a>
+          <a href="/well-service-chelan/" class="dropdown-link">Lake Chelan</a>
+          <a href="/well-service-quincy/" class="dropdown-link">Quincy</a>
+          <a href="/well-service-moses-lake/" class="dropdown-link">Moses Lake</a>
+        </div>
+      </div>
+      <a href="/well-pump-cost/" class="nav-link">Cost Guide</a>
+      <a href="/about/" class="nav-link">About</a>
+      <a href="/blog/" class="nav-link">Blog</a>
+      <a href="/#contact" class="nav-link">Contact</a>
+    </nav>
+
+    <!-- CTA -->
+    <div class="desktop-cta" style="display:none;align-items:center;gap:12px;">
+      <a href="/#contact" class="btn-primary" style="padding:10px 22px;font-size:13px;">Free Estimate</a>
+    </div>
+
+    <!-- Mobile hamburger -->
+    <button class="menu-btn" onclick="document.getElementById('mobile-menu').classList.toggle('open')" aria-label="Toggle menu" style="background:none;border:none;cursor:pointer;padding:12px;min-width:44px;min-height:44px;color:#333A3F;">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+  </div>
+
+  <!-- Mobile Nav -->
+  <div id="mobile-menu" style="border-top:1px solid #e3ded4;background:#fff;">
+    <nav style="display:flex;flex-direction:column;padding:16px 24px;gap:14px;">
+      <a href="/well-pump-repair-wenatchee/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Well Pump Repair</a>
+      <a href="/well-pump-replacement-wenatchee/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Well Pump Replacement</a>
+      <a href="/pressure-tank-replacement-wenatchee/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Pressure Tank Service</a>
+      <a href="/emergency-well-service-wenatchee/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Emergency Service</a>
+      <a href="/well-pump-cost/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Cost Guide</a>
+      <a href="/about/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">About</a>
+      <a href="/blog/" class="nav-link" onclick="document.getElementById('mobile-menu').classList.remove('open')">Blog</a>
+      <a href="/#contact" class="btn-primary" style="width:fit-content;font-size:13px;padding:10px 20px;" onclick="document.getElementById('mobile-menu').classList.remove('open')">Free Estimate</a>
+    </nav>
+  </div>
+</header>
+
+<!-- PAGE CONTENT -->
+<slot />
+
+<!-- FOOTER -->
+<footer style="background:#08344B;color:rgba(246,243,237,0.75);padding:64px 24px 0;">
+  <div style="max-width:1180px;margin:0 auto;">
+    <div class="footer-grid" style="display:grid;grid-template-columns:2fr 1fr 1fr 1.5fr;gap:48px;padding-bottom:48px;border-bottom:1px solid rgba(246,243,237,0.1);">
+      <!-- Brand -->
+      <div>
+        <p style="font-family:'Zilla Slab',Georgia,serif;font-size:20px;font-weight:700;color:#F6F3ED;margin:0 0 12px;">Wenatchee Well Pros</p>
+        <p style="font-size:14px;line-height:1.8;max-width:300px;margin-bottom:20px;">Well pump repair, replacement, and water system service for Wenatchee and North Central Washington. Licensed, insured, and on call 24/7 for no-water emergencies.</p>
+      </div>
+      <!-- Services -->
+      <div>
+        <p style="font-family:'Zilla Slab',Georgia,serif;font-size:16px;font-weight:700;color:#F6F3ED;margin-bottom:16px;letter-spacing:0.02em;">Services</p>
+        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
+          <li><a href="/well-pump-repair-wenatchee/" class="footer-link">Well Pump Repair</a></li>
+          <li><a href="/well-pump-replacement-wenatchee/" class="footer-link">Well Pump Replacement</a></li>
+          <li><a href="/pressure-tank-replacement-wenatchee/" class="footer-link">Pressure Tank Service</a></li>
+          <li><a href="/emergency-well-service-wenatchee/" class="footer-link">Emergency No-Water Service</a></li>
+          <li><a href="/well-pump-cost/" class="footer-link">Well Pump Cost Guide</a></li>
+        </ul>
+      </div>
+      <!-- Service Areas -->
+      <div>
+        <p style="font-family:'Zilla Slab',Georgia,serif;font-size:16px;font-weight:700;color:#F6F3ED;margin-bottom:16px;letter-spacing:0.02em;">Service Areas</p>
+        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px;">
+          <li><a href="/well-service-east-wenatchee/" class="footer-link">East Wenatchee</a></li>
+          <li><a href="/well-service-cashmere/" class="footer-link">Cashmere</a></li>
+          <li><a href="/well-service-leavenworth/" class="footer-link">Leavenworth</a></li>
+          <li><a href="/well-service-chelan/" class="footer-link">Lake Chelan</a></li>
+          <li><a href="/well-service-quincy/" class="footer-link">Quincy</a></li>
+          <li><a href="/well-service-moses-lake/" class="footer-link">Moses Lake</a></li>
+        </ul>
+      </div>
+      <!-- Contact -->
+      <div>
+        <p style="font-family:'Zilla Slab',Georgia,serif;font-size:16px;font-weight:700;color:#F6F3ED;margin-bottom:16px;letter-spacing:0.02em;">Contact</p>
+        <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px;">
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#8FD0EA;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.5 12 19.79 19.79 0 0 1 1.1 3.18a2 2 0 0 1 2-2.18h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.27a16 16 0 0 0 7.82 7.82l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <a href="tel:+15095550142" class="footer-link">(509) 555-0142</a>
+          </li>
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#8FD0EA;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="2,4 12,13 22,4"/></svg>
+            <a href="mailto:info@wenatcheewellpros.com" class="footer-link">info@wenatcheewellpros.com</a>
+          </li>
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#8FD0EA;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <span style="font-size:14px;color:rgba(246,243,237,0.65);">Wenatchee, WA &amp; North Central Washington</span>
+          </li>
+          <li style="display:flex;align-items:flex-start;gap:10px;">
+            <svg width="15" height="15" style="flex-shrink:0;margin-top:2px;color:#8FD0EA;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span style="font-size:14px;color:rgba(246,243,237,0.65);">Mon–Sat 7am–6pm<br>24/7 Emergency Line</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!-- Bottom bar -->
+    <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;padding:20px 0;font-size:13px;color:rgba(246,243,237,0.7);">
+      <span>© 2026 Wenatchee Well Pros. All rights reserved. Licensed &amp; Insured in Washington.</span>
+      <div style="display:flex;gap:20px;">
+        <a href="/privacy/" class="footer-link">Privacy Policy</a>
+        <a href="/terms/" class="footer-link">Terms of Service</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Footer responsive styles -->
+<style>
+  @media (max-width: 900px) {
+    .footer-grid { grid-template-columns: 1fr 1fr !important; gap: 32px !important; }
+  }
+  @media (max-width: 600px) {
+    .footer-grid { grid-template-columns: 1fr !important; }
+  }
+</style>
+
+</body>
+</html>
