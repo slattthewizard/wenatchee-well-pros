@@ -122,6 +122,16 @@ const {
     .btn-white-outline:hover { background: rgba(255,255,255,0.22); transform: translateY(-1px); }
     .btn-white-outline:active { transform: translateY(0); }
     .btn-white-outline:focus-visible { outline: 3px solid #BFE0F2; outline-offset: 2px; }
+    /* alias: inner pages use the reversed class name */
+    .btn-outline-white {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      background: rgba(255,255,255,0.12); color: #fff; font-family: 'Nunito Sans', sans-serif;
+      font-weight: 700; font-size: 14px; padding: 13px 30px;
+      border: 2px solid rgba(255,255,255,0.8); border-radius: 999px; cursor: pointer; text-decoration: none;
+      transition: background 0.2s, transform 0.15s; backdrop-filter: blur(2px);
+    }
+    .btn-outline-white:hover { background: rgba(255,255,255,0.22); transform: translateY(-1px); }
+    .btn-outline-white:focus-visible { outline: 3px solid #BFE0F2; outline-offset: 2px; }
 
     /* Curved divider under heroes */
     .swoosh { display: block; width: 100%; height: 70px; margin-top: -1px; }
@@ -382,6 +392,160 @@ const {
     .footer-grid { grid-template-columns: 1fr !important; }
   }
 </style>
+
+<!-- Mobile sticky call bar + desktop blog slide-in -->
+<style>
+  .wwp-bar-mobile {
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 9000;
+    background: #0A3D5C; color: #fff;
+    padding: 12px 16px calc(14px + env(safe-area-inset-bottom, 0px));
+    font-family: 'Nunito Sans', system-ui, sans-serif; font-size: 14px; line-height: 1.3;
+    box-shadow: 0 -3px 16px rgba(0,0,0,0.22);
+    transform: translateY(100%); transition: transform 0.35s cubic-bezier(0.25,0.46,0.45,0.94);
+    will-change: transform; display: none;
+  }
+  @media (max-width: 767px) { .wwp-bar-mobile { display: flex; align-items: center; gap: 10px; } }
+  .wwp-bar-mobile.wwp-bar-visible { transform: translateY(0); }
+  .wwp-bar-mobile.wwp-bar-near-contact { transform: translateY(100%); }
+  .wwp-bar-label { flex: 1 1 auto; font-weight: 700; font-size: 13px; }
+  .wwp-bar-label span { display: block; font-weight: 400; font-size: 11px; opacity: 0.82; margin-top: 1px; }
+  .wwp-bar-cta {
+    display: inline-flex; align-items: center; gap: 6px; flex-shrink: 0;
+    background: #2FA34D; color: #fff; text-decoration: none; font-family: inherit;
+    font-size: 13px; font-weight: 800; border-radius: 999px; padding: 9px 16px;
+    white-space: nowrap; -webkit-tap-highlight-color: transparent;
+    transition: background 0.18s, transform 0.1s;
+  }
+  .wwp-bar-cta:active { background: #258c40; transform: scale(0.97); }
+  .wwp-bar-dismiss {
+    flex-shrink: 0; display: flex; align-items: center; justify-content: center;
+    width: 28px; height: 28px; border-radius: 50%;
+    border: 1.5px solid rgba(255,255,255,0.35); background: transparent;
+    color: rgba(255,255,255,0.75); font-size: 16px; line-height: 1; cursor: pointer; font-family: inherit;
+  }
+  .wwp-bar-dismiss:focus-visible { outline: 2px solid rgba(255,255,255,0.6); outline-offset: 2px; }
+  .wwp-bar-desktop-slide {
+    position: fixed; bottom: 28px; right: 24px; z-index: 8900; width: 290px;
+    background: #fff; border-left: 4px solid #2FA34D; border-radius: 10px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.14); padding: 18px 18px 16px;
+    font-family: 'Nunito Sans', system-ui, sans-serif; color: #0A3D5C;
+    transform: translateX(calc(100% + 32px)); transition: transform 0.4s cubic-bezier(0.25,0.46,0.45,0.94);
+    will-change: transform; display: none;
+  }
+  @media (min-width: 768px) { .wwp-bar-desktop-slide { display: block; } }
+  .wwp-bar-desktop-slide.wwp-bar-visible { transform: translateX(0); }
+</style>
+
+<div class="wwp-bar-mobile" id="wwpMobileBar" role="complementary" aria-label="Emergency call bar" aria-hidden="true">
+  <div class="wwp-bar-label">No water? Call now<span>24/7 Emergency · Fast Response</span></div>
+  <a href="tel:+15092243484" class="wwp-bar-cta" aria-label="Call Wenatchee Well Pros at (509) 224-3484">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1L6.6 10.8z"/></svg>
+    (509) 224-3484
+  </a>
+  <button class="wwp-bar-dismiss" id="wwpMobileBarDismiss" aria-label="Dismiss call bar" type="button">×</button>
+</div>
+
+<div class="wwp-bar-desktop-slide" id="wwpDesktopSlide" role="complementary" aria-label="Cost guide offer" aria-hidden="true">
+  <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:10px;">
+    <p style="font-size:14px;font-weight:800;line-height:1.3;margin:0;">Wondering what repairs cost?</p>
+    <button id="wwpDesktopSlideDismiss" aria-label="Dismiss cost guide offer" type="button" style="flex-shrink:0;display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;border:1.5px solid #c8d8e3;background:transparent;color:#6a8799;font-size:14px;line-height:1;cursor:pointer;font-family:inherit;">×</button>
+  </div>
+  <p style="font-size:12px;color:#4a6478;margin:0 0 14px;line-height:1.45;">See real price ranges for well pump repair &amp; replacement in Wenatchee — no form required.</p>
+  <a href="/well-pump-cost/" style="display:inline-flex;align-items:center;gap:5px;background:#0A3D5C;color:#fff;text-decoration:none;font-family:inherit;font-size:12px;font-weight:700;border-radius:999px;padding:8px 14px;white-space:nowrap;">View Cost Guide →</a>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  function scrollPct() {
+    var el = document.documentElement;
+    var s = (window.scrollY || el.scrollTop), m = el.scrollHeight - el.clientHeight;
+    return m > 0 ? s / m : 0;
+  }
+  function nearContact() {
+    var sec = document.querySelector('#contact');
+    if (!sec) return false;
+    var r = sec.getBoundingClientRect();
+    return r.top < window.innerHeight + 120 && r.bottom > -120;
+  }
+  // Mobile bar
+  var bar = document.getElementById('wwpMobileBar');
+  var barX = document.getElementById('wwpMobileBarDismiss');
+  if (bar && barX && !sessionStorage.getItem('wwp_bar_dismissed')) {
+    var shown = false, dismissed = false, t1 = false;
+    function update() {
+      if (dismissed) return;
+      if (!shown && scrollPct() >= 0.25) { shown = true; bar.classList.add('wwp-bar-visible'); bar.setAttribute('aria-hidden', 'false'); }
+      if (shown) bar.classList.toggle('wwp-bar-near-contact', nearContact());
+    }
+    window.addEventListener('scroll', function () {
+      if (!t1) { requestAnimationFrame(function () { update(); t1 = false; }); t1 = true; }
+    }, { passive: true });
+    barX.addEventListener('click', function () {
+      dismissed = true; sessionStorage.setItem('wwp_bar_dismissed', '1');
+      bar.classList.remove('wwp-bar-visible'); bar.setAttribute('aria-hidden', 'true');
+    });
+  }
+  // Desktop blog slide-in
+  var slide = document.getElementById('wwpDesktopSlide');
+  var slideX = document.getElementById('wwpDesktopSlideDismiss');
+  var onBlog = location.pathname.indexOf('/blog/') === 0 && location.pathname !== '/blog/';
+  if (slide && slideX && onBlog && !sessionStorage.getItem('wwp_slide_dismissed')) {
+    var sShown = false, t2 = false;
+    window.addEventListener('scroll', function () {
+      if (!t2) { requestAnimationFrame(function () {
+        if (!sShown && scrollPct() >= 0.6) { sShown = true; slide.classList.add('wwp-bar-visible'); slide.setAttribute('aria-hidden', 'false'); }
+        t2 = false;
+      }); t2 = true; }
+    }, { passive: true });
+    slideX.addEventListener('click', function () {
+      sessionStorage.setItem('wwp_slide_dismissed', '1');
+      slide.classList.remove('wwp-bar-visible'); slide.setAttribute('aria-hidden', 'true');
+    });
+  }
+})();
+</script>
+
+<!-- GA4 (set GA_ID to enable) + lightweight event tracking -->
+<script>
+(function () {
+  var GA_ID = ''; // TODO: set to the GA4 Measurement ID (G-XXXXXXXXXX) to enable analytics
+  if (GA_ID) {
+    function loadGA() {
+      var s = document.createElement('script');
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+      s.async = true;
+      document.head.appendChild(s);
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){ dataLayer.push(arguments); };
+      gtag('js', new Date());
+      gtag('config', GA_ID, { anonymize_ip: true });
+    }
+    if ('requestIdleCallback' in window) requestIdleCallback(loadGA, { timeout: 4000 });
+    else setTimeout(loadGA, 3500);
+  }
+  function track(name, params) {
+    if (typeof window.gtag === 'function') window.gtag('event', name, params);
+  }
+  document.addEventListener('click', function (e) {
+    var tel = e.target.closest('a[href^="tel:"]');
+    if (tel) {
+      track('phone_click', { link_text: tel.textContent.trim().slice(0, 100), page_path: location.pathname });
+      return;
+    }
+    var btn = e.target.closest('a.btn-green, a.btn-blue, a.btn-primary, a.btn-copper, a.btn-bark, a.btn-cream, a.btn-white-outline, a.btn-outline-white');
+    if (btn) track('cta_click', { button_text: btn.textContent.trim().slice(0, 100), link_url: btn.getAttribute('href') || '', page_path: location.pathname });
+  });
+  var started = false;
+  document.addEventListener('focusin', function (e) {
+    if (started) return;
+    if (e.target.closest('#contact-form')) { started = true; track('form_start', { form_name: 'estimate_request', page_path: location.pathname }); }
+  });
+  document.addEventListener('submit', function (e) {
+    if (e.target.closest('#contact-form')) track('form_submit', { form_name: 'estimate_request', page_path: location.pathname });
+  });
+})();
+</script>
 
 </body>
 </html>

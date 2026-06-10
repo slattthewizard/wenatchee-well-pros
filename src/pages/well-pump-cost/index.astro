@@ -115,6 +115,164 @@ import Layout from '../../layouts/Layout.astro';
   </div>
 </section>
 
+<!-- WELL PUMP COST ESTIMATOR -->
+<section class="wwp-calc-wrap" aria-labelledby="wwp-calc-heading" style="padding:0 24px 64px;">
+<style>
+.wwp-calc-inner { max-width: 860px; margin: 0 auto; }
+.wwp-calc-card { background: #EAF5FB; border: 1px solid #b8d9ed; border-radius: 14px; padding: 36px 40px; }
+@media (max-width: 600px) { .wwp-calc-card { padding: 24px 20px; } }
+.wwp-calc-eyebrow { display: inline-block; margin-bottom: 10px; padding: 4px 12px; border-radius: 999px; font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; background: #2FA34D; color: #fff; }
+.wwp-calc-heading { font-family: 'Nunito Sans', sans-serif; font-size: clamp(22px,3vw,30px); font-weight: 800; color: #0A3D5C; margin: 0 0 6px; line-height: 1.15; }
+.wwp-calc-subhead { font-size: 15px; color: #4a6070; margin: 0 0 28px; line-height: 1.6; }
+.wwp-calc-fieldset { border: none; padding: 0; margin: 0 0 24px; }
+.wwp-calc-legend { font-size: 14px; font-weight: 700; color: #0A3D5C; margin-bottom: 10px; display: block; }
+.wwp-calc-options { display: flex; flex-wrap: wrap; gap: 10px; list-style: none; padding: 0; margin: 0; }
+.wwp-calc-options input[type="radio"] { position: absolute; opacity: 0; width: 0; height: 0; }
+.wwp-calc-options label { display: inline-block; padding: 9px 16px; border-radius: 999px; border: 2px solid #b8d9ed; background: #fff; font-size: 14px; font-weight: 600; color: #0A3D5C; cursor: pointer; transition: border-color 0.15s, background 0.15s, color 0.15s; user-select: none; line-height: 1.3; }
+.wwp-calc-options label:hover { border-color: #1273A8; background: #f0f8ff; }
+.wwp-calc-options input[type="radio"]:checked + label { border-color: #1273A8; background: #1273A8; color: #fff; }
+.wwp-calc-options input[type="radio"]:focus-visible + label { outline: 3px solid #2FA34D; outline-offset: 2px; }
+.wwp-calc-btn { margin-top: 8px; display: inline-flex; align-items: center; gap: 8px; padding: 14px 32px; background: #2FA34D; color: #fff; font-family: 'Nunito Sans', sans-serif; font-size: 15px; font-weight: 800; border: none; border-radius: 999px; cursor: pointer; transition: background 0.15s; box-shadow: 0 6px 18px rgba(47,163,77,0.35); }
+.wwp-calc-btn:hover { background: #268A40; }
+.wwp-calc-btn:focus-visible { outline: 3px solid #BDE6C8; outline-offset: 2px; }
+.wwp-calc-result { margin-top: 28px; background: #fff; border: 1px solid #b8d9ed; border-radius: 12px; padding: 28px 32px; display: none; }
+@media (max-width: 600px) { .wwp-calc-result { padding: 20px 18px; } }
+.wwp-calc-result.wwp-calc-visible { display: block; }
+.wwp-calc-result-label { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #1273A8; margin-bottom: 4px; }
+.wwp-calc-range { font-family: 'Nunito Sans', sans-serif; font-size: clamp(28px,5vw,42px); font-weight: 800; color: #0A3D5C; line-height: 1.1; margin: 0 0 8px; outline: none; }
+.wwp-calc-explanation { font-size: 15px; color: #4a6070; line-height: 1.65; margin: 0 0 20px; }
+.wwp-calc-disclaimer { font-size: 12px; color: #888; background: #F6F8FA; border-radius: 6px; padding: 10px 14px; margin-bottom: 22px; line-height: 1.6; }
+.wwp-calc-cta-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.wwp-calc-reset { background: none; border: none; color: #1273A8; font-size: 13px; font-weight: 600; cursor: pointer; padding: 4px 0; text-decoration: underline; margin-top: 12px; display: inline-block; font-family: inherit; }
+</style>
+<div class="wwp-calc-inner">
+  <div class="wwp-calc-card">
+    <span class="wwp-calc-eyebrow" aria-hidden="true">Free Tool</span>
+    <h2 class="wwp-calc-heading" id="wwp-calc-heading">Well Pump Cost Estimator</h2>
+    <p class="wwp-calc-subhead">Answer 4 quick questions and get a realistic price range for your situation. No email required.</p>
+    <form id="wwp-calc-form" novalidate>
+      <fieldset class="wwp-calc-fieldset">
+        <legend class="wwp-calc-legend">1. What's the main problem?</legend>
+        <ul class="wwp-calc-options" role="radiogroup" aria-label="Problem type">
+          <li><input type="radio" name="problem" id="wwp-p1" value="no_water"><label for="wwp-p1">No water at all</label></li>
+          <li><input type="radio" name="problem" id="wwp-p2" value="low_pressure"><label for="wwp-p2">Low pressure</label></li>
+          <li><input type="radio" name="problem" id="wwp-p3" value="runs_constantly"><label for="wwp-p3">Pump runs constantly</label></li>
+          <li><input type="radio" name="problem" id="wwp-p4" value="planned"><label for="wwp-p4">Planned replacement</label></li>
+        </ul>
+      </fieldset>
+      <fieldset class="wwp-calc-fieldset">
+        <legend class="wwp-calc-legend">2. Pump type (if known)?</legend>
+        <ul class="wwp-calc-options" role="radiogroup" aria-label="Pump type">
+          <li><input type="radio" name="pump" id="wwp-pump1" value="submersible"><label for="wwp-pump1">Submersible</label></li>
+          <li><input type="radio" name="pump" id="wwp-pump2" value="jet"><label for="wwp-pump2">Jet pump</label></li>
+          <li><input type="radio" name="pump" id="wwp-pump3" value="unsure"><label for="wwp-pump3">Not sure</label></li>
+        </ul>
+      </fieldset>
+      <fieldset class="wwp-calc-fieldset">
+        <legend class="wwp-calc-legend">3. Approximate well depth?</legend>
+        <ul class="wwp-calc-options" role="radiogroup" aria-label="Well depth">
+          <li><input type="radio" name="depth" id="wwp-d1" value="shallow"><label for="wwp-d1">Under 100 ft</label></li>
+          <li><input type="radio" name="depth" id="wwp-d2" value="mid"><label for="wwp-d2">100–300 ft</label></li>
+          <li><input type="radio" name="depth" id="wwp-d3" value="deep"><label for="wwp-d3">300+ ft</label></li>
+          <li><input type="radio" name="depth" id="wwp-d4" value="unsure"><label for="wwp-d4">Not sure</label></li>
+        </ul>
+      </fieldset>
+      <fieldset class="wwp-calc-fieldset">
+        <legend class="wwp-calc-legend">4. How soon do you need service?</legend>
+        <ul class="wwp-calc-options" role="radiogroup" aria-label="Urgency">
+          <li><input type="radio" name="urgency" id="wwp-u1" value="emergency"><label for="wwp-u1">Emergency — no water now</label></li>
+          <li><input type="radio" name="urgency" id="wwp-u2" value="this_week"><label for="wwp-u2">This week</label></li>
+          <li><input type="radio" name="urgency" id="wwp-u3" value="planning"><label for="wwp-u3">Planning ahead</label></li>
+        </ul>
+      </fieldset>
+      <button type="submit" class="wwp-calc-btn" id="wwp-calc-submit">Calculate My Estimate</button>
+    </form>
+    <div class="wwp-calc-result" id="wwp-calc-result" aria-live="polite" role="region" aria-label="Your cost estimate">
+      <div class="wwp-calc-result-label">Your Estimated Range</div>
+      <div class="wwp-calc-range" id="wwp-calc-range-display" tabindex="-1"></div>
+      <p class="wwp-calc-explanation" id="wwp-calc-explanation"></p>
+      <p class="wwp-calc-disclaimer"><strong>Heads up:</strong> This is a ballpark built from typical North Central Washington jobs. A real quote needs an on-site look at your well, pump, and wiring. Written estimates from us are always free.</p>
+      <div class="wwp-calc-cta-row">
+        <a href="tel:+15092243484" class="btn-green" style="font-size:14px;padding:12px 22px;">Call (509) 224-3484</a>
+        <a href="/#contact" class="btn-blue" style="font-size:14px;padding:12px 22px;">Get Free Written Estimate</a>
+      </div>
+      <button class="wwp-calc-reset" id="wwp-calc-reset" type="button">Start over</button>
+    </div>
+  </div>
+</div>
+<script>
+(function () {
+  'use strict';
+  var A = {
+    serviceCall: { lo: 150, hi: 250 }, pressureSwitch: { lo: 150, hi: 350 },
+    jetReplace: { lo: 800, hi: 2000 },
+    subShallow: { lo: 1800, hi: 2800 }, subMid: { lo: 2200, hi: 3500 },
+    subDeep: { lo: 3200, hi: 4500 }, subUnsure: { lo: 1800, hi: 4500 },
+    pressureTank: { lo: 600, hi: 1800 }, emergencyPrem: { lo: 150, hi: 300 }
+  };
+  function fmt(n) { return '$' + n.toLocaleString('en-US'); }
+  function calc(problem, pump, depth, urgency) {
+    var lo = 0, hi = 0, ex = '';
+    var sub = depth === 'shallow' ? A.subShallow : depth === 'mid' ? A.subMid : depth === 'deep' ? A.subDeep : A.subUnsure;
+    if (problem === 'no_water' || problem === 'planned') {
+      if (pump === 'jet') {
+        lo = A.jetReplace.lo; hi = A.jetReplace.hi;
+        ex = problem === 'planned'
+          ? 'Planned jet pump replacement done on your schedule. Booking ahead instead of as an emergency keeps you at the lower end of this range.'
+          : 'No water on a jet pump usually means pump or pressure switch failure. This range covers a full jet pump replacement including the service call.';
+      } else {
+        lo = sub.lo; hi = sub.hi;
+        var dn = depth === 'shallow' ? 'a shallow well (under 100 ft)' : depth === 'mid' ? 'a mid-depth well (100–300 ft)' : depth === 'deep' ? 'a deep well (300+ ft)' : 'a well of unknown depth';
+        ex = (problem === 'planned' ? 'Planned submersible replacement on your timeline. ' : 'Complete loss of water on a submersible usually means pulling and replacing the pump. ') + 'The range reflects ' + dn + '. Deeper wells cost more in pipe, wire, and labor.';
+      }
+    } else {
+      lo = A.pressureSwitch.lo + A.serviceCall.lo;
+      hi = A.pressureTank.hi + A.serviceCall.hi;
+      ex = problem === 'low_pressure'
+        ? 'Low pressure most often traces to a failing pressure switch ($150–$350) or a waterlogged pressure tank ($600–$1,800). On-site diagnosis narrows this down fast, and the service call applies toward the repair.'
+        : "A pump that won't shut off almost always means a waterlogged pressure tank or a stuck pressure switch. Fixing the tank early protects the pump from burning out, so diagnosing fast saves real money.";
+    }
+    if (urgency === 'emergency') {
+      lo += A.emergencyPrem.lo; hi += A.emergencyPrem.hi;
+      ex += ' An after-hours emergency fee of $150–$300 is included since you need service now.';
+    }
+    return { lo: lo, hi: hi, ex: ex };
+  }
+  function val(n) { var el = document.querySelector('input[name="' + n + '"]:checked'); return el ? el.value : null; }
+  var form = document.getElementById('wwp-calc-form');
+  var result = document.getElementById('wwp-calc-result');
+  var disp = document.getElementById('wwp-calc-range-display');
+  var expl = document.getElementById('wwp-calc-explanation');
+  var reset = document.getElementById('wwp-calc-reset');
+  if (!form || !result) return;
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var groups = ['problem', 'pump', 'depth', 'urgency'];
+    for (var i = 0; i < groups.length; i++) {
+      if (!val(groups[i])) {
+        var first = document.querySelector('input[name="' + groups[i] + '"]');
+        if (first) { first.focus(); first.closest('fieldset').scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+        return;
+      }
+    }
+    var est = calc(val('problem'), val('pump'), val('depth'), val('urgency'));
+    disp.textContent = fmt(est.lo) + ' – ' + fmt(est.hi);
+    expl.textContent = est.ex;
+    result.classList.add('wwp-calc-visible');
+    result.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    disp.focus();
+    if (typeof window.gtag === 'function') window.gtag('event', 'calculator_complete', { estimate_low: est.lo, estimate_high: est.hi });
+  });
+  reset.addEventListener('click', function () {
+    form.reset();
+    result.classList.remove('wwp-calc-visible');
+    disp.textContent = ''; expl.textContent = '';
+    var f = form.querySelector('input[type="radio"]'); if (f) f.focus();
+  });
+})();
+</script>
+</section>
+
 <section style="padding:0 24px;">
   <div style="max-width:860px;margin:0 auto 56px;">
     <h2 class="section-heading" style="font-size:clamp(22px,3vw,32px);margin:0 0 18px;">The 5 Things That Move Your Price Up or Down</h2>

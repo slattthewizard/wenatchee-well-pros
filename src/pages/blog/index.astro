@@ -91,9 +91,19 @@ const posts = collectionPosts
   }
 </style>
 
+<Fragment slot="head">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Well Pump & Water System Help for North Central Washington",
+    "description": "Practical advice on well pumps, pressure tanks, water quality, and well maintenance for North Central Washington homeowners.",
+    "url": "https://wenatcheewellpros.com/blog/"
+  })} />
+</Fragment>
+
 <section class="blog-hero">
-  <h1>Well Water Blog</h1>
-  <p>Practical advice on well pumps, pressure tanks, water quality, and well maintenance for North Central Washington homeowners.</p>
+  <h1>Well Pump &amp; Water System Help for North Central Washington</h1>
+  <p>Practical advice on well pumps, pressure tanks, water quality, and well maintenance from the Wenatchee Well Pros crew.</p>
 </section>
 
 <div class="blog-grid">
