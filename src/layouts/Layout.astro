@@ -451,7 +451,7 @@ const {
     <button id="wwpDesktopSlideDismiss" aria-label="Dismiss cost guide offer" type="button" style="flex-shrink:0;display:flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:50%;border:1.5px solid #c8d8e3;background:transparent;color:#6a8799;font-size:14px;line-height:1;cursor:pointer;font-family:inherit;">×</button>
   </div>
   <p style="font-size:12px;color:#4a6478;margin:0 0 14px;line-height:1.45;">See real price ranges for well pump repair &amp; replacement in Wenatchee — no form required.</p>
-  <a href="/well-pump-cost/" style="display:inline-flex;align-items:center;gap:5px;background:#0A3D5C;color:#fff;text-decoration:none;font-family:inherit;font-size:12px;font-weight:700;border-radius:999px;padding:8px 14px;white-space:nowrap;">View Cost Guide →</a>
+  <a href="/well-pump-cost/" class="wwp-tracked" style="display:inline-flex;align-items:center;gap:5px;background:#0A3D5C;color:#fff;text-decoration:none;font-family:inherit;font-size:12px;font-weight:700;border-radius:999px;padding:8px 14px;white-space:nowrap;">View Cost Guide →</a>
 </div>
 
 <script>
@@ -533,7 +533,7 @@ const {
       track('phone_click', { link_text: tel.textContent.trim().slice(0, 100), page_path: location.pathname });
       return;
     }
-    var btn = e.target.closest('a.btn-green, a.btn-blue, a.btn-primary, a.btn-copper, a.btn-bark, a.btn-cream, a.btn-white-outline, a.btn-outline-white');
+    var btn = e.target.closest('a.btn-green, a.btn-blue, a.btn-primary, a.btn-copper, a.btn-bark, a.btn-cream, a.btn-white-outline, a.btn-outline-white, a.wwp-tracked');
     if (btn) track('cta_click', { button_text: btn.textContent.trim().slice(0, 100), link_url: btn.getAttribute('href') || '', page_path: location.pathname });
   });
   var started = false;
@@ -542,7 +542,7 @@ const {
     if (e.target.closest('#contact-form')) { started = true; track('form_start', { form_name: 'estimate_request', page_path: location.pathname }); }
   });
   document.addEventListener('submit', function (e) {
-    if (e.target.closest('#contact-form')) track('form_submit', { form_name: 'estimate_request', page_path: location.pathname });
+    if (e.target.closest('#contact-form')) track('form_submit_attempt', { form_name: 'estimate_request', page_path: location.pathname });
   });
 })();
 </script>

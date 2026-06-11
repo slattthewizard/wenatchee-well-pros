@@ -284,6 +284,7 @@ import Layout from '../layouts/Layout.astro';
           if (res.ok) {
             form.style.display = 'none';
             success.style.display = 'block';
+            if (typeof window.gtag === 'function') window.gtag('event', 'form_submit', { form_name: 'estimate_request', page_path: location.pathname });
           } else {
             var msg = (res.data && res.data.errors) ? res.data.errors.map(function(er){ return er.message; }).join(', ') : 'Something went wrong. Please try again or call us directly.';
             errBox.textContent = msg;

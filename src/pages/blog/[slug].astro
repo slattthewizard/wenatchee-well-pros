@@ -43,7 +43,7 @@ const articleSchema = JSON.stringify({
   "url": canonical,
   "mainEntityOfPage": { "@type": "WebPage", "@id": canonical },
   "datePublished": post.data.publishedDate,
-  "dateModified": post.data.publishedDate,
+  "dateModified": post.data.updatedDate ?? post.data.publishedDate,
   "author": { "@type": "Organization", "name": "Wenatchee Well Pros", "url": "https://wenatcheewellpros.com/about/" },
   "publisher": {
     "@type": "Organization",

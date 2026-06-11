@@ -10,6 +10,7 @@ const blog = defineCollection({
     primaryKeyword: z.string().optional(),
     secondaryKeywords: z.string().optional(),
     publishedDate: z.string(),
+    updatedDate: z.string().optional(),
     tag: z.string().optional(),
     subtitle: z.string().optional(),
     canonical: z.string().optional(),
