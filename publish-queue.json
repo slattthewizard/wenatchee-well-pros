@@ -116,7 +116,8 @@
   },
   {
     "draft": "drafts/permit-exempt-wells-washington-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-06-19T17:07:59.947337Z"
   },
   {
     "draft": "drafts/pressure-switch-problems-2026-06-10.md",
