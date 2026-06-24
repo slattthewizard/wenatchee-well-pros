@@ -141,7 +141,8 @@
   },
   {
     "draft": "drafts/shared-wells-washington-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-06-24T16:57:45.428688Z"
   },
   {
     "draft": "drafts/submersible-vs-jet-pump-2026-06-10.md",
