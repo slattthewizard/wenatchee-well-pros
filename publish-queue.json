@@ -166,7 +166,8 @@
   },
   {
     "draft": "drafts/well-casing-repair-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-06-29T17:25:26.202762Z"
   },
   {
     "draft": "drafts/well-chlorination-shock-2026-06-10.md",
