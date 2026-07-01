@@ -176,7 +176,8 @@
   },
   {
     "draft": "drafts/well-decommissioning-washington-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-01T17:03:16.394079Z"
   },
   {
     "draft": "drafts/well-drilling-cost-washington-2026-06-10.md",
