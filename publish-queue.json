@@ -196,7 +196,8 @@
   },
   {
     "draft": "drafts/well-pressure-tank-cost-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-05T15:57:28.526770Z"
   },
   {
     "draft": "drafts/well-pump-electricity-cost-2026-06-10.md",
