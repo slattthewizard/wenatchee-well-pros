@@ -201,7 +201,8 @@
   },
   {
     "draft": "drafts/well-pump-electricity-cost-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-06T17:31:53.677321Z"
   },
   {
     "draft": "drafts/well-pump-noise-2026-06-10.md",
