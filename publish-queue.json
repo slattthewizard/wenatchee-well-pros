@@ -211,7 +211,8 @@
   },
   {
     "draft": "drafts/well-pump-runs-constantly-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-08T16:23:28.371627Z"
   },
   {
     "draft": "drafts/well-pump-sizing-2026-06-10.md",
