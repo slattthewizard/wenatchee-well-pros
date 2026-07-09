@@ -216,7 +216,8 @@
   },
   {
     "draft": "drafts/well-pump-sizing-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-09T17:09:35.431448Z"
   },
   {
     "draft": "drafts/well-pump-tripping-breaker-2026-06-10.md",
