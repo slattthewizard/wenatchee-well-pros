@@ -236,7 +236,8 @@
   },
   {
     "draft": "drafts/well-water-vs-city-water-2026-06-10.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-13T17:03:27.445472Z"
   },
   {
     "draft": "drafts/well-yield-test-2026-06-10.md",
