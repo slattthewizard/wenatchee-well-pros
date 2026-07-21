@@ -276,7 +276,8 @@
   },
   {
     "draft": "drafts/milky-cloudy-well-water-2026-07-08.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-21T16:11:22.209014Z"
   },
   {
     "draft": "drafts/orchard-well-water-demand-2026-07-08.md",
