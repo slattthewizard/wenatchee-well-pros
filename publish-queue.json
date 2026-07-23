@@ -286,7 +286,8 @@
   },
   {
     "draft": "drafts/pfas-well-water-washington-2026-07-08.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-07-23T16:16:53.074225Z"
   },
   {
     "draft": "drafts/pitless-adapter-explained-2026-07-08.md",
