@@ -25,7 +25,7 @@ It's also one of the most misunderstood laws in rural real estate. We've met fol
 
 Here's the deal. A permit exempt well in Washington is exempt from one specific thing: the water right permit. Everything else, the drilling rules, the construction standards, the county building requirements, the daily gallon limits, still applies. This article walks through exactly what the exemption covers, what changed after the Hirst decision, what's different in our basins around Wenatchee, and the steps you still have to take before a drill rig shows up.
 
-We're Wenatchee Well Pros. We don't drill new wells, but we service the pumps, pressure tanks, and water systems on exempt wells all over North Central Washington, and we get these questions weekly. If you've got a well question that can't wait, [call us at (509) 224-3484](tel:+15092243484) and we'll give you a straight answer for free.
+We're Wenatchee Well Pros. We don't drill new wells, but we service the pumps, pressure tanks, and water systems on exempt wells all over North Central Washington, and we get these questions weekly. If you've got a well question that can't wait, [call us at (509) 351-8404](tel:+15093518404) and we'll give you a straight answer for free.
 
 ## What a Permit-Exempt Well in Washington Actually Is
 
@@ -114,7 +114,7 @@ And if you're buying a place that already has a well, get the whole system evalu
 
 **Marcus near Leavenworth** learned the maintenance side the hard way. His 1990s exempt well was grandfathered and golden, but the original pump finally quit on a Friday in February at 12 degrees outside. No water, no heat tape on the pitless, pipes starting to freeze. We had a new submersible in by Saturday afternoon, $3,400 all in. The law had nothing to do with it. Thirty-year-old pumps fail, and they pick bad weather to do it. If yours is that age, read up on [how long well pumps actually last](/blog/how-long-do-well-pumps-last/) before winter forces the issue.
 
-No water right paperwork in the world helps when the pump itself dies. If your exempt well stops delivering, day or night, [call (509) 224-3484](tel:+15092243484). We run 24/7 emergency no-water service across Chelan, Douglas, and Grant counties.
+No water right paperwork in the world helps when the pump itself dies. If your exempt well stops delivering, day or night, [call (509) 351-8404](tel:+15093518404). We run 24/7 emergency no-water service across Chelan, Douglas, and Grant counties.
 
 ## Frequently Asked Questions
 

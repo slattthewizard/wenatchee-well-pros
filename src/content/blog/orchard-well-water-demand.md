@@ -31,7 +31,7 @@ Most wells around Chelan, Douglas, and Grant counties were originally drilled fo
 
 A household of four uses somewhere around 300 gallons a day, spread out unevenly over 24 hours. One acre of mature fruit trees at peak summer demand can use 25 times that much, concentrated into a single irrigation set of a few hours. That's not a difference of degree. It's a different category of water use entirely, and it calls for different math from day one.
 
-If you're not sure your current well and pump were ever sized for what you're asking them to do now, that's worth sorting out before the trees tell you the hard way. [Request a free estimate](/#contact) and we'll walk your property with you, or call [(509) 224-3484](tel:+15092243484) if you're already seeing pressure drop during irrigation sets.
+If you're not sure your current well and pump were ever sized for what you're asking them to do now, that's worth sorting out before the trees tell you the hard way. [Request a free estimate](/#contact) and we'll walk your property with you, or call [(509) 351-8404](tel:+15093518404) if you're already seeing pressure drop during irrigation sets.
 
 ## Gallons Per Acre: Apples, Cherries, and Pears Compared
 
@@ -113,7 +113,7 @@ If the math above doesn't add up for your property, you have real options before
 
 **Know when to call a professional.** Anything involving the wellhead, casing, downhole equipment, or electrical connections at the pump is not a weekend project. A miscalculated pump swap or a rushed wellhead repair can turn a water shortage into a well that's out of service entirely during peak season. Our [well pump replacement](/well-pump-replacement-wenatchee/) team handles the sizing and installation side once you know your real numbers, and if you just need a straight answer on what a fix or upgrade will run you, our [well pump cost guide](/well-pump-cost/) breaks down current pricing. For background on regional groundwater trends that can affect long-term well planning, the USGS Water Science School has a solid overview of irrigation water use nationally at [usgs.gov](https://www.usgs.gov/special-topics/water-science-school/science/irrigation-water-use).
 
-Whatever the number comes out to, it beats finding out the hard way in the middle of August. Call [(509) 224-3484](tel:+15092243484) or [request a free estimate](/#contact) and we'll help you run the numbers for your orchard before the next peak season arrives.
+Whatever the number comes out to, it beats finding out the hard way in the middle of August. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact) and we'll help you run the numbers for your orchard before the next peak season arrives.
 
 ## Frequently Asked Questions
 

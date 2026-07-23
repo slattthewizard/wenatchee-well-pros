@@ -23,7 +23,7 @@ Fill a glass from your kitchen tap right now. If it looks like skim milk for a f
 
 Cloudy well water is one of the most common calls we get in the Wenatchee Valley, and it's also one of the most misdiagnosed. Homeowners assume the worst (contamination) or assume nothing (it'll clear on its own), and both guesses are wrong more often than not. The real cause is almost always one of three things: trapped air, fine particulates, or dissolved gas. Each one has a different fix and a very different price tag.
 
-In this guide we'll walk through how to tell the three apart with a simple glass test, what each one costs to fix in North Central Washington, and when cloudy water means you should stop drinking it and get it tested today. If you'd rather skip straight to an answer, [call us at (509) 224-3484](tel:+15092243484) and describe what your water is doing. We can usually narrow it down over the phone.
+In this guide we'll walk through how to tell the three apart with a simple glass test, what each one costs to fix in North Central Washington, and when cloudy water means you should stop drinking it and get it tested today. If you'd rather skip straight to an answer, [call us at (509) 351-8404](tel:+15093518404) and describe what your water is doing. We can usually narrow it down over the phone.
 
 ## What Causes Cloudy Well Water
 
@@ -121,7 +121,7 @@ The EPA's guidance for private well owners recommends annual testing regardless 
 
 If your water has been cloudy for more than a few days, or it came with a smell you can't explain, don't keep drinking it while you wait and see. [Request a free estimate](/#contact) and we'll help you figure out fast whether this is a $0 non-issue or something that needs attention today. Our [well pump repair team](/well-pump-repair-wenatchee/) handles the diagnostic work, and if a [pressure tank replacement](/pressure-tank-replacement-wenatchee/) turns out to be the fix, we can usually get that done same-day.
 
-Cloudy water is your well's way of telling you something changed. Most of the time it's nothing. Sometimes it's your casing, your water table, or gas you can't see. The only way to know which one you've got is to look closely, and if you're not sure, [call (509) 224-3484](tel:+15092243484). We'd rather talk you out of a service call than have you drink something you shouldn't.
+Cloudy water is your well's way of telling you something changed. Most of the time it's nothing. Sometimes it's your casing, your water table, or gas you can't see. The only way to know which one you've got is to look closely, and if you're not sure, [call (509) 351-8404](tel:+15093518404). We'd rather talk you out of a service call than have you drink something you shouldn't.
 
 ## Frequently Asked Questions
 

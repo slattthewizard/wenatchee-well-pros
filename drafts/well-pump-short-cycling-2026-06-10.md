@@ -25,7 +25,7 @@ Here's how to confirm it. Go to your pressure tank, usually in the pump house, g
 
 Why does it matter so much? Because starting is the hardest thing a pump motor does. A submersible pump pulls a big surge of current on every startup, and that surge heats the windings. Pumps are designed for a limited number of starts per day. The U.S. Environmental Protection Agency notes that more than 23 million households rely on private wells for drinking water ([EPA private wells](https://www.epa.gov/privatewells)), and the single most expensive component in most of those systems is the pump sitting a few hundred feet down the casing. Around Wenatchee, where many wells run 200 to 400 feet deep, pulling and replacing that pump isn't a small job.
 
-If your pump is clicking on and off right now, don't wait on it. [Call us at (509) 224-3484](tel:+15092243484) and we'll usually have a tech out same day, often within a couple hours for no-water emergencies.
+If your pump is clicking on and off right now, don't wait on it. [Call us at (509) 351-8404](tel:+15093518404) and we'll usually have a tech out same day, often within a couple hours for no-water emergencies.
 
 ## Why Your Well Pump Is Short Cycling: 6 Usual Suspects
 
@@ -116,7 +116,7 @@ Call a professional right away if any of these apply:
 
 Short cycling is a symptom, and the clock is running on your pump motor the whole time it continues. We handle [pressure tank replacement in Wenatchee](/pressure-tank-replacement-wenatchee/) and the surrounding valley daily, and our [well pump repair](/well-pump-repair-wenatchee/) techs carry switches, tanks, and check valves on the truck, so most short cycling jobs are done in one visit. We're licensed and insured in Washington, estimates are free, and we answer the phone at 2 a.m. because no-water emergencies don't keep business hours.
 
-Hearing that click-click-click from the pump house? Give us a ring at [(509) 224-3484](tel:+15092243484), day or night, and we'll get your system back into a healthy rhythm before the motor pays the price.
+Hearing that click-click-click from the pump house? Give us a ring at [(509) 351-8404](tel:+15093518404), day or night, and we'll get your system back into a healthy rhythm before the motor pays the price.
 
 ## Frequently Asked Questions
 

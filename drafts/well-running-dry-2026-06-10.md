@@ -1,6 +1,6 @@
 ---
 meta_title: "Well Running Dry? Warning Signs and What to Do Next"
-meta_description: "Worried your well is running dry? Learn the warning signs, what they really mean, and your options from Wenatchee Well Pros. Free estimates, (509) 224-3484."
+meta_description: "Worried your well is running dry? Learn the warning signs, what they really mean, and your options from Wenatchee Well Pros. Free estimates, (509) 351-8404."
 primary_keyword: "well running dry"
 secondary_keywords: "well going dry, signs of a dry well, well drying up, low-yield well, dry well symptoms"
 ---
@@ -65,7 +65,7 @@ If your well report shows a low yield, like 3 gallons per minute or less, or the
 
 Here's what ignoring the signs looks like. Dale in Cashmere noticed his water sputtering in late July and figured the heat would pass. Two weeks later his pump was running nonstop, and by the time he called us the motor had cooked itself dry. The water level had dropped 18 feet below his pump intake. He ended up paying $2,800 to replace the burned-out pump, plus $900 to lower the new one 40 feet. Catching it at the sputtering stage would've saved him the pump entirely.
 
-If your pump is running and no water is coming out, shut it off at the breaker right now and [call us at (509) 224-3484](tel:+15092243484). We run 24/7 emergency service across the valley, and shutting the pump off is the single best thing you can do to protect it.
+If your pump is running and no water is coming out, shut it off at the breaker right now and [call us at (509) 351-8404](tel:+15093518404). We run 24/7 emergency service across the valley, and shutting the pump off is the single best thing you can do to protect it.
 
 ## Is It Really a Dry Well? Look-Alike Problems
 
@@ -137,4 +137,4 @@ It ranges widely. Lowering the pump runs $800 to $2,500, storage systems $2,500 
 
 ### Can I keep using water if I think my well is going dry?
 
-Use it lightly and watch closely. The real danger is the pump running dry, which can destroy the motor in hours. If you hear the pump running with no water coming out, shut it off at the breaker and call a pro at (509) 224-3484. Don't open the well or touch wiring beyond the breaker yourself.
+Use it lightly and watch closely. The real danger is the pump running dry, which can destroy the motor in hours. If you hear the pump running with no water coming out, shut it off at the breaker and call a pro at (509) 351-8404. Don't open the well or touch wiring beyond the breaker yourself.

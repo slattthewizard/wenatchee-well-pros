@@ -23,7 +23,7 @@ Do the math and you get about 15 to 20 kWh per month. At the national average of
 
 Bigger pumps and deeper wells cost more, but rarely dramatically more for household use. Irrigation pumps are a different animal, and we'll get to those.
 
-The catch: those numbers assume a healthy system. A waterlogged pressure tank, a failing pump, or a leak in the drop pipe can triple or quadruple your pump's run time without you noticing, until the bill shows up. If your pump seems to run all the time or your bill doesn't make sense, [give us a call at (509) 224-3484](tel:+15092243484) and we'll help you figure out whether the pump is the problem.
+The catch: those numbers assume a healthy system. A waterlogged pressure tank, a failing pump, or a leak in the drop pipe can triple or quadruple your pump's run time without you noticing, until the bill shows up. If your pump seems to run all the time or your bill doesn't make sense, [give us a call at (509) 351-8404](tel:+15093518404) and we'll help you figure out whether the pump is the problem.
 
 ## How to Calculate Well Pump Electricity Usage at Your Place
 
@@ -119,7 +119,7 @@ Even at low rates, there's no reason to waste power or pump life. A few moves th
 
 And know when the pump itself is the problem. A pump that's 15-plus years old, drawing high amps, and limping through summer isn't worth babying. Sometimes [well pump repair](/well-pump-repair-wenatchee/) gets you years more service for a few hundred bucks. Sometimes replacement is the honest answer. We'll tell you which, with numbers, not pressure.
 
-The bottom line: a healthy well pump is one of the cheapest appliances you own, especially on North Central Washington power rates. A sick one wastes money twice, once on your power bill and again when it dies early. If something about your system seems off, [call (509) 224-3484](tel:+15092243484) any time, day or night. We answer 24/7, estimates are free, and we're licensed and insured in Washington.
+The bottom line: a healthy well pump is one of the cheapest appliances you own, especially on North Central Washington power rates. A sick one wastes money twice, once on your power bill and again when it dies early. If something about your system seems off, [call (509) 351-8404](tel:+15093518404) any time, day or night. We answer 24/7, estimates are free, and we're licensed and insured in Washington.
 
 ## Frequently Asked Questions
 

@@ -13,7 +13,7 @@ When an arctic blast settles into the Columbia River valley and overnight temps 
 
 This guide walks you through how to confirm the freeze, where to look first, how to thaw the line without burning down your pump house or burning up your pump, and how to make sure it never happens again. We'll also cover what freeze damage actually costs in Chelan, Douglas, and Grant counties, with real numbers from real jobs.
 
-If you've got no water right now and the thermometer reads 10 degrees, you can skip the reading and [call us at (509) 224-3484](tel:+15092243484). We run 24/7 emergency well service across the Wenatchee Valley, and frozen lines don't wait for business hours.
+If you've got no water right now and the thermometer reads 10 degrees, you can skip the reading and [call us at (509) 351-8404](tel:+15093518404). We run 24/7 emergency well service across the Wenatchee Valley, and frozen lines don't wait for business hours.
 
 ## How to Tell You've Got Frozen Well Pipes (Not a Dead Pump)
 
@@ -121,7 +121,7 @@ DIY thawing makes sense for accessible pipe in a pump house or crawl space. Stop
 - The pump ran dry against the blockage for more than a few minutes. It may have thermal damage even if it seems to work now.
 - Anything electrical got wet. Pressure switches, control boxes, and standing water don't mix, and 240 volts doesn't give second chances.
 
-We've thawed lines at 2 a.m. in Cashmere and swapped freeze-split tanks on Christmas Eve in East Wenatchee. It's part of living in a valley where summer hits 100 and winter hits zero. If you're staring at dry faucets right now, our [emergency well service](/emergency-well-service-wenatchee/) runs around the clock, and the estimate is free. Call [(509) 224-3484](tel:+15092243484) and we'll get your water back.
+We've thawed lines at 2 a.m. in Cashmere and swapped freeze-split tanks on Christmas Eve in East Wenatchee. It's part of living in a valley where summer hits 100 and winter hits zero. If you're staring at dry faucets right now, our [emergency well service](/emergency-well-service-wenatchee/) runs around the clock, and the estimate is free. Call [(509) 351-8404](tel:+15093518404) and we'll get your water back.
 
 ## Frequently Asked Questions
 

@@ -33,7 +33,7 @@ Here's the math. During peak summer evapotranspiration, a mature orchard block i
 
 We see it every season. Somebody buys five acres outside East Wenatchee, plants trees, tees their drip system into the domestic well line, and by August the pump is short cycling and the house has no pressure. Irrigation needs its own properly sized pump, and often its own well.
 
-Not sure what your current setup can actually handle? Give us a call at [(509) 224-3484](tel:+15092243484) and we'll talk through your acreage, your well, and your options before you spend a dime. Estimates are always free.
+Not sure what your current setup can actually handle? Give us a call at [(509) 351-8404](tel:+15093518404) and we'll talk through your acreage, your well, and your options before you spend a dime. Estimates are always free.
 
 ## Sizing an Irrigation Well Pump: GPM, Head, and Horsepower
 
@@ -122,7 +122,7 @@ Central Washington is hard on equipment. Hundred-degree Augusts, sub-zero Januar
 
 Dale, who runs a small hobby orchard outside Quincy, skipped the fall blowout in 2024 because the forecast looked mild. A 9 degree night in late November split his manifold and froze the check valve. The April repair bill was $3,400. The blowout he skipped would have cost $250. He's on our fall schedule now, every year, automatically.
 
-Mid-season breakdowns don't wait for business hours, and neither do we. If your pump quits with fruit on the trees, call [(509) 224-3484](tel:+15092243484) day or night. We run 24/7 emergency service across Chelan, Douglas, and Grant counties.
+Mid-season breakdowns don't wait for business hours, and neither do we. If your pump quits with fruit on the trees, call [(509) 351-8404](tel:+15093518404) day or night. We run 24/7 emergency service across Chelan, Douglas, and Grant counties.
 
 ## Frequently Asked Questions
 

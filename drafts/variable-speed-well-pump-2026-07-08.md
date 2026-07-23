@@ -11,7 +11,7 @@ A variable speed well pump usually costs $800 to $2,000 more than a standard sin
 
 The confusing part is that a lot of homeowners lump this decision in with a "constant pressure system" upgrade. They're related, but they're not the same question. A constant pressure system is the whole setup, a small tank, a sensor, and a controller built to hold your house at one steady psi. We cover that decision separately in our guide to [constant pressure well systems](/blog/constant-pressure-well-systems/). This article is about something narrower: should the pump itself, the motor down in your well, be a variable-speed unit instead of a standard one? That choice affects your electric bill, your repair costs, and how long your equipment lasts, whether or not you ever add full constant pressure control on top of it.
 
-Not sure which pump you're even working with right now? [Reach out through our contact form](/#contact) or call [(509) 224-3484](tel:+15092243484) and we'll take a look before you spend a dollar on an upgrade you might not need.
+Not sure which pump you're even working with right now? [Reach out through our contact form](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll take a look before you spend a dollar on an upgrade you might not need.
 
 ## What Makes a Variable-Speed Well Pump Different
 
@@ -33,7 +33,7 @@ Here's what these upgrades actually run across Chelan, Douglas, and Grant counti
 
 Tom and Karen run a small cherry and apple operation outside Cashmere, with drip irrigation and frost-protection sprinklers pulling off the same well as the house. Their 12-year-old single-speed pump failed in June, right at the start of irrigation season. Instead of replacing it like-for-like, they went with a variable-speed submersible pump for $5,400 installed, about $1,600 more than a standard swap would have cost. Two seasons in, their pump handles the swing from a single kitchen faucet at 6 a.m. to full irrigation plus house demand at noon without short cycling, and their electric bill during peak watering months dropped by roughly $18 to $25 a month compared to their old setup's records.
 
-If you're staring down a dead pump right now and trying to decide which way to go, [call us at (509) 224-3484](tel:+15092243484) for a same-day quote on both options priced against your actual well.
+If you're staring down a dead pump right now and trying to decide which way to go, [call us at (509) 351-8404](tel:+15093518404) for a same-day quote on both options priced against your actual well.
 
 ## Variable-Speed vs. Single-Speed Well Pumps
 

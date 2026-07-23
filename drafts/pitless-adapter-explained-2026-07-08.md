@@ -11,7 +11,7 @@ Picture a metal fitting buried three feet underground doing one job, all day, ev
 
 If you own a well anywhere in Chelan, Douglas, or Grant county, a pitless adapter well connection is already part of your system, whether you've heard the term or not. It's the fitting that lets your water line pass through the well casing below the frost line without needing a pit, a vault, or an above-ground connection that freezes every winter. Get it right and you never think about it again. Get it wrong, or let an old one fail, and you're looking at a flooded wellhead, a contaminated water supply, or a pump that won't build pressure.
 
-This guide covers what a pitless adapter actually does, how to spot one that's failing, what replacement costs around Wenatchee, and when this becomes a job for a licensed well contractor instead of a weekend project. If your water just quit and you suspect the wellhead, [call us at (509) 224-3484](tel:+15092243484) and we'll get someone out to look at it. We run emergency service across North Central Washington, and a bad pitless adapter is one of the more common reasons a well suddenly goes dry-sounding even though there's plenty of water down the hole.
+This guide covers what a pitless adapter actually does, how to spot one that's failing, what replacement costs around Wenatchee, and when this becomes a job for a licensed well contractor instead of a weekend project. If your water just quit and you suspect the wellhead, [call us at (509) 351-8404](tel:+15093518404) and we'll get someone out to look at it. We run emergency service across North Central Washington, and a bad pitless adapter is one of the more common reasons a well suddenly goes dry-sounding even though there's plenty of water down the hole.
 
 ## What Is a Pitless Adapter, Exactly?
 
@@ -110,7 +110,7 @@ Call a licensed well contractor when:
 - You're buying a property with an older well and don't know what kind of wellhead connection it has.
 - Any excavation near the casing is planned for other reasons and you want the adapter checked while it's already exposed.
 
-Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles pitless adapter diagnosis and replacement across Chelan, Douglas, and Grant counties, with free written estimates before any digging starts. If your water pressure has been acting strange or you just found soggy ground by the wellhead, [contact us](/#contact) or call [(509) 224-3484](tel:+15092243484). We're available 24/7 for anything that can't wait until morning.
+Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles pitless adapter diagnosis and replacement across Chelan, Douglas, and Grant counties, with free written estimates before any digging starts. If your water pressure has been acting strange or you just found soggy ground by the wellhead, [contact us](/#contact) or call [(509) 351-8404](tel:+15093518404). We're available 24/7 for anything that can't wait until morning.
 
 ## Frequently Asked Questions
 

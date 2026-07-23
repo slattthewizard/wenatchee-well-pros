@@ -53,7 +53,7 @@ Theresa in Chelan bought a $350 online water softener after noticing black rings
 
 A proper lab panel for manganese should also check iron, hardness, pH, and total dissolved solids, since treatment for one mineral often needs to account for the others. If your water has ever smelled off along with the staining, read our post on [why well water smells like rotten eggs](/blog/well-water-smells-rotten-eggs/), since sulfur bacteria sometimes tag along with manganese in the same wells.
 
-Not sure where to start? [Call us at (509) 224-3484](tel:+15092243484) and we'll walk you through getting a sample tested before you spend a dollar on equipment.
+Not sure where to start? [Call us at (509) 351-8404](tel:+15093518404) and we'll walk you through getting a sample tested before you spend a dollar on equipment.
 
 ## Manganese Treatment Options and What They Cost
 
@@ -94,7 +94,7 @@ Randy in Moses Lake ignored black rings in his tub for the better part of a year
 
 That's the pattern worth remembering: manganese staining by itself is rarely an emergency, but ignored long enough, it can quietly wear down pumps and tanks until it becomes one. If your pump's behavior has started to change, our guide on [signs a well pump is failing](/blog/signs-well-pump-failing/) is worth a read before it turns into a Saturday morning no-water call. And a safety reminder: checking a breaker or looking at a stained fixture is fine DIY territory, but anything involving the pressure switch wiring, control box, or wellhead itself should go to a licensed well professional. Those circuits carry 240 volts and don't leave room for guesswork.
 
-If you're dealing with black water, dropping pressure, or both at once, our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) can sort out what's mineral and what's mechanical in one visit. [Call (509) 224-3484](tel:+15092243484) any time, including for 24/7 no-water emergencies from Lake Chelan to Moses Lake.
+If you're dealing with black water, dropping pressure, or both at once, our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) can sort out what's mineral and what's mechanical in one visit. [Call (509) 351-8404](tel:+15093518404) any time, including for 24/7 no-water emergencies from Lake Chelan to Moses Lake.
 
 ## Frequently Asked Questions
 

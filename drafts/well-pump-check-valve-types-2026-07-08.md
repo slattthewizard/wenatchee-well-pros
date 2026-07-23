@@ -11,7 +11,7 @@ A loud bang in the pipes every time your pump shuts off isn't your house settlin
 
 A well pump check valve is a one-way gate. Water flows up toward the house and it's not supposed to flow back down. When it fails, you get symptoms that look like a dozen other well problems: banging pipes, a pump that short cycles, pressure that won't build, or a pump that hums but never seems to catch. In this guide, we'll cover the main types of check valves used in wells across North Central Washington, why they wear out, what failure actually sounds and feels like, and what it costs to fix.
 
-If you're already hearing bangs or losing pressure fast after the pump shuts off, don't wait on this one. [Call us at (509) 224-3484](tel:+15092243484) and we'll get a tech out to check it, or [request a free estimate](/#contact) and we'll walk you through it first.
+If you're already hearing bangs or losing pressure fast after the pump shuts off, don't wait on this one. [Call us at (509) 351-8404](tel:+15093518404) and we'll get a tech out to check it, or [request a free estimate](/#contact) and we'll walk you through it first.
 
 ## What a Well Pump Check Valve Actually Does
 

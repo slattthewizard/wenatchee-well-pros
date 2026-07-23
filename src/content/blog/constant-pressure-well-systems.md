@@ -72,7 +72,7 @@ Real numbers from real jobs in Chelan, Douglas, and Grant counties:
 
 Here's a story that shows when the answer is "a lot." Marta runs a six-bedroom vacation rental outside Leavenworth, three bathrooms, guests who all shower between 7 and 9 a.m. Her old 40/60 system meant the third shower of the morning was lukewarm and weak, and she had two reviews that said so. She spent $4,100 on a full constant pressure package in 2024. Every fixture now holds 65 psi during peak use. She figures the system paid for itself in one summer of better reviews and zero pressure complaints.
 
-If you're weighing the numbers for your own place, [call us at (509) 224-3484](tel:+15092243484) and we'll price both options against your actual well. The estimate's free either way.
+If you're weighing the numbers for your own place, [call us at (509) 351-8404](tel:+15093518404) and we'll price both options against your actual well. The estimate's free either way.
 
 ## Who Actually Benefits From Constant Pressure
 

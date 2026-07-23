@@ -74,7 +74,7 @@ A few notes worth knowing before you buy anything:
 
 **Reverse osmosis is a good stopgap, not a whole-house fix.** RO units handle drinking and cooking water well, but they're slow and not practical for showers, laundry, or irrigation. Most homeowners pair a small RO unit at the kitchen sink with a whole-house system for everything else.
 
-Not sure where your water falls on that table? [Call us at (509) 224-3484](tel:+15092243484) and we'll get you scheduled for testing before you spend a cent on equipment.
+Not sure where your water falls on that table? [Call us at (509) 351-8404](tel:+15093518404) and we'll get you scheduled for testing before you spend a cent on equipment.
 
 ## When Discolored Well Water Means a Bigger Problem
 
@@ -91,7 +91,7 @@ If you suspect a hardware problem rather than a straightforward water quality is
 
 One safety note. Checking your well cap for obvious cracks from the outside is fine to do yourself. Opening the wellhead, working on the casing, or touching anything electrical at the pump controls is not a DIY job. Those repairs need a licensed professional, both for your safety and to keep your well from being contaminated further in the process.
 
-Tannin-colored water is rarely an emergency, but if your water suddenly turns dark, loses pressure, or you're worried about contamination reaching your well, we answer calls around the clock. [Reach out here](/#contact) or call [(509) 224-3484](tel:+15092243484) for service anywhere from Leavenworth to Moses Lake.
+Tannin-colored water is rarely an emergency, but if your water suddenly turns dark, loses pressure, or you're worried about contamination reaching your well, we answer calls around the clock. [Reach out here](/#contact) or call [(509) 351-8404](tel:+15093518404) for service anywhere from Leavenworth to Moses Lake.
 
 ## Frequently Asked Questions
 

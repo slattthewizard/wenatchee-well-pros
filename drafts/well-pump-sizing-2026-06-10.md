@@ -42,7 +42,7 @@ A typical 3 bedroom, 2 bath home in East Wenatchee lands around 10 to 12 fixture
 
 One critical ceiling on all of this: your well's yield. If the well only produces 6 GPM, installing a 12 GPM pump doesn't get you 12 GPM. It gets you a dry well and a cooked motor. A [well yield test](/blog/well-yield-test/) tells you what the well can actually sustain, and the pump should never out-pull it without storage in the system.
 
-Not sure what your well produces or what your household actually pulls? That's a 30 minute measurement for us. [Call (509) 224-3484](tel:+15092243484) and we'll test your flow before anyone buys a pump.
+Not sure what your well produces or what your household actually pulls? That's a 30 minute measurement for us. [Call (509) 351-8404](tel:+15093518404) and we'll test your flow before anyone buys a pump.
 
 ## Horsepower: Matching the Motor to the Lift
 
@@ -109,7 +109,7 @@ It also lasts. Properly sized submersibles in our area routinely hit 12 to 18 ye
 
 When we size a system, the process looks like this: measure static and pumping water levels, run a flow test on the well, count fixtures and ask about irrigation plans, calculate total dynamic head including elevation and friction, then match a pump curve so your target GPM lands in the middle of the curve, not the edge. It takes about an hour on site. Compare that to replacing a $3,500 pump twice in six years.
 
-Whether your current pump is dying or you're planning a new build outside Chelan or Manson, we'll size it right the first time. Free estimates, licensed and insured in Washington, and we answer the phone around the clock at (509) 224-3484.
+Whether your current pump is dying or you're planning a new build outside Chelan or Manson, we'll size it right the first time. Free estimates, licensed and insured in Washington, and we answer the phone around the clock at (509) 351-8404.
 
 ## Frequently Asked Questions
 

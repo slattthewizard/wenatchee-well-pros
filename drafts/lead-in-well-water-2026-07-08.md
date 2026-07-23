@@ -63,7 +63,7 @@ Testing for lead isn't hard, but doing it wrong is easy and common. Here's how t
 4. **Sample from more than one tap if you can.** Kitchen and bathroom lines were sometimes plumbed by different people at different times. One tap can look clean while another doesn't.
 5. **Retest after any plumbing, pump, or well work.** New connections and disturbed old fittings can temporarily change your numbers.
 
-If your results come back elevated and you're not sure what to do next, [call us at (509) 224-3484](tel:+15092243484) and we'll help you figure out whether the source is your plumbing, your well components, or the ground itself. For the full local testing rundown, including bacteria, nitrates, and arsenic, see our guide to [well water testing in Wenatchee](/blog/well-water-testing-wenatchee/).
+If your results come back elevated and you're not sure what to do next, [call us at (509) 351-8404](tel:+15093518404) and we'll help you figure out whether the source is your plumbing, your well components, or the ground itself. For the full local testing rundown, including bacteria, nitrates, and arsenic, see our guide to [well water testing in Wenatchee](/blog/well-water-testing-wenatchee/).
 
 ## Treatment Options That Remove Lead From Well Water
 

@@ -35,7 +35,7 @@ Over the long haul, the well usually wins on raw dollars. The difference is how 
 
 Marcy in East Wenatchee learned that the hard way last August. She'd owned her place for six years and never spent a dime on the well. Then on a 102 degree Saturday, the water just stopped. The submersible pump was original to the 1998 well, and it was done. Total bill: $3,200 for a new pump, wire, and drop pipe. She still came out ahead of two decades of city bills, but it didn't feel that way writing the check.
 
-If you want a clearer picture of what those lump sums look like before they hit, our [well pump cost guide](/well-pump-cost/) breaks down real prices for our area. Or just [call us at (509) 224-3484](tel:+15092243484) and we'll give you a free estimate on whatever your system needs.
+If you want a clearer picture of what those lump sums look like before they hit, our [well pump cost guide](/well-pump-cost/) breaks down real prices for our area. Or just [call us at (509) 351-8404](tel:+15093518404) and we'll give you a free estimate on whatever your system needs.
 
 ## Water Quality: What's Actually in Your Glass
 
@@ -105,7 +105,7 @@ We get calls every month from new owners who skipped this part. Don't be one of 
 
 A well isn't a reason to walk away from a property. Some of the best water in Washington comes out of private wells between Leavenworth and Lake Chelan. It's just a system, and like a roof or a furnace, you want to know its age and condition before you own it.
 
-Have questions about a well on a property you're considering, or about the one you've already got? [Reach out for a free estimate](/#contact) or call (509) 224-3484. We're local, we're licensed and insured in Washington, and we'll give you a straight answer either way.
+Have questions about a well on a property you're considering, or about the one you've already got? [Reach out for a free estimate](/#contact) or call (509) 351-8404. We're local, we're licensed and insured in Washington, and we'll give you a straight answer either way.
 
 ## Frequently Asked Questions
 

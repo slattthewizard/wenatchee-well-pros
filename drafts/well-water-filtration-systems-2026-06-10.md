@@ -21,7 +21,7 @@ A standard lab test for a private well runs $150 to $350 depending on what panel
 
 The [Washington Department of Health](https://doh.wa.gov/community-and-environment/drinking-water) recommends private well owners test for bacteria every year and nitrates every one to two years. Most people never test at all. Then they buy equipment based on taste, a stain, or a salesman's free in-home "test" that mysteriously always finds something expensive.
 
-Get the lab numbers first. If you want help reading the results or pulling a clean sample, [give us a call at (509) 224-3484](tel:+15092243484) and we'll walk you through it. Takes ten minutes.
+Get the lab numbers first. If you want help reading the results or pulling a clean sample, [give us a call at (509) 351-8404](tel:+15093518404) and we'll walk you through it. Takes ten minutes.
 
 ### What free in-home water tests really are
 
@@ -122,7 +122,7 @@ Cloudy water that clears when it sits is usually air, not contamination. Sudden 
 
 Filtration also depends on steady pressure. Backwashing filters like iron systems need 5 to 7 gallons per minute to clean themselves. If your well or pump can't deliver that, the media bed fouls and the system fails early. We check flow before we ever quote a backwashing filter, because installing one on a weak well just sets money on fire.
 
-So before you spend on treatment, make sure the well, pump, and tank are healthy. If your water changed suddenly, that's usually mechanical. Strange noises, pressure swings, or short bursts of air mean the system needs eyes on it. [Call (509) 224-3484](tel:+15092243484) and we'll figure out whether you've got a water problem or an equipment problem, usually in one visit.
+So before you spend on treatment, make sure the well, pump, and tank are healthy. If your water changed suddenly, that's usually mechanical. Strange noises, pressure swings, or short bursts of air mean the system needs eyes on it. [Call (509) 351-8404](tel:+15093518404) and we'll figure out whether you've got a water problem or an equipment problem, usually in one visit.
 
 ## The Right Order to Do This
 

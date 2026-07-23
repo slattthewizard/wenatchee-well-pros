@@ -17,7 +17,7 @@ faq:
   - question: "Can I just use a home test strip kit from the hardware store?"
     answer: "Strips are fine as a rough screening tool for things like hardness, pH, and iron, but they're not reliable for the tests that protect your health. Bacteria, arsenic, and lead need a certified lab, and lenders and health departments won't accept strip results. Spend the $50 at a real lab for the stuff that matters."
   - question: "Does Wenatchee Well Pros do water testing?"
-    answer: "We pull samples for certified lab analysis, handle lender-required testing for home sales, and fix the problems tests uncover, from shock chlorination to wellhead sealing to treatment system hookups. We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Call (509) 224-3484 any time, estimates are always free."
+    answer: "We pull samples for certified lab analysis, handle lender-required testing for home sales, and fix the problems tests uncover, from shock chlorination to wellhead sealing to treatment system hookups. We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Call (509) 351-8404 any time, estimates are always free."
 ---
 Your well water can look crystal clear, taste fine, and still carry bacteria, nitrates, or arsenic you'd never notice. When the USGS sampled private domestic wells across the country, roughly one in five had at least one contaminant above a health benchmark. And here's the part most well owners forget: nobody is checking your water but you.
 
@@ -88,7 +88,7 @@ One more habit worth building: keep your results. Write the date on every lab re
 
 Spring runoff deserves special mention here. Dale out in Quincy had perfect bacteria tests for 6 straight years. Then a wet March in 2024 pushed snowmelt right over his low wellhead, and his April sample came back positive for coliform. One round of shock chlorination and a raised, sealed well cap solved it, and his retest 10 days later was clean. If that ever happens to you, our guide to [shock chlorinating a well](/blog/well-chlorination-shock/) walks through the whole process.
 
-The takeaway: bacteria results aren't permanent. A clean test is a snapshot, which is exactly why the annual schedule matters. Got a result you don't understand, or water that suddenly seems off? Call us at [(509) 224-3484](tel:+15092243484) and we'll talk it through, no charge.
+The takeaway: bacteria results aren't permanent. A clean test is a snapshot, which is exactly why the annual schedule matters. Got a result you don't understand, or water that suddenly seems off? Call us at [(509) 351-8404](tel:+15093518404) and we'll talk it through, no charge.
 
 ## What Well Water Testing Costs in the Wenatchee Area
 
@@ -147,4 +147,4 @@ Strips are fine as a rough screening tool for things like hardness, pH, and iron
 
 ### Does Wenatchee Well Pros do water testing?
 
-We pull samples for certified lab analysis, handle lender-required testing for home sales, and fix the problems tests uncover, from shock chlorination to wellhead sealing to treatment system hookups. We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Call [(509) 224-3484](tel:+15092243484) any time, estimates are always free.
+We pull samples for certified lab analysis, handle lender-required testing for home sales, and fix the problems tests uncover, from shock chlorination to wellhead sealing to treatment system hookups. We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Call [(509) 351-8404](tel:+15093518404) any time, estimates are always free.

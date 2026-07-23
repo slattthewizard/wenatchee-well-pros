@@ -11,7 +11,7 @@ An uninsulated pump house in the Wenatchee Valley can drop below freezing in und
 
 If you live on a private well out here, you already know our winters don't mess around. Cashmere hit 9 below in the December 2022 cold snap. Quincy and Moses Lake sit out on open flats where the wind strips heat off a small building fast. The good news is that pump house insulation is one of the cheapest, highest-payoff projects a well owner can do. Most setups can be properly insulated for $150 to $600 in materials, and a weekend of work.
 
-This guide covers what your pump house actually needs to stay above freezing, which insulation materials work best, when insulation alone isn't enough, what it all costs, and the mistakes we see every winter that undo good work. If your gear already froze and you're standing in a cold pump house right now, skip the reading and [call us at (509) 224-3484](tel:+15092243484). We run 24/7 emergency well service across Chelan, Douglas, and Grant counties.
+This guide covers what your pump house actually needs to stay above freezing, which insulation materials work best, when insulation alone isn't enough, what it all costs, and the mistakes we see every winter that undo good work. If your gear already froze and you're standing in a cold pump house right now, skip the reading and [call us at (509) 351-8404](tel:+15093518404). We run 24/7 emergency well service across Chelan, Douglas, and Grant counties.
 
 ## Why Pump Houses Freeze in North Central Washington
 
@@ -101,7 +101,7 @@ A full freeze event commonly hits two or three of those bottom lines at once. We
 
 Marcy in Leavenworth learned the price difference the hard way two winters ago. Her pump house looked insulated, old fiberglass batts stapled up in the 80s. Mice had hollowed out the bottom two feet of every wall cavity. When it hit minus 8 over Christmas, her pressure tank tee and switch froze and cracked. Total bill: $1,420, on a holiday emergency rate. The following spring she spent $380 on foam board and a small heater. Last winter, the remote sensor in her pump house never read below 38.
 
-Already past prevention and into damage? Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles freeze damage all winter, and if the tank took the hit, we do [pressure tank replacement](/pressure-tank-replacement-wenatchee/) too, usually same-day. Frozen solid right now with no water? [Call (509) 224-3484](tel:+15092243484), we answer around the clock.
+Already past prevention and into damage? Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles freeze damage all winter, and if the tank took the hit, we do [pressure tank replacement](/pressure-tank-replacement-wenatchee/) too, usually same-day. Frozen solid right now with no water? [Call (509) 351-8404](tel:+15093518404), we answer around the clock.
 
 ## Five Mistakes That Undo Good Pump House Insulation
 
@@ -137,4 +137,4 @@ No. The well bore and the pump down in it sit far below the frost line where gro
 
 ### What if my pump house already froze and I have no water?
 
-Shut off power to the pump at the breaker so it doesn't run dry against a frozen or split line. Never thaw pipes with a torch or open flame. Gentle heat from a space heater can work if nothing has split, but if you see cracked fittings, ice in the switch, or water leaking as things thaw, stop and call us at (509) 224-3484. We handle frozen well systems across the valley 24/7.
+Shut off power to the pump at the breaker so it doesn't run dry against a frozen or split line. Never thaw pipes with a torch or open flame. Gentle heat from a space heater can work if nothing has split, but if you see cracked fittings, ice in the switch, or water leaking as things thaw, stop and call us at (509) 351-8404. We handle frozen well systems across the valley 24/7.

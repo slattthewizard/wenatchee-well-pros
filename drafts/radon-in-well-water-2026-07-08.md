@@ -56,7 +56,7 @@ Testing radon in well water takes a specific kind of lab test, not a strip you d
 
 If you're buying or selling a home on well water anywhere from Cashmere to Chelan, get this done before closing, not after. Our guide to [well inspections when buying a home](/blog/well-inspection-buying-home/) covers the rest of the pre-purchase checklist, and our broader rundown on [well water testing in Wenatchee](/blog/well-water-testing-wenatchee/) walks through which panels to order and when.
 
-Not sure whether your property sits on higher-risk granite ground or safer basalt ground? [Call us at (509) 224-3484](tel:+15092243484) and we can talk through your well's location and depth before you spend a dime on testing.
+Not sure whether your property sits on higher-risk granite ground or safer basalt ground? [Call us at (509) 351-8404](tel:+15093518404) and we can talk through your well's location and depth before you spend a dime on testing.
 
 ## Treatment Options for Radon in Well Water
 

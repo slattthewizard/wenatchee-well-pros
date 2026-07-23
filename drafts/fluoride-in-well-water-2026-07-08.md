@@ -13,7 +13,7 @@ That surprises a lot of people. Fluoride in well water isn't something anyone ad
 
 The good news is that fluoride is easy to test for and manageable once you know your number. This guide covers where it comes from, what levels actually mean for your family's health, and what it costs to fix if your well runs high.
 
-If you already suspect your water's an issue and just want a straight answer, [call us at (509) 224-3484](tel:+15092243484) or [request a free estimate here](/#contact). We test wells across North Central Washington every week and can usually get you answers within days.
+If you already suspect your water's an issue and just want a straight answer, [call us at (509) 351-8404](tel:+15093518404) or [request a free estimate here](/#contact). We test wells across North Central Washington every week and can usually get you answers within days.
 
 ## Why Fluoride Shows Up in Wenatchee-Area Well Water
 
@@ -98,7 +98,7 @@ A few practical habits make a real difference:
 
 **Don't ignore a high wellhead or casing problem.** A cracked cap or damaged casing is an electrical and structural issue, not a DIY fix. That's down-hole and wellhead work that needs a licensed pro, separate from anything you can do about fluoride itself.
 
-If your test comes back high, or you just want to know where your well stands before it becomes a dental office surprise, [call (509) 224-3484](tel:+15092243484) any time. Estimates are free, and we're licensed and insured across Chelan, Douglas, and Grant counties.
+If your test comes back high, or you just want to know where your well stands before it becomes a dental office surprise, [call (509) 351-8404](tel:+15093518404) any time. Estimates are free, and we're licensed and insured across Chelan, Douglas, and Grant counties.
 
 ## Frequently Asked Questions
 

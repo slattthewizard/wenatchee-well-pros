@@ -98,7 +98,7 @@ Real numbers from our service area, parts and labor included. Deep wells, hard a
 
 A full staged upgrade, tank to pump to pipe, usually lands between $4,500 and $8,500 spread over a year or two. Compare that to an emergency full-system failure, which often costs more for the same parts plus after-hours rates, and the staged approach wins every time.
 
-Want a number for your specific setup? Call us at [(509) 224-3484](tel:+15092243484) and we'll give you a free estimate based on your well depth, water use, and what's actually failing.
+Want a number for your specific setup? Call us at [(509) 351-8404](tel:+15093518404) and we'll give you a free estimate based on your well depth, water use, and what's actually failing.
 
 ## Upgrades Worth Adding While the System's Open
 

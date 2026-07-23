@@ -33,7 +33,7 @@ Stack it up and a 200-foot well in decent ground lands around $18,000 to $25,000
 
 One number people miss: dry holes. If the driller goes 400 feet and finds nothing, you still pay for those 400 feet. Most drillers in our area charge a reduced dry-hole rate, but it's rarely less than half. Ask about it before the rig shows up.
 
-Not sure whether you need a new well or just a new pump? Worth a five-minute conversation before you spend five figures. [Call us at (509) 224-3484](tel:+15092243484) and we'll talk it through, no charge.
+Not sure whether you need a new well or just a new pump? Worth a five-minute conversation before you spend five figures. [Call us at (509) 351-8404](tel:+15093518404) and we'll talk it through, no charge.
 
 ## What Drives Well Drilling Costs in North Central Washington
 
@@ -105,7 +105,7 @@ You can't change the geology under your land, but you can control plenty.
 
 **Coordinate the pump install with the driller's schedule.** When we know the completion date, depth, and yield ahead of time, we can have the right pump on the truck the day the rig leaves. You get water days sooner and avoid return-trip charges.
 
-Want a second set of eyes on a drilling bid, or a firm quote on the pump system side? [Call (509) 224-3484](tel:+15092243484). We've read hundreds of these invoices and we'll tell you what's normal for your area.
+Want a second set of eyes on a drilling bid, or a firm quote on the pump system side? [Call (509) 351-8404](tel:+15093518404). We've read hundreds of these invoices and we'll tell you what's normal for your area.
 
 ## The Bottom Line
 

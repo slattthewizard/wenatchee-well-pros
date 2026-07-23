@@ -111,7 +111,7 @@ Compare that to the cost of getting it wrong. A storage tank and booster system 
 
 Dale in Quincy learned this the cheap way. He was about to spend $4,800 replacing his 15-year-old submersible because the house kept losing pressure on summer evenings. We ran a yield test first. The well made a steady 18 GPM and the pump was fine. The actual culprit was a waterlogged pressure tank, a $1,400 fix. The $300 test saved him $3,400 and a pump he didn't need. If your pressure drops at peak times, a flow test plus a look at the [pressure tank](/pressure-tank-replacement-wenatchee/) should come before any pump replacement.
 
-Want to know what your well is really making? [Call (509) 224-3484](tel:+15092243484) and we'll schedule a test, usually within a few days, same week in most of Chelan and Douglas counties.
+Want to know what your well is really making? [Call (509) 351-8404](tel:+15093518404) and we'll schedule a test, usually within a few days, same week in most of Chelan and Douglas counties.
 
 ## What to Do If Your Well Tests Low
 
@@ -152,7 +152,7 @@ You don't need a test every year. You do need one at these moments:
 
 Testing in late summer gives you the most conservative number, since aquifers around here are at their seasonal low after irrigation season. If your well can make its numbers in August, it can make them in April.
 
-Ready to put a real number on your well? [Schedule your flow test here](/#contact) or call us at (509) 224-3484. Free estimates, licensed and insured in Washington, and we'll explain every number on the report in plain English.
+Ready to put a real number on your well? [Schedule your flow test here](/#contact) or call us at (509) 351-8404. Free estimates, licensed and insured in Washington, and we'll explain every number on the report in plain English.
 
 ## Frequently Asked Questions
 

@@ -31,7 +31,7 @@ A well system is a chain: power comes from your panel, runs through a pressure s
 
 When water stops, any link in that chain could be the culprit. The pump itself is actually the least likely failure on any given day, because it's built to last 10 to 15 years. The cheap parts around it, the switch, the contacts, the tank bladder, fail far more often.
 
-That's good news for your wallet, and a little troubleshooting can save you a service call. If you'd rather have someone walk you through it live, [call us at (509) 224-3484](tel:+15092243484) and we'll talk it through over the phone before anyone rolls a truck. We do that for free, every week.
+That's good news for your wallet, and a little troubleshooting can save you a service call. If you'd rather have someone walk you through it live, [call us at (509) 351-8404](tel:+15093518404) and we'll talk it through over the phone before anyone rolls a truck. We do that for free, every week.
 
 Now grab a flashlight and let's go down the list.
 
@@ -141,7 +141,7 @@ Most pump failures send warnings for weeks or months. Around here, three local f
 
 The cheap insurance: walk out to your pressure tank twice a year, tap-test it, watch one full pump cycle on the gauge, and listen for 60 seconds of chatter-free running. Five minutes in April and October beats a 6 a.m. surprise in January. If your pump is past the 10-year mark, start planning the replacement now instead of getting ambushed by it.
 
-And if you're standing in the pump house right now with a flashlight and a bad feeling, skip the guesswork. [Call (509) 224-3484](tel:+15092243484), describe what you're seeing, and we'll tell you honestly whether it's a $200 fix or a bigger conversation. Free estimates, licensed and insured in Washington, and we've probably seen your exact problem this month already.
+And if you're standing in the pump house right now with a flashlight and a bad feeling, skip the guesswork. [Call (509) 351-8404](tel:+15093518404), describe what you're seeing, and we'll tell you honestly whether it's a $200 fix or a bigger conversation. Free estimates, licensed and insured in Washington, and we've probably seen your exact problem this month already.
 
 ## Frequently Asked Questions
 

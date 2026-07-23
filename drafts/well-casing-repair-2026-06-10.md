@@ -11,7 +11,7 @@ Here's a number that surprises most well owners: a steel well casing in our area
 
 The good news? Well casing repair is almost always cheaper than drilling a new well, and the earlier you catch the damage, the more options you have. In this guide, we'll walk through what your casing actually does, the warning signs of damage, the main repair methods (liners, patches, partial replacement), what each one costs in North Central Washington, and when it makes more sense to replace the well entirely.
 
-If your water already looks like weak coffee or your pump is grinding sand, don't wait on this article. [Call (509) 224-3484](tel:+15092243484) and we'll get a tech out to look at it, usually same day.
+If your water already looks like weak coffee or your pump is grinding sand, don't wait on this article. [Call (509) 351-8404](tel:+15093518404) and we'll get a tech out to look at it, usually same day.
 
 ## What Your Well Casing Does (and Why Damage Is a Big Deal)
 
@@ -136,4 +136,4 @@ No, and not just for liability reasons. Casing repair requires a pump hoist or d
 
 A properly installed liner typically lasts 20 to 30 years, and a replaced top section can outlive the rest of the well. A point patch on otherwise sound casing should give you 10 to 20 years. Pair any repair with annual water testing so you'll know early if anything changes.
 
-Sand in the water, brown taps after snowmelt, or a pump that keeps dying young? Those are casing symptoms, and they don't fix themselves. Call Wenatchee Well Pros at [(509) 224-3484](tel:+15092243484) for a free estimate anywhere in Chelan, Douglas, or Grant County. And if you've got no water at all right now, our [emergency well service](/emergency-well-service-wenatchee/) runs 24/7.
+Sand in the water, brown taps after snowmelt, or a pump that keeps dying young? Those are casing symptoms, and they don't fix themselves. Call Wenatchee Well Pros at [(509) 351-8404](tel:+15093518404) for a free estimate anywhere in Chelan, Douglas, or Grant County. And if you've got no water at all right now, our [emergency well service](/emergency-well-service-wenatchee/) runs 24/7.

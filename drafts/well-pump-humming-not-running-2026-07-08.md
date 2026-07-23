@@ -13,7 +13,7 @@ Well pump humming not running is one of the more specific problems we diagnose a
 
 This guide walks through what causes the hum, how to tell the three causes apart, what each repair runs in North Central Washington, and when to shut the breaker off and stop guessing. If you're hearing that hum right now, the single most useful thing you can do before reading further is flip the breaker off. That one move protects your pump while you figure out the rest.
 
-If you'd rather skip the diagnosis and get a tech out, [call us at (509) 224-3484](tel:+15092243484). We answer 24/7 and estimates are free.
+If you'd rather skip the diagnosis and get a tech out, [call us at (509) 351-8404](tel:+15093518404). We answer 24/7 and estimates are free.
 
 ## Why Your Well Pump Hums but Won't Run
 
@@ -105,7 +105,7 @@ A humming pump is rarely a true middle-of-the-night emergency the way a burst pi
 - You've got livestock, an orchard block, or a household that genuinely can't wait on water.
 - The hum started right after your water turned gritty, sandy, or cloudy.
 
-If any of those apply, don't wait it out. [Call (509) 224-3484](tel:+15092243484) any hour, day or night. We'll ask a few quick questions about the pattern you're hearing and, more often than not, know roughly what we're dealing with before the truck even leaves the shop.
+If any of those apply, don't wait it out. [Call (509) 351-8404](tel:+15093518404) any hour, day or night. We'll ask a few quick questions about the pattern you're hearing and, more often than not, know roughly what we're dealing with before the truck even leaves the shop.
 
 Whatever the cause turns out to be, catching a humming pump within the first day or two almost always keeps you at the cheap end of that cost table above. That's the whole reason this hum is worth taking seriously the moment you hear it, rather than hoping it works itself out.
 

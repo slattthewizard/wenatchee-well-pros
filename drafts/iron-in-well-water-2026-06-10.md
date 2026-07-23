@@ -55,7 +55,7 @@ But "not dangerous" doesn't mean "not expensive." Here's the running tab iron qu
 - **Shortened appliance life.** Water heaters, dishwashers, and washing machines in heavy-iron homes often die 3 to 5 years early.
 - **Pump and pressure tank damage.** Iron scale and bacterial slime clog pump intakes and foul the air bladder system. If your tank is already misbehaving, our [pressure tank replacement service](/pressure-tank-replacement-wenatchee/) can sort out whether iron played a role.
 
-There's also the taste. Above about 0.5 ppm, water picks up a metallic flavor that ruins coffee, tea, and anything you cook in it. Marcy in Quincy put up with it for two years because her water "tested safe." It did test safe. It also tested at 4.2 ppm iron, fourteen times the staining threshold. After we installed an air-injection iron filter, she told us her first pot of coffee tasted like a different brand. Got a metallic taste you've been living with? [Call us at (509) 224-3484](tel:+15092243484) and we'll get a sample tested.
+There's also the taste. Above about 0.5 ppm, water picks up a metallic flavor that ruins coffee, tea, and anything you cook in it. Marcy in Quincy put up with it for two years because her water "tested safe." It did test safe. It also tested at 4.2 ppm iron, fourteen times the staining threshold. After we installed an air-injection iron filter, she told us her first pot of coffee tasted like a different brand. Got a metallic taste you've been living with? [Call us at (509) 351-8404](tel:+15093518404) and we'll get a sample tested.
 
 ## Test Before You Treat
 
@@ -105,7 +105,7 @@ Watch for these patterns:
 
 That last one is the expensive trap, because pumps fail quietly until they fail completely. If your pump's behavior has changed, read up on the [signs a well pump is failing](/blog/signs-well-pump-failing/) and don't wait for the no-water morning. And a safety note while we're here: checking your breaker is fine, but leave pressure switch wiring, control boxes, and anything at the wellhead's electrical side to a licensed pro. Well circuits carry 240 volts and they don't give second chances.
 
-Iron problems are almost never emergencies. Until they are, usually at 6 a.m. on a Saturday when the slimed-up pump finally quits. If that's the morning you're having, we answer the phone around the clock. [Call (509) 224-3484](tel:+15092243484) for 24/7 no-water service anywhere from Lake Chelan to Moses Lake.
+Iron problems are almost never emergencies. Until they are, usually at 6 a.m. on a Saturday when the slimed-up pump finally quits. If that's the morning you're having, we answer the phone around the clock. [Call (509) 351-8404](tel:+15093518404) for 24/7 no-water service anywhere from Lake Chelan to Moses Lake.
 
 ## Frequently Asked Questions
 

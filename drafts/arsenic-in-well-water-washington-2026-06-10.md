@@ -58,7 +58,7 @@ Here's how to do it right:
 
 When should you test? At minimum: when you buy a home with a well, after any well repair or deepening, and every 3 to 5 years even if past results were clean. Annually if you've ever had a detection above 5 ppb. We walk through the full testing playbook, including bacteria and nitrates, in our guide to [well water testing in Wenatchee](/blog/well-water-testing-wenatchee/).
 
-Not sure which test to order or how to read the report once it lands in your inbox? [Call us at (509) 224-3484](tel:+15092243484) and we'll talk you through it. No charge for the conversation.
+Not sure which test to order or how to read the report once it lands in your inbox? [Call us at (509) 351-8404](tel:+15093518404) and we'll talk you through it. No charge for the conversation.
 
 ## Treatment Options That Actually Remove Arsenic
 

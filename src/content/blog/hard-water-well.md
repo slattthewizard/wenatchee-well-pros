@@ -17,7 +17,7 @@ faq:
   - question: "Will a water softener hurt my well pump or use too much water?"
     answer: "No, a correctly installed softener has no effect on your pump because it sits downstream of the pressure tank. Regeneration uses roughly 35 to 65 gallons per cycle, typically once or twice a week, which is a rounding error for most wells. If your well is very low yield, tell your installer so they can set regeneration timing and salt efficiency accordingly."
   - question: "How much does a water softener cost for a well?"
-    answer: "Plan on $1,200 to $3,000 installed for a quality salt-based unit sized for typical local hardness, and $2,500 to $5,500 if you also need iron treatment ahead of it. Ongoing cost is mostly salt, usually $10 to $25 a month. Cheap undersized units cost less upfront and fail early on very hard well water, so size to your tested numbers. --- Hard well water won't flood your basement or leave you without water on a Saturday night. It just sits there, quietly taxing every appliance and fixture you own. Test your water, know your number, and treat it once, correctly. Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call (509) 224-3484 or email info@wenatcheewellpros.com."
+    answer: "Plan on $1,200 to $3,000 installed for a quality salt-based unit sized for typical local hardness, and $2,500 to $5,500 if you also need iron treatment ahead of it. Ongoing cost is mostly salt, usually $10 to $25 a month. Cheap undersized units cost less upfront and fail early on very hard well water, so size to your tested numbers. --- Hard well water won't flood your basement or leave you without water on a Saturday night. It just sits there, quietly taxing every appliance and fixture you own. Test your water, know your number, and treat it once, correctly. Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call (509) 351-8404 or email info@wenatcheewellpros.com."
 ---
 That white crust on your faucets isn't soap scum. It's rock, dissolved out of the ground and redeposited inside your home, one gallon at a time.
 
@@ -96,7 +96,7 @@ Rick out in Quincy replaced his pressure switch twice in one year trying to chas
 
 Dishwashers and washing machines on very hard water commonly die 2 to 4 years early. Fixture cartridges stick and drip. Aerators clog every few months. None of these is a big check on its own. Add them up over ten years and very hard water can quietly cost a household several thousand dollars.
 
-If your symptoms include banging pipes, sputtering faucets, or pressure that surges and drops, stop and call us before you buy treatment equipment. Those point at the well system itself, not hardness, and our [well pump repair team](/well-pump-repair-wenatchee/) can sort out which problem you actually have. You can reach us anytime at [(509) 224-3484](tel:+15092243484).
+If your symptoms include banging pipes, sputtering faucets, or pressure that surges and drops, stop and call us before you buy treatment equipment. Those point at the well system itself, not hardness, and our [well pump repair team](/well-pump-repair-wenatchee/) can sort out which problem you actually have. You can reach us anytime at [(509) 351-8404](tel:+15093518404).
 
 ## Test First: Know Your Numbers Before You Buy Anything
 
@@ -168,4 +168,4 @@ Plan on $1,200 to $3,000 installed for a quality salt-based unit sized for typic
 
 Hard well water won't flood your basement or leave you without water on a Saturday night. It just sits there, quietly taxing every appliance and fixture you own. Test your water, know your number, and treat it once, correctly.
 
-Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call [(509) 224-3484](tel:+15092243484) or email info@wenatcheewellpros.com.
+Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call [(509) 351-8404](tel:+15093518404) or email info@wenatcheewellpros.com.

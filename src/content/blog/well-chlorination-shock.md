@@ -2,7 +2,7 @@
 title: "Shock Chlorination for Your Well: A Step-by-Step Guide"
 navTitle: "Shock Chlorination for Your"
 metaTitle: "Shock Chlorination Well Guide: Disinfect in 7 Steps"
-metaDescription: "Shock chlorination well guide from Wenatchee Well Pros: bleach amounts, contact time, and flushing steps to disinfect your well safely. Call (509) 224-3484."
+metaDescription: "Shock chlorination well guide from Wenatchee Well Pros: bleach amounts, contact time, and flushing steps to disinfect your well safely. Call (509) 351-8404."
 primaryKeyword: "shock chlorination well"
 secondaryKeywords: "how to shock chlorinate a well, well disinfection, shock chlorinating a well with bleach, chlorinate well water, well shocking"
 publishedDate: "2026-06-30"
@@ -65,7 +65,7 @@ Set aside a full weekend. The work itself takes a few hours. The waiting takes t
 
 Flip the breaker for the well pump before you touch the cap. The wiring for your pump runs right through the wellhead, and you do not want to be loosening bolts next to live 240-volt conductors. Remove the cap bolts and lift the cap, keeping the wiring connected and out of your way.
 
-Stop here if the cap is corroded shut, the wiring looks chewed or brittle, or you see a sanitary seal you don't understand. That's a [call to us at (509) 224-3484](tel:+15092243484), not a pry bar situation.
+Stop here if the cap is corroded shut, the wiring looks chewed or brittle, or you see a sanitary seal you don't understand. That's a [call to us at (509) 351-8404](tel:+15093518404), not a pry bar situation.
 
 ### Step 2: Inspect the wellhead
 

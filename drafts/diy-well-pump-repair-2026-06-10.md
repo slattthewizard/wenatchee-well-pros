@@ -13,7 +13,7 @@ So yes, you're right to try some things yourself before you pay anyone. A lot of
 
 But there's a hard line in well work, and people cross it every summer out here. On one side of that line you save $250. On the other side you fry a $1,400 pump, or worse, you tangle with 240 volts at the bottom of a wet pump house.
 
-This guide walks you through both sides. First, the checks and fixes any careful homeowner in Wenatchee, Cashmere, Quincy, or Chelan can handle. Then the exact warning signs that mean stop, put the tools down, and call someone. If you'd rather skip straight to the second part, call us at [(509) 224-3484](tel:+15092243484). We'll talk you through the first few checks over the phone for free, no truck roll required.
+This guide walks you through both sides. First, the checks and fixes any careful homeowner in Wenatchee, Cashmere, Quincy, or Chelan can handle. Then the exact warning signs that mean stop, put the tools down, and call someone. If you'd rather skip straight to the second part, call us at [(509) 351-8404](tel:+15093518404). We'll talk you through the first few checks over the phone for free, no truck roll required.
 
 ## Start With the Free Stuff: 10-Minute Well Pump Troubleshooting
 
@@ -112,7 +112,7 @@ One more quick story, because not every call ends in a big bill. Marcy in Quincy
 
 When it is a real failure, here's our process. We diagnose at the tank and switch first, then megger-test the wiring down the well before we ever pull pipe, so you're never paying for a pump you didn't need. Most [well pump repairs in Wenatchee](/well-pump-repair-wenatchee/) wrap up the same day. And if you're standing in a dry kitchen right now, our [24/7 emergency well service](/emergency-well-service-wenatchee/) covers the whole valley, Leavenworth to Moses Lake.
 
-You did your part by troubleshooting smart. Let us do ours. Call [(509) 224-3484](tel:+15092243484) any hour, and we'll get your water back on.
+You did your part by troubleshooting smart. Let us do ours. Call [(509) 351-8404](tel:+15093518404) any hour, and we'll get your water back on.
 
 ## Frequently Asked Questions
 

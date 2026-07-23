@@ -11,7 +11,7 @@ About nine out of ten pumps we pull in the Wenatchee Valley are submersibles. So
 
 If you've been researching the submersible vs jet pump question, you've probably noticed the advice online contradicts itself. One site says jet pumps are obsolete. Another says they're the budget hero. Here's the honest version from a crew that works on both every week, from orchard wells in Cashmere to lake homes above Chelan. By the end of this article you'll know how each pump works, where the hard depth limits sit, what each one really costs installed, and which one makes sense for a North Central Washington well. In most cases, your well's depth makes the decision for you.
 
-If you'd rather skip the homework and just get an answer for your specific well, [call us at (509) 224-3484](tel:+15092243484) and we'll talk it through. Free estimates, no pressure.
+If you'd rather skip the homework and just get an answer for your specific well, [call us at (509) 351-8404](tel:+15093518404) and we'll talk it through. Free estimates, no pressure.
 
 ## How Each Pump Actually Works, in Plain English
 
@@ -100,7 +100,7 @@ One pattern we see a lot: a home with a tired deep well jet pump straining at 70
 
 Whatever you install, make sure it's sized and set up legally. Washington has real rules on well construction and pump installation, and the [Department of Ecology's well program](https://ecology.wa.gov/water-shorelines/water-supply/wells) is the authority on what's required. A licensed installer handles that paperwork and the electrical, which is not a place to improvise. Wiring a 230-volt pump circuit wrong can kill the pump, or you.
 
-And if your current pump is limping, get it looked at before it strands you. Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) can often save a pump that's caught early, and when it's truly done, [well pump replacement](/well-pump-replacement-wenatchee/) usually happens same day or next day. No water right now? Don't wait on a blog post. [Call (509) 224-3484](tel:+15092243484), we answer 24/7.
+And if your current pump is limping, get it looked at before it strands you. Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) can often save a pump that's caught early, and when it's truly done, [well pump replacement](/well-pump-replacement-wenatchee/) usually happens same day or next day. No water right now? Don't wait on a blog post. [Call (509) 351-8404](tel:+15093518404), we answer 24/7.
 
 ## The Bottom Line
 

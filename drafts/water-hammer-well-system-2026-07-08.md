@@ -23,7 +23,7 @@ The bang you hear is pipe hitting framing, or the shockwave hitting an elbow fit
 
 In a well system, water hammer has an extra source that city-water homes don't deal with: the check valve on your pump itself. Every time your pump cycles off, that valve has to snap shut to keep water from draining back down the well. A worn or oversized check valve slams instead of closing smoothly, and you get hammer right at the source, down in the well casing or pump house, every single cycle.
 
-If you're hearing banging every time the pump kicks off, don't wait for a fitting to fail at 2 a.m. [Call Wenatchee Well Pros at (509) 224-3484](tel:+15092243484) and we'll track down the source before it costs you a burst pipe.
+If you're hearing banging every time the pump kicks off, don't wait for a fitting to fail at 2 a.m. [Call Wenatchee Well Pros at (509) 351-8404](tel:+15093518404) and we'll track down the source before it costs you a burst pipe.
 
 ## What Causes Water Hammer in a Well System
 

@@ -71,7 +71,7 @@ Washington code wants the top of your casing at least 6 inches above grade, and 
 
 Cloudy water after rain, a musty taste, sediment that wasn't there before, or a failed coliform test. These don't always mean a bad cap, but the cap is the first thing any honest well contractor checks because it's the cheapest possible culprit.
 
-Two or more of these signs? Don't sit on it. [Call us at (509) 224-3484](tel:+15092243484) and we can usually swap a cap within a day or two, same day if you're in the Wenatchee or East Wenatchee core.
+Two or more of these signs? Don't sit on it. [Call us at (509) 351-8404](tel:+15093518404) and we can usually swap a cap within a day or two, same day if you're in the Wenatchee or East Wenatchee core.
 
 ## Standard Caps vs. Sanitary Well Caps: Know the Difference
 

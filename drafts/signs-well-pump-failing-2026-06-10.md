@@ -23,7 +23,7 @@ Each of those problems leaves fingerprints upstairs in your house. Pressure chan
 
 The pumps that "die suddenly" usually didn't. The owner just wasn't reading the signals. According to the [EPA, more than 23 million households in the U.S. rely on private wells](https://www.epa.gov/privatewells), and the agency puts the responsibility for monitoring squarely on the owner. Nobody's coming to inspect your system for you.
 
-If anything in the list below sounds familiar, don't wait for the dry tap. [Call Wenatchee Well Pros at (509) 224-3484](tel:+15092243484) and we'll tell you over the phone whether it sounds urgent. Free estimates, no pressure.
+If anything in the list below sounds familiar, don't wait for the dry tap. [Call Wenatchee Well Pros at (509) 351-8404](tel:+15093518404) and we'll tell you over the phone whether it sounds urgent. Free estimates, no pressure.
 
 ## 7 Signs of a Failing Well Pump
 
@@ -99,7 +99,7 @@ We pulled typical numbers from jobs around Wenatchee, East Wenatchee, Cashmere, 
 
 Two more numbers worth knowing. After-hours emergency service typically adds $200 to $500 to any job, and a family without water usually spends another $100 or more a day on bottled water, laundromats, and hotel showers. Deferred maintenance is the most expensive kind.
 
-If your pump is past saving, we'll give you straight numbers up front. See what's involved in a [well pump replacement in Wenatchee](/well-pump-replacement-wenatchee/), or call [(509) 224-3484](tel:+15092243484) for a free estimate. We answer 24/7 because no-water emergencies don't keep business hours.
+If your pump is past saving, we'll give you straight numbers up front. See what's involved in a [well pump replacement in Wenatchee](/well-pump-replacement-wenatchee/), or call [(509) 351-8404](tel:+15093518404) for a free estimate. We answer 24/7 because no-water emergencies don't keep business hours.
 
 ## What You Can Safely Check Yourself (And When to Stop)
 
@@ -135,4 +135,4 @@ That's short cycling, and the most common cause is a pressure tank that's lost i
 
 ### What does it cost to replace a well pump in the Wenatchee area?
 
-Most submersible pump replacements in Chelan, Douglas, and Grant counties run $1,800 to $3,500 installed, depending on well depth, pump size, and wire condition. Deep wells past 300 feet or constant pressure systems cost more. We give free, no-obligation estimates at (509) 224-3484 before any work starts.
+Most submersible pump replacements in Chelan, Douglas, and Grant counties run $1,800 to $3,500 installed, depending on well depth, pump size, and wire condition. Deep wells past 300 feet or constant pressure systems cost more. We give free, no-obligation estimates at (509) 351-8404 before any work starts.

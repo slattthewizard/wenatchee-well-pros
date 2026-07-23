@@ -25,7 +25,7 @@ Take a breath first. A positive result for coliform bacteria in well water is co
 
 This guide walks through what your specific result means, which numbers on the report actually matter, where the contamination is probably coming from, and what to do in the next 24 hours. We'll also cover when a positive test points to something bigger than bacteria, and when it's time to stop guessing and call a professional.
 
-If you already know you need help sorting out a positive test, [call us at (509) 224-3484](tel:+15092243484) and we'll walk through your specific report with you at no charge.
+If you already know you need help sorting out a positive test, [call us at (509) 351-8404](tel:+15093518404) and we'll walk through your specific report with you at no charge.
 
 ## What a Positive Coliform Bacteria Test Actually Means
 
@@ -125,7 +125,7 @@ Shock chlorination and a wellhead inspection cover most positive coliform result
 - **Anything involves the electrical connections at the wellhead.** The wiring for your pump runs right through that area, and it's not a DIY zone.
 - **You're on a shared well** and need to coordinate testing, treatment, or repairs with other households.
 
-We service wellheads, casings, and treatment systems across Chelan, Douglas, and Grant counties, including repair work tied to contamination issues through our [well pump repair service](/well-pump-repair-wenatchee/). Most wellhead defects that cause repeat coliform positives, cracked caps, bad seals, missing screens, cost far less to fix than the ongoing frustration of a well that never tests clean. [Call (509) 224-3484](tel:+15092243484) and we'll give you a straight answer about what your specific report means and what it'll take to fix it. Estimates are always free, and we're licensed and insured in Washington.
+We service wellheads, casings, and treatment systems across Chelan, Douglas, and Grant counties, including repair work tied to contamination issues through our [well pump repair service](/well-pump-repair-wenatchee/). Most wellhead defects that cause repeat coliform positives, cracked caps, bad seals, missing screens, cost far less to fix than the ongoing frustration of a well that never tests clean. [Call (509) 351-8404](tel:+15093518404) and we'll give you a straight answer about what your specific report means and what it'll take to fix it. Estimates are always free, and we're licensed and insured in Washington.
 
 ## Frequently Asked Questions
 

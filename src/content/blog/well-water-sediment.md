@@ -75,7 +75,7 @@ Marcy in Quincy is the example we use most. She noticed grit in her bathtub in M
 
 The lesson is simple. Sediment problems get more expensive the longer they run. Catch it early and you're usually fixing a placement or filtration issue. Catch it late and you're buying a pump.
 
-If your water has already slowed to a trickle or quit, don't wait on a blog post. Our [emergency well service](/emergency-well-service-wenatchee/) runs 24/7, or just call us at [(509) 224-3484](tel:+15092243484) and we'll talk you through it.
+If your water has already slowed to a trickle or quit, don't wait on a blog post. Our [emergency well service](/emergency-well-service-wenatchee/) runs 24/7, or just call us at [(509) 351-8404](tel:+15093518404) and we'll talk you through it.
 
 ## How to Fix Sediment in Well Water
 
@@ -116,7 +116,7 @@ And if you have a sediment filter, actually change it. A loaded filter drops you
 
 Last fall, Dave and Carrie in East Wenatchee bought a 1990s home on a private well. Their inspection had skipped the well entirely. Six weeks in, sediment showed up, and a camera inspection found a corroded screen section. The repair ran $4,200, money they could have negotiated off the purchase price if anyone had looked. If you're buying rural property, our post on [well inspections when buying a home](/blog/well-inspection-buying-home/) could save you that exact headache.
 
-Cloudy water doesn't fix itself, and every day of sand through the pump is wear you can't undo. [Get a free diagnosis on your sediment problem](/#contact), or call [(509) 224-3484](tel:+15092243484). We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and we'll give you straight answers and real numbers before any work starts.
+Cloudy water doesn't fix itself, and every day of sand through the pump is wear you can't undo. [Get a free diagnosis on your sediment problem](/#contact), or call [(509) 351-8404](tel:+15093518404). We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and we'll give you straight answers and real numbers before any work starts.
 
 ## Frequently Asked Questions
 

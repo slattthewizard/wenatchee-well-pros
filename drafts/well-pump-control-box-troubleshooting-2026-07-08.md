@@ -9,7 +9,7 @@ secondary_keywords: "well pump control box troubleshooting, control box vs press
 
 Your pump hums for a second, maybe kicks the breaker, then goes dead silent. Before you assume the pump itself is shot and start pricing a $3,000 replacement, there's a smaller, cheaper box worth checking first. On a 3-wire submersible system, the well pump control box is often the actual culprit, and swapping it runs a fraction of what a new pump costs.
 
-We see this mix-up constantly across the Wenatchee Valley. A homeowner hears a hum or a click, assumes the worst, and calls asking about pump replacement. Half the time the pump down the hole is fine. It's the little metal box mounted near the pressure tank, usually gray or green, about the size of a large lunchbox, that's given out. If you want the short version now, [call us at (509) 224-3484](tel:+15092243484) and we'll walk you through it over the phone before you spend a dime.
+We see this mix-up constantly across the Wenatchee Valley. A homeowner hears a hum or a click, assumes the worst, and calls asking about pump replacement. Half the time the pump down the hole is fine. It's the little metal box mounted near the pressure tank, usually gray or green, about the size of a large lunchbox, that's given out. If you want the short version now, [call us at (509) 351-8404](tel:+15093518404) and we'll walk you through it over the phone before you spend a dime.
 
 ## What a Well Pump Control Box Does
 
@@ -114,7 +114,7 @@ A few habits stretch the life of this part in our climate:
 4. **Have it inspected around year 8 to 10.** Most boxes are still fine at that age, but it's a reasonable point to have a tech check capacitor condition during a routine visit.
 5. **Protect against power surges.** Rural power around Quincy and Moses Lake sees its share of storm-related surges. A whole-house or dedicated surge protector is cheap insurance for a box that isn't.
 
-If your pump hums and quits right now, don't keep flipping the breaker. [Schedule a free estimate](/#contact) or call [(509) 224-3484](tel:+15092243484) any hour, and we'll figure out whether you're looking at a $200 capacitor or something bigger before any work starts.
+If your pump hums and quits right now, don't keep flipping the breaker. [Schedule a free estimate](/#contact) or call [(509) 351-8404](tel:+15093518404) any hour, and we'll figure out whether you're looking at a $200 capacitor or something bigger before any work starts.
 
 ## Frequently Asked Questions
 

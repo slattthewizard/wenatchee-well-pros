@@ -35,7 +35,7 @@ Add in rural septic systems and livestock operations, and you've got three stead
 
 Shallow wells get hit hardest. If your well is less than 100 feet deep, sits downhill from orchard ground, or is within a few hundred feet of a septic drainfield or corral, your odds of elevated nitrate go up fast.
 
-Not sure how vulnerable your well is? We'll give you a straight answer. [Call us at (509) 224-3484](tel:+15092243484) and we'll talk through your well's depth, location, and history at no charge.
+Not sure how vulnerable your well is? We'll give you a straight answer. [Call us at (509) 351-8404](tel:+15093518404) and we'll talk through your well's depth, location, and history at no charge.
 
 ## What Nitrates Do to Your Health, and Who's Most at Risk
 
@@ -127,7 +127,7 @@ Treatment fixes the water. Prevention protects the well. A few practical moves:
 
 And if you're seeing other water quality issues alongside nitrate, sediment, staining, or smells, a properly designed setup can knock out several problems at once. Our overview of [well water filtration systems](/blog/well-water-filtration-systems/) walks through how the pieces fit together.
 
-Got a test result you don't know what to do with, or a baby on the way and an untested well? Don't sit on it. [Call (509) 224-3484](tel:+15092243484) and we'll help you sort out next steps, usually in one phone call. Estimates are always free, and we're licensed and insured in Washington.
+Got a test result you don't know what to do with, or a baby on the way and an untested well? Don't sit on it. [Call (509) 351-8404](tel:+15093518404) and we'll help you sort out next steps, usually in one phone call. Estimates are always free, and we're licensed and insured in Washington.
 
 ## Frequently Asked Questions
 

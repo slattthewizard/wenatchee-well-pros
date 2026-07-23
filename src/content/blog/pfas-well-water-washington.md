@@ -47,7 +47,7 @@ We're not going to point to specific contaminated parcels here, because the hone
 
 Rural, orchard-heavy areas like the ground around Cashmere and Chelan don't have an obvious PFAS source the way an airport does, but shallow wells anywhere can be affected by nearby land use you can't see from the surface. That's exactly why testing matters more than assumptions.
 
-Not sure where to start? [Call (509) 224-3484](tel:+15092243484) and we'll talk through your well's history, depth, and location before you spend money on a test.
+Not sure where to start? [Call (509) 351-8404](tel:+15093518404) and we'll talk through your well's history, depth, and location before you spend money on a test.
 
 ## What the Health Guidelines Say
 

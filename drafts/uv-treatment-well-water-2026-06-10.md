@@ -23,7 +23,7 @@ Marcy in Cashmere learned this the hard way. She bought a 1970s orchard house in
 
 That's the pattern we see constantly. Shock chlorination kills what's in the well today. It does nothing about what seeps in next week. UV treats every gallon, every day.
 
-If your well has already tested positive and you're not sure what to do next, [call us at (509) 224-3484](tel:+15092243484). We'll talk you through your options for free, no pressure.
+If your well has already tested positive and you're not sure what to do next, [call us at (509) 351-8404](tel:+15093518404). We'll talk you through your options for free, no pressure.
 
 ## How UV Water Treatment for Well Systems Actually Works
 
@@ -117,7 +117,7 @@ The decision tree is honestly pretty simple:
 2. **Repeat positives, shallow well, or surface water influence?** Install UV. Stop fighting a battle you can't win with chlorine.
 3. **Positive for E. coli specifically?** Stop drinking the water now, use bottled, and treat it as urgent. E. coli means sewage or animal waste is reaching your well.
 
-That third one isn't a wait-a-week situation. If you've got E. coli or you've suddenly lost water entirely, our [emergency well service](/emergency-well-service-wenatchee/) line runs 24/7. Call [(509) 224-3484](tel:+15092243484) and we'll get someone out fast.
+That third one isn't a wait-a-week situation. If you've got E. coli or you've suddenly lost water entirely, our [emergency well service](/emergency-well-service-wenatchee/) line runs 24/7. Call [(509) 351-8404](tel:+15093518404) and we'll get someone out fast.
 
 ## Living With a UV System: The Maintenance Reality
 

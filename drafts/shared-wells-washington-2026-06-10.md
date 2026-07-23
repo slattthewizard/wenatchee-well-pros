@@ -11,7 +11,7 @@ Two neighbors. One well. A $4,200 pump bill. Guess how that conversation goes wh
 
 We see this scenario play out across North Central Washington every year, and you're right to take it seriously before it becomes your problem. The good news is that a solid shared well agreement in Washington solves almost all of it before the first argument starts. In this guide we'll walk through what these agreements actually do, what Washington law says about shared wells, what your agreement needs to cover, the pitfalls we see most around Wenatchee and the surrounding valleys, and what to watch for when you're buying or selling a home on a shared well.
 
-We're well contractors, not lawyers, so treat this as field-tested guidance and have a real attorney draft or review your final document. But after years of working on shared systems from Cashmere to Moses Lake, we know exactly where these arrangements break down. If you're staring at a shared well right now and aren't sure what shape it's in, [call us at (509) 224-3484](tel:+15092243484) and we'll take a look. Estimates are free.
+We're well contractors, not lawyers, so treat this as field-tested guidance and have a real attorney draft or review your final document. But after years of working on shared systems from Cashmere to Moses Lake, we know exactly where these arrangements break down. If you're staring at a shared well right now and aren't sure what shape it's in, [call us at (509) 351-8404](tel:+15093518404) and we'll take a look. Estimates are free.
 
 ## What a Shared Well Agreement in Washington Actually Does
 
@@ -110,7 +110,7 @@ Before you waive contingencies, get four things:
 
 Sellers, get ahead of this. If your shared well has no recorded agreement, fix that before you list. You'll avoid the Marcus situation, and buyers' lenders will thank you.
 
-One more thing on the mechanical side. Shared systems work harder than single-home systems. The pump cycles more, the pressure tank takes more abuse, and small problems hit multiple families at once. If your shared pump is short cycling, losing pressure, or tripping the breaker, don't wait for the group text to turn ugly. Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles shared systems all over Chelan, Douglas, and Grant counties, and we're available 24/7 when the water stops. [Reach out for a free estimate](/#contact) or call (509) 224-3484.
+One more thing on the mechanical side. Shared systems work harder than single-home systems. The pump cycles more, the pressure tank takes more abuse, and small problems hit multiple families at once. If your shared pump is short cycling, losing pressure, or tripping the breaker, don't wait for the group text to turn ugly. Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) handles shared systems all over Chelan, Douglas, and Grant counties, and we're available 24/7 when the water stops. [Reach out for a free estimate](/#contact) or call (509) 351-8404.
 
 A quick safety note. On a shared system it's fine to check your breaker and look at the pressure gauge. Don't open the pressure switch, pull the well cap, or touch pump wiring. That's 240 volts, and on a shared well a wiring mistake knocks out water for every family on the line.
 

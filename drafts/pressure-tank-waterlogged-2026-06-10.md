@@ -25,7 +25,7 @@ Without the cushion, there's no stored capacity. Open a tap and pressure crashes
 
 Here's the part most homeowners don't realize. Every pump start pulls a surge of electricity and creates a jolt of mechanical stress. A healthy system might see 30 to 50 starts a day. A waterlogged one can see 300 or more. Pumps are rated by lifetime starts, not years, so you're burning through your pump's life ten times faster.
 
-If your pump is clicking on and off right now while you read this, don't wait on it. [Call Wenatchee Well Pros at (509) 224-3484](tel:+15092243484) and we'll get eyes on your tank, usually same day.
+If your pump is clicking on and off right now while you read this, don't wait on it. [Call Wenatchee Well Pros at (509) 351-8404](tel:+15093518404) and we'll get eyes on your tank, usually same day.
 
 ## 6 Symptoms of a Waterlogged Pressure Tank
 

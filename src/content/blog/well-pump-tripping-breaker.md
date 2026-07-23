@@ -33,7 +33,7 @@ So a tripping breaker is almost never a breaker problem. It's a symptom. Somethi
 
 Marcy in East Wenatchee learned that one the expensive way. Her pump breaker started tripping every two or three days last fall. She reset it for three weeks straight, figuring it was a fluke. By the time she called us, the motor windings in her 280-foot submersible had shorted completely. What started as a $320 capacitor swap ended as a $3,400 pump replacement. The pump was only nine years old.
 
-If your breaker has tripped more than twice in a month, stop resetting and start diagnosing. You can [call us at (509) 224-3484](tel:+15092243484) and we'll talk through the symptoms over the phone for free, day or night.
+If your breaker has tripped more than twice in a month, stop resetting and start diagnosing. You can [call us at (509) 351-8404](tel:+15093518404) and we'll talk through the symptoms over the phone for free, day or night.
 
 ## 7 Reasons a Well Pump Keeps Tripping the Breaker
 
@@ -129,7 +129,7 @@ Once the fault is fixed, a little prevention keeps you off this merry-go-round.
 
 **Get the system looked at every couple of years.** A 30-minute checkup that catches a pitted pressure switch or a soft capacitor costs a fraction of a burned motor.
 
-And if the breaker is tripping right now and you're out of water, don't wait for business hours. Our crew answers [the emergency line at (509) 224-3484](tel:+15092243484) 24/7, and we cover the whole valley from Leavenworth to Moses Lake. You can also start with our [well pump repair page](/well-pump-repair-wenatchee/) to see how a diagnostic visit works. Estimates are always free, and we're licensed and insured in Washington.
+And if the breaker is tripping right now and you're out of water, don't wait for business hours. Our crew answers [the emergency line at (509) 351-8404](tel:+15093518404) 24/7, and we cover the whole valley from Leavenworth to Moses Lake. You can also start with our [well pump repair page](/well-pump-repair-wenatchee/) to see how a diagnostic visit works. Estimates are always free, and we're licensed and insured in Washington.
 
 ## Frequently Asked Questions
 

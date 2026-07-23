@@ -37,7 +37,7 @@ Here in the Wenatchee Valley specifically, most of the wells we service fall int
 - **Mid-depth bench and foothill wells:** 150 to 350 feet, the most common range we see
 - **Deep upland and plateau wells:** 350 to 700+ feet
 
-If you don't know which bucket your well falls into, that's worth fixing. Depth drives almost every well decision you'll ever make, from pump sizing to replacement cost. Not sure where to start? [Call us at (509) 224-3484](tel:+15092243484) and we'll help you pull your well's records and make sense of them. The call and the estimate are both free.
+If you don't know which bucket your well falls into, that's worth fixing. Depth drives almost every well decision you'll ever make, from pump sizing to replacement cost. Not sure where to start? [Call us at (509) 351-8404](tel:+15093518404) and we'll help you pull your well's records and make sense of them. The call and the estimate are both free.
 
 ## Why Well Depth Varies So Much in the Wenatchee Valley
 
@@ -137,7 +137,7 @@ These same symptoms can also point at a failing pump or a waterlogged pressure t
 
 One more depth note for new wells: in Washington, most household wells are permit-exempt for the drilling itself, but the driller must be licensed and must file that well report with Ecology. The Department of Health also publishes [private well guidance](https://doh.wa.gov/community-and-environment/drinking-water) worth a read for any well owner.
 
-If you've got questions about your specific well, depth, water level, pump, any of it, [reach out for a free estimate](/#contact) or call (509) 224-3484. We've pulled pumps from 60 foot wells in downtown Wenatchee and 650 foot wells outside Moses Lake, and we're happy to talk through yours.
+If you've got questions about your specific well, depth, water level, pump, any of it, [reach out for a free estimate](/#contact) or call (509) 351-8404. We've pulled pumps from 60 foot wells in downtown Wenatchee and 650 foot wells outside Moses Lake, and we're happy to talk through yours.
 
 ## Frequently Asked Questions
 

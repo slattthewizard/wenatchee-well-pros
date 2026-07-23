@@ -23,7 +23,7 @@ A part that costs about $25 causes more no-water calls in the Wenatchee Valley t
 
 If your water quit, your pressure is bouncing around, or your pump won't shut off, there's a good chance you're looking at well pressure switch problems. That's actually good news. Of all the things that can go wrong with a well, this is one of the cheapest and fastest to fix. In this guide, we'll walk through how the switch works, the six failures we see most across Chelan, Douglas, and Grant counties, the safe steps you can take yourself, and what a fix really costs. By the end you'll know whether you're dealing with a $25 part or something bigger.
 
-And if you'd rather skip straight to a fix, [call us at (509) 224-3484](tel:+15092243484). We answer 24/7 and estimates are free.
+And if you'd rather skip straight to a fix, [call us at (509) 351-8404](tel:+15093518404). We answer 24/7 and estimates are free.
 
 ## How a Well Pressure Switch Works (and Why It Fails)
 
@@ -138,7 +138,7 @@ Our climate is hard on these little boxes. A few habits stretch their life:
 4. **Deal with iron and sediment.** If your water stains fixtures orange, that same iron is plating the inside of your sensing tube. Treatment protects the whole system, not just your laundry.
 5. **Replace on age, not just failure.** A $30 switch swapped proactively at year eight beats a midnight no-water emergency in January.
 
-If the worst happens anyway, water gone at 11 pm with house guests arriving tomorrow, that's what our [24/7 emergency well service](/emergency-well-service-wenatchee/) exists for. One call, (509) 224-3484, any hour.
+If the worst happens anyway, water gone at 11 pm with house guests arriving tomorrow, that's what our [24/7 emergency well service](/emergency-well-service-wenatchee/) exists for. One call, (509) 351-8404, any hour.
 
 ## Frequently Asked Questions
 
