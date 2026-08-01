@@ -326,7 +326,8 @@
   },
   {
     "draft": "drafts/well-pump-control-box-troubleshooting-2026-07-08.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-01T15:48:15.840882Z"
   },
   {
     "draft": "drafts/well-pump-humming-not-running-2026-07-08.md",
