@@ -366,7 +366,8 @@
   },
   {
     "draft": "drafts/well-water-test-results-how-to-read-2026-07-29.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-10T15:46:03.430083Z"
   },
   {
     "draft": "drafts/septic-well-separation-distance-washington-2026-07-29.md",
