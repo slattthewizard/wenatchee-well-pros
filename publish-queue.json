@@ -436,7 +436,8 @@
   },
   {
     "draft": "drafts/underground-water-line-leak-well-to-house-2026-08-25.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-25T15:30:40.261584Z"
   },
   {
     "draft": "drafts/two-wire-vs-three-wire-well-pump-2026-08-25.md",
