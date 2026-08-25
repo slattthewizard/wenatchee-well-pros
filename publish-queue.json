@@ -461,5 +461,20 @@
   {
     "draft": "drafts/flooded-wellhead-spring-runoff-2026-08-25.md",
     "published": false
+  },
+  {
+    "draft": "drafts/how-to-find-a-well-on-your-property-2026-08-25.md",
+    "published": true,
+    "publishedAt": "2026-08-25T15:05:38.189805Z"
+  },
+  {
+    "draft": "drafts/how-to-dig-a-well-washington-2026-08-25.md",
+    "published": true,
+    "publishedAt": "2026-08-25T15:05:38.191806Z"
+  },
+  {
+    "draft": "drafts/what-is-hydrofracturing-water-well-2026-08-25.md",
+    "published": true,
+    "publishedAt": "2026-08-25T15:05:38.192805Z"
   }
 ]

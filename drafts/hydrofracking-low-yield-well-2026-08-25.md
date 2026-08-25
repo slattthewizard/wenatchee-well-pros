@@ -2,7 +2,7 @@
 meta_title: "Hydrofracking a Low-Yield Well vs Drilling Deeper"
 meta_description: "Well not producing enough water? Hydrofracturing can restore yield in fractured rock for a fraction of a new well. Success rates, cost, and when it will not work."
 primary_keyword: "hydrofracking a well"
-secondary_keywords: "hydrofracturing low yield well, increase well yield, well not producing enough water, well fracking cost, low producing well options"
+secondary_keywords: "hydrofracturing pros and cons, hydrofracturing low yield well, increase well yield, well not producing enough water, well fracking cost, water well fracking cost, hydrofracking well cost, low producing well options"
 ---
 
 # Hydrofracking a Low-Yield Well vs Drilling Deeper: What Actually Works
@@ -86,6 +86,16 @@ Fracturing an existing well does not give you a new water right. Washington's pe
 Work on a well is regulated. Washington's Department of Ecology sets the [requirements for well construction and maintenance](https://ecology.wa.gov/water-shorelines/water-supply/wells), and work of this kind belongs to appropriately licensed contractors. Ask to see licensing, and ask whether the job gets reported the way the state expects.
 
 Local rules can add constraints, particularly in areas with instream flow rules or during declared drought conditions, which North Central Washington sees regularly. [Drought restrictions across Chelan and Douglas counties](/blog/drought-restrictions-wells-chelan-douglas/) covers how those affect well owners.
+
+## Hydrofracturing Pros and Cons
+
+Laid out plainly, so you can weigh it without a sales pitch attached.
+
+On the side of doing it: it costs a fraction of a new well, and it reuses the bore, casing and seal you have already paid for. It is a one day job at the well rather than a multi week project. It leaves no new hole on the property to maintain or eventually decommission. There is no water right question to reopen, because you are not creating a new withdrawal point. And when it works, the improvement is permanent rather than something that fades in a season.
+
+On the side against: it can fail outright, and you generally pay whether or not the yield improves, which is the single hardest part of the decision. It only applies to wells in competent rock, so a large number of wells are simply not candidates. It can shift your water chemistry by connecting the bore to formations it was not drawing from before, which occasionally trades a quantity problem for a treatment problem. The pressure can damage a well with weak casing or a compromised seal. And the well is out of service for the day, with dirty water for a while afterward.
+
+The way to read that list is as a candidacy question rather than a philosophical one. For a sound well in fractured rock with a documented log and a yield test showing a genuine supply limit, the odds are good enough that the math usually favors trying it before drilling. For a well in unconsolidated ground, or a well with questionable casing, or a case where nobody has actually confirmed the aquifer is the bottleneck, the honest answer is that it is the wrong tool.
 
 ## When to Call
 
