@@ -441,7 +441,8 @@
   },
   {
     "draft": "drafts/two-wire-vs-three-wire-well-pump-2026-08-25.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-26T16:06:38.122982Z"
   },
   {
     "draft": "drafts/drop-pipe-galvanized-vs-poly-2026-08-25.md",
