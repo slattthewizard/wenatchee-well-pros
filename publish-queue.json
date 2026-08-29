@@ -456,7 +456,8 @@
   },
   {
     "draft": "drafts/well-pump-wire-size-voltage-drop-2026-08-25.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-29T17:56:47.331803Z"
   },
   {
     "draft": "drafts/solar-well-pump-off-grid-2026-08-25.md",
