@@ -461,7 +461,8 @@
   },
   {
     "draft": "drafts/solar-well-pump-off-grid-2026-08-25.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-30T18:12:32.428738Z"
   },
   {
     "draft": "drafts/flooded-wellhead-spring-runoff-2026-08-25.md",
