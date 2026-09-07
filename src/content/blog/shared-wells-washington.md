@@ -107,7 +107,7 @@ Here's the kind of cost reality your agreement needs to anticipate. These are ty
 | Annual bacteria and nitrate testing | $75 to $200 | $40 to $100 | $25 to $65 |
 | New well, if the shared one fails | $15,000 to $35,000+ | $7,500 to $17,500 | $5,000 to $11,700 |
 
-Two takeaways. Sharing cuts your costs roughly in half or better, which is the whole appeal. And the big-ticket items are big enough that "we'll figure it out when it happens" is not a plan. For a deeper breakdown of pump pricing, see our [well pump cost guide](/well-pump-cost/).
+Two takeaways. Sharing cuts your costs roughly in half or better, which is the whole appeal. And the big-ticket items are big enough that "we'll figure it out when it happens" is not a plan. For a deeper breakdown of pump pricing, see our [well pump and pressure tank costs](/well-pump-cost/).
 
 ## Buying or Selling a Home on a Shared Well
 

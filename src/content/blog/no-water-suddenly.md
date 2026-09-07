@@ -105,7 +105,7 @@ Nobody likes calling for service blind, so here are honest numbers for our area.
 | Dropped water level | Lower pump in well | $800 to $1,800 |
 | Frozen or broken supply line | Thaw or repair line | $300 to $2,500 |
 
-Depth drives the big swings. Pulling a pump from a 400-foot well on the Waterville plateau is a different job than a 90-foot well in the valley. For the full breakdown of pump pricing, our [well pump cost guide](/well-pump-cost/) walks through every variable.
+Depth drives the big swings. Pulling a pump from a 400-foot well on the Waterville plateau is a different job than a 90-foot well in the valley. For the full breakdown of pump pricing, our [well pump replacement cost guide](/well-pump-cost/) walks through every variable.
 
 One number worth highlighting. Roughly a third of our emergency no-water calls land in that top row or the pressure switch row. Cheap fixes. That's why the 15 minutes of checks at the top of this article are worth your time before you assume the worst.
 
