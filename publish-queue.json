@@ -486,7 +486,8 @@
   },
   {
     "draft": "drafts/how-to-prime-a-well-pump-2026-09-07.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-07T18:53:32.093952Z"
   },
   {
     "draft": "drafts/well-pump-runs-but-no-water-2026-09-07.md",
