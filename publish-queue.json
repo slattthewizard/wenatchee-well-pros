@@ -491,7 +491,8 @@
   },
   {
     "draft": "drafts/well-pump-runs-but-no-water-2026-09-07.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-08T18:09:26.413240Z"
   },
   {
     "draft": "drafts/well-pump-pressure-switch-adjustment-2026-09-07.md",
