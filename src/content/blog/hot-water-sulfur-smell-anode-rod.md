@@ -23,7 +23,7 @@ Fill a glass from the cold tap and it smells like nothing. Run the shower ten fe
 
 A hot water sulfur smell that never shows up in cold water points straight at your water heater, specifically a small sacrificial part inside the tank called the anode rod. We field this call several times a month around Wenatchee, usually from someone who's already priced out a whole-house filtration system before realizing the fix might cost them less than a dinner out.
 
-This guide walks through exactly why a magnesium anode rod reacts with sulfate in your water to produce that rotten egg smell, how to confirm in ten minutes that the rod (not your well) is the culprit, what it costs to fix with an aluminum, zinc, or powered anode rod, and the handful of situations where the smell really does mean something bigger going on down the well. If you'd rather skip straight to an answer, [call us at (509) 351-8404](tel:+15093518404) and we'll help you figure out which situation you're in before you spend a dime on the wrong fix.
+This guide walks through exactly why a magnesium anode rod reacts with sulfate in your water to produce that rotten egg smell, how to confirm in ten minutes that the rod (not your well) is the culprit, what it costs to fix with an aluminum, zinc, or powered anode rod, and the handful of situations where the smell really does mean something bigger going on down the well. If you'd rather skip straight to an answer, [call us at (509) 300-5151](tel:+15093005151) and we'll help you figure out which situation you're in before you spend a dime on the wrong fix.
 
 ## Hot Water Sulfur Smell, Cold Water Fine? Start Here
 
@@ -106,7 +106,7 @@ Swapping an anode rod is a reasonable weekend project for a comfortable DIYer wi
 
 **Anything involves your well's electrical components**, pump wiring, pressure switch, or wellhead work. That's a separate system from your water heater entirely, and our [well pump repair](/well-pump-repair-wenatchee/) team handles it safely on wells across Chelan, Douglas, and Grant counties. Sulfur water and corrosion can also shorten the life of pressure tank fittings over time, so if your tank has been acting up alongside the smell, our [pressure tank replacement](/pressure-tank-replacement-wenatchee/) page covers what to check.
 
-If you've run the test and you're still not sure which situation you're in, [call (509) 351-8404](tel:+15093518404) and describe what you're smelling and where. We'll tell you honestly whether it's a $200 part or something that needs a proper water test first.
+If you've run the test and you're still not sure which situation you're in, [call (509) 300-5151](tel:+15093005151) and describe what you're smelling and where. We'll tell you honestly whether it's a $200 part or something that needs a proper water test first.
 
 ## Frequently Asked Questions
 

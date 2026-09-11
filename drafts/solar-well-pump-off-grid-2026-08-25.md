@@ -11,7 +11,7 @@ The quote to run power to the well is $34,000. The well itself is already drille
 
 This is a conversation we have several times a year, on grazing ground out toward Moses Lake, on remote parcels above Chelan, and on orchard blocks where a corner of the property is nowhere near existing service. In most of those cases, a solar well pump costs less than the power line and solves the problem permanently.
 
-It is not a drop-in replacement for a conventional pump, though, and the places where it disappoints people are predictable. This guide covers what solar pumping does well, where it falls short, what a real system costs, and how to tell which category your property falls into. If you have a well with no power to it, [call us at (509) 351-8404](tel:+15093518404) and we can tell you fairly quickly whether this is a fit.
+It is not a drop-in replacement for a conventional pump, though, and the places where it disappoints people are predictable. This guide covers what solar pumping does well, where it falls short, what a real system costs, and how to tell which category your property falls into. If you have a well with no power to it, [call us at (509) 300-5151](tel:+15093005151) and we can tell you fairly quickly whether this is a fit.
 
 ## How a Solar Well Pump Works
 
@@ -95,7 +95,7 @@ The first question is always whether the well can support the plan, and that is 
 
 Call before you commit to a line extension quote, because the comparison is often closer than people expect. Call before buying a kit online, because kit sizing is generally done on optimistic assumptions and rarely accounts for a Washington December. And call before drilling on a remote parcel, since knowing the likely depth changes whether solar pumping is realistic there at all.
 
-We work on off-grid and remote well systems throughout Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, including properties where the nearest power pole is a long way off. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact) and we will start with what your well can actually do.
+We work on off-grid and remote well systems throughout Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, including properties where the nearest power pole is a long way off. Call [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact) and we will start with what your well can actually do.
 
 ## Frequently Asked Questions
 

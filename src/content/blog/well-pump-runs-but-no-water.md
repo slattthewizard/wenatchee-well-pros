@@ -35,7 +35,7 @@ Those are the cheap electrical failures, and you just ruled them all out by ear.
 
 That splits into two questions, and the pressure gauge answers both.
 
-If you have no water right now and you'd rather not troubleshoot in the dark, call [(509) 351-8404](tel:+15093518404). We answer 24 hours a day and estimates are free. You can also [tell us what the system is doing](/#contact) and we'll tell you what we think it is before anyone drives out.
+If you have no water right now and you'd rather not troubleshoot in the dark, call [(509) 300-5151](tel:+15093005151). We answer 24 hours a day and estimates are free. You can also [tell us what the system is doing](/#contact) and we'll tell you what we think it is before anyone drives out.
 
 ## Step One: Watch the Pressure Gauge While the Pump Runs
 
@@ -106,7 +106,7 @@ Call rather than continue if the breaker trips again after one reset, if the wel
 
 Worth knowing before you call: your well depth, the pump age if you have it, and whether the gauge moves. Washington keeps well construction reports on file, and you can usually look yours up by address through the [Department of Ecology well log viewer](https://appswr.ecology.wa.gov/wellconstruction/map/WCLSWebMap/default.aspx). The EPA also publishes solid background on [private well ownership and maintenance](https://www.epa.gov/privatewells) if you're new to being your own water utility.
 
-We cover Wenatchee, East Wenatchee, Cashmere, Chelan, Leavenworth, Quincy and Moses Lake, and the phone is answered around the clock for no-water calls. [Call (509) 351-8404](tel:+15093518404) for a same-day look, or see what a diagnostic visit involves on our [well pump repair page](/well-pump-repair-wenatchee/). If it's the middle of the night and the house is dry, that's what [emergency well service](/emergency-well-service-wenatchee/) is for.
+We cover Wenatchee, East Wenatchee, Cashmere, Chelan, Leavenworth, Quincy and Moses Lake, and the phone is answered around the clock for no-water calls. [Call (509) 300-5151](tel:+15093005151) for a same-day look, or see what a diagnostic visit involves on our [well pump repair page](/well-pump-repair-wenatchee/). If it's the middle of the night and the house is dry, that's what [emergency well service](/emergency-well-service-wenatchee/) is for.
 
 ## Frequently Asked Questions
 

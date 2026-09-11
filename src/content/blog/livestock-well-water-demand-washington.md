@@ -23,7 +23,7 @@ Forty head of cattle can pull more water out of the ground in a single July afte
 
 Livestock well water demand is a different animal than sizing a well for a house. The gallons per day rarely look scary on paper. The trouble shows up in bursts, when three stock tanks and a washing machine all want water at the same time and your fifty-year-old well and pump were never built for that moment. This guide covers the real per-head water figures for cattle, horses, sheep, and poultry, how Washington's stock-water exemption actually works, and what to check before you add animals to a well that's already carrying a house.
 
-We're Wenatchee Well Pros. We service wells, pumps, and pressure systems for small ranches, horse properties, and backyard homesteads all over Chelan, Douglas, and Grant counties, and livestock demand is one of the most common reasons a well that worked fine for years suddenly can't keep up. If you're adding animals to an existing well, or buying a property with stock water needs already established, [call us at (509) 351-8404](tel:+15093518404) and we'll walk through what your setup can actually handle.
+We're Wenatchee Well Pros. We service wells, pumps, and pressure systems for small ranches, horse properties, and backyard homesteads all over Chelan, Douglas, and Grant counties, and livestock demand is one of the most common reasons a well that worked fine for years suddenly can't keep up. If you're adding animals to an existing well, or buying a property with stock water needs already established, [call us at (509) 300-5151](tel:+15093005151) and we'll walk through what your setup can actually handle.
 
 ## How Much Water Livestock Actually Need Per Day
 
@@ -92,7 +92,7 @@ If you're buying acreage specifically to run livestock, don't assume a well that
 
 Selling works the other way. If you're the one stepping away from livestock, keeping some documented use of the stock-water right, even a reduced herd, protects the water right's status for whoever buys the place next. A quick conversation with Ecology's regional office is a lot cheaper than a relinquishment dispute down the road.
 
-Whatever stage you're at, the well and pump side is where we can help directly. [Request a free estimate](/#contact) or [call (509) 351-8404](tel:+15093518404) if you're evaluating a property before you buy, sizing a system before you expand a herd, or just tired of watching your pressure drop every time a stock tank refills.
+Whatever stage you're at, the well and pump side is where we can help directly. [Request a free estimate](/#contact) or [call (509) 300-5151](tel:+15093005151) if you're evaluating a property before you buy, sizing a system before you expand a herd, or just tired of watching your pressure drop every time a stock tank refills.
 
 ## Frequently Asked Questions
 

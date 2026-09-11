@@ -25,7 +25,7 @@ Stand at the pressure tank with a flashlight and read the gauge:
 
 Work the route in order of likelihood. Pump house piping is the number one offender across Chelan, Douglas and Grant counties, then the last few feet where the line rises into a crawl space or under a manufactured home. The pitless adapter zone comes next, especially where the ground around the casing was dug up and never settled. The middle of the buried run is last, and it is the only one you cannot reach with a heat gun.
 
-If it is 10 degrees out and you have no water this morning, you can stop reading and [call (509) 351-8404](tel:+15093518404). Estimates are free, the phone is answered 24 hours a day, and a frozen line does not care that it is Sunday. Our [emergency well service](/emergency-well-service-wenatchee/) page covers what happens on that call.
+If it is 10 degrees out and you have no water this morning, you can stop reading and [call (509) 300-5151](tel:+15093005151). Estimates are free, the phone is answered 24 hours a day, and a frozen line does not care that it is Sunday. Our [emergency well service](/emergency-well-service-wenatchee/) page covers what happens on that call.
 
 ## Why the Water Line From Well to House Freezes Below the Frost Line
 
@@ -94,7 +94,7 @@ These are our published prices for Chelan, Douglas and Grant counties. Estimates
 
 Thawing starts as a service call and is billed for the time it takes, because a 30 foot run under a lawn and a 200 foot run under a frozen driveway are not the same job. Excavation and reburial are quoted on site once we can see depth, soil and access. National average trenching figures you read elsewhere are general estimates, not our numbers.
 
-Ready to get water back on? [Call (509) 351-8404 for a free estimate](tel:+15093518404) or [send us the details](/#contact) and we will tell you honestly whether this is a thaw, a repair, or something you can clear yourself with a hair dryer. If the pump turns out to be the casualty, our [well pump repair](/well-pump-repair-wenatchee/) page explains what gets checked first.
+Ready to get water back on? [Call (509) 300-5151 for a free estimate](tel:+15093005151) or [send us the details](/#contact) and we will tell you honestly whether this is a thaw, a repair, or something you can clear yourself with a hair dryer. If the pump turns out to be the casualty, our [well pump repair](/well-pump-repair-wenatchee/) page explains what gets checked first.
 
 ## Keeping It From Happening Again
 

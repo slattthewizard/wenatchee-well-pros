@@ -23,7 +23,7 @@ No clicking noise last week. No sputtering faucet as a warning shot. Your pump j
 
 Here's what actually helps in that moment: real numbers, a straight answer on insurance and home warranties, and financing options that don't feel like a trap. That's what this guide covers. We're not going to pretend there's a magic way to make a $2,500 bill disappear, but we can tell you honestly what pays for part of it, what doesn't, and how to spread the rest out without getting stuck with a bad rate.
 
-If your water is out right now and you need a number today, [call us at (509) 351-8404](tel:+15093518404) or [reach out through our contact form](/#contact). We quote the job free before you commit to anything, and we'll tell you straight if financing makes sense for your situation.
+If your water is out right now and you need a number today, [call us at (509) 300-5151](tel:+15093005151) or [reach out through our contact form](/#contact). We quote the job free before you commit to anything, and we'll tell you straight if financing makes sense for your situation.
 
 ## What an Emergency Well Pump Replacement Actually Costs
 
@@ -101,7 +101,7 @@ Once the wiring, the wellhead, or anything down the hole is involved, that's a j
 
 While the well is open for the replacement, it's also a smart moment to test your water. The Washington State Department of Health recommends private well owners [test annually](https://doh.wa.gov/community-and-environment/drinking-water/private-wells) for bacteria and nitrates, and if a technician is already on site, adding that test costs far less than a separate visit later.
 
-If you're dealing with a dead pump and no clear plan for the bill, call us at [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact). We'll give you a straight number, tell you honestly what insurance or a home warranty might cover, and walk you through financing if that's what gets your water back on today.
+If you're dealing with a dead pump and no clear plan for the bill, call us at [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact). We'll give you a straight number, tell you honestly what insurance or a home warranty might cover, and walk you through financing if that's what gets your water back on today.
 
 ## Frequently Asked Questions
 

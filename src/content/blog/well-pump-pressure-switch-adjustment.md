@@ -23,7 +23,7 @@ The shower goes weak the second the washing machine starts filling. You looked i
 
 A well pump pressure switch adjustment is genuinely a ten minute job with a 3/8 inch nut driver. The hard part is not the turning. It is knowing whether your system can carry the extra pressure, and whether low pressure is even the problem you have.
 
-This guide covers what each nut does, how 30/50 and 40/60 actually behave in a house, the tank check you have to do first, and the situations where we tell homeowners to put the wrench down. If you would rather not do any of it, [call us at (509) 351-8404](tel:+15093518404). Estimates are free and somebody answers the phone at 2am.
+This guide covers what each nut does, how 30/50 and 40/60 actually behave in a house, the tank check you have to do first, and the situations where we tell homeowners to put the wrench down. If you would rather not do any of it, [call us at (509) 300-5151](tel:+15093005151). Estimates are free and somebody answers the phone at 2am.
 
 ## What the Two Nuts Under the Cover Actually Do
 
@@ -114,7 +114,7 @@ Names and addresses left out, but these are typical of what the adjustment quest
 
 **A cabin near Leavenworth left unheated over Christmas.** No pressure at all in February. This one had nothing to adjust: the sensing tube below the switch had frozen and split, and the diaphragm was shot. Switch replaced at **$150 to $350**, plus the after-hours premium of **$150 to $300** because it was a Sunday night and the owner had guests arriving. Worth insulating the pump house and wrapping that tube before the first hard freeze.
 
-If you are out of water right now, do not spend the evening on this. We run [emergency well service](/emergency-well-service-wenatchee/) across Chelan, Douglas and Grant counties, we answer 24/7, and the estimate costs nothing. [Call (509) 351-8404](tel:+15093518404).
+If you are out of water right now, do not spend the evening on this. We run [emergency well service](/emergency-well-service-wenatchee/) across Chelan, Douglas and Grant counties, we answer 24/7, and the estimate costs nothing. [Call (509) 300-5151](tel:+15093005151).
 
 ## Frequently Asked Questions
 

@@ -13,7 +13,7 @@ That is why learning how to test a well pump without pulling it is worth an hour
 
 This guide covers what you can safely check yourself, what a technician checks with a meter, what each result usually means, and the point where testing stops and the pump has to come up.
 
-If you have no water right now and would rather skip straight to a diagnosis, [call (509) 351-8404](tel:+15093518404). The phone is answered 24 hours a day for no-water emergencies, and estimates are free.
+If you have no water right now and would rather skip straight to a diagnosis, [call (509) 300-5151](tel:+15093005151). The phone is answered 24 hours a day for no-water emergencies, and estimates are free.
 
 ## Why You Test a Well Pump Without Pulling It First
 
@@ -95,7 +95,7 @@ At that point the job needs a hoist, a clear working area, and a water outage wi
 
 The useful thing is that by the time you get there, the testing has already paid for itself. You know the depth, the pump type, the wire condition and the likely cause, which means the pump comes up once and goes back down correctly. See [well pump repair](/well-pump-repair-wenatchee/) for what a repair visit covers, or [emergency well service](/emergency-well-service-wenatchee/) if you are out of water today.
 
-If you have worked through the checks above and you are still guessing, stop guessing. [Call (509) 351-8404](tel:+15093518404) for a free estimate or a same-day no-water call anywhere in Chelan, Douglas or Grant county.
+If you have worked through the checks above and you are still guessing, stop guessing. [Call (509) 300-5151](tel:+15093005151) for a free estimate or a same-day no-water call anywhere in Chelan, Douglas or Grant county.
 
 ## Frequently Asked Questions
 

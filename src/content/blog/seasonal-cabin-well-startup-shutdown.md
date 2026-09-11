@@ -23,7 +23,7 @@ You lock the cabin door in October, and you don't think about the well again unt
 
 Seasonal cabin well startup and shutdown isn't the same job as winterizing a house you live in every day. A cabin sits empty and unheated for months, and whatever went wrong in December is waiting for you the first weekend you show up in May. Get the order right on both ends and a cabin well runs for decades with almost no drama. Skip steps and you're looking at burst pipes, seized pumps, or water you can't trust to drink.
 
-This guide covers the shutdown checklist before you lock up for the season, the startup checklist before you turn the water back on, what happens to water quality after months of no use, and the real dollar difference between doing this right and finding out the hard way. If you've got a cabin near Plain, Lake Chelan, or up the Icicle Road and you're not sure what shape your well is in, [call us at (509) 351-8404](tel:+15093518404) before you close up for the season, not after something freezes.
+This guide covers the shutdown checklist before you lock up for the season, the startup checklist before you turn the water back on, what happens to water quality after months of no use, and the real dollar difference between doing this right and finding out the hard way. If you've got a cabin near Plain, Lake Chelan, or up the Icicle Road and you're not sure what shape your well is in, [call us at (509) 300-5151](tel:+15093005151) before you close up for the season, not after something freezes.
 
 ## Why Seasonal Wells Around Leavenworth, Plain, and Chelan Take More Damage Than Year-Round Ones
 

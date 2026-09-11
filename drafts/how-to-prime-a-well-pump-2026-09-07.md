@@ -23,7 +23,7 @@ Here is the part that saves people a wasted Saturday. Submersible pumps never ne
 
 Suction also has a hard physical ceiling. At our elevations a single pipe shallow well jet can lift water roughly 20 to 25 feet and no further. Static water deeper than that needs a two pipe deep well jet or a submersible, no matter how well you prime it.
 
-If you are not certain which pump you have, call before you start pouring water into things. [(509) 351-8404](tel:+15093518404) is answered around the clock, and talking it through costs nothing. Estimates are free.
+If you are not certain which pump you have, call before you start pouring water into things. [(509) 300-5151](tel:+15093005151) is answered around the clock, and talking it through costs nothing. Estimates are free.
 
 ## Before You Prime: Five Minutes That Can Save the Pump
 

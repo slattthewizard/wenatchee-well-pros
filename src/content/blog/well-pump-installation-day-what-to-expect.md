@@ -23,7 +23,7 @@ Your well pump quit Tuesday night, and by Thursday morning there's a truck in th
 
 That's what this guide is for. We'll walk you through well pump installation day the way it actually unfolds at a house in Wenatchee or Cashmere or out on the benches above Chelan, hour by hour, from the crew's arrival to the moment water comes back on at the tap.
 
-If your pump already failed and you're staring down installation day this week, [call us at (509) 351-8404](tel:+15093518404) and we'll walk you through scheduling before the crew ever shows up.
+If your pump already failed and you're staring down installation day this week, [call us at (509) 300-5151](tel:+15093005151) and we'll walk you through scheduling before the crew ever shows up.
 
 ## Before the Crew Ever Shows Up: How Installation Day Gets Scheduled
 
@@ -109,7 +109,7 @@ For homeowners weighing whether their current pump is close to needing this whol
 
 The Washington State Department of Health publishes guidance on disinfecting private wells after any work that opens the casing, worth a look if you want the state's own standard for the chlorination step: [doh.wa.gov](https://doh.wa.gov/community-and-environment/drinking-water). The EPA's private well owner guidance also recommends testing water after any pump service, which pairs well with the shock treatment your crew already performs: [epa.gov](https://www.epa.gov/privatewells).
 
-If you've got a pump on its way out, or you're just trying to plan around installation day before it turns into an emergency, our [well pump replacement team in Wenatchee](/well-pump-replacement-wenatchee/) handles this process weekly across Chelan, Douglas, and Grant counties. Many of these same jobs also turn up a tired pressure tank, and our [pressure tank replacement service](/pressure-tank-replacement-wenatchee/) can bundle that in the same visit instead of a second trip. [Request a free estimate](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll tell you honestly what your installation day will look like.
+If you've got a pump on its way out, or you're just trying to plan around installation day before it turns into an emergency, our [well pump replacement team in Wenatchee](/well-pump-replacement-wenatchee/) handles this process weekly across Chelan, Douglas, and Grant counties. Many of these same jobs also turn up a tired pressure tank, and our [pressure tank replacement service](/pressure-tank-replacement-wenatchee/) can bundle that in the same visit instead of a second trip. [Request a free estimate](/#contact) or call [(509) 300-5151](tel:+15093005151) and we'll tell you honestly what your installation day will look like.
 
 ## Frequently Asked Questions
 

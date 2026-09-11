@@ -13,7 +13,7 @@ Whether you deepen the well or drill a new one is one of the biggest financial d
 
 We're Wenatchee Well Pros, and we get pulled into this decision constantly across Chelan, Douglas, and Grant counties, usually because a driller already gave a homeowner a scary quote and they want a second opinion before signing anything. This guide walks through how the choice actually gets made, what it costs either way in 2026, and real cases we've worked from Cashmere to Moses Lake.
 
-If your well is showing trouble right now and you're not sure which direction to go, [call us at (509) 351-8404](tel:+15093518404) before you sign anything with a drilling company. We test what you've already got first.
+If your well is showing trouble right now and you're not sure which direction to go, [call us at (509) 300-5151](tel:+15093005151) before you sign anything with a drilling company. We test what you've already got first.
 
 ## Deepen the Well or Drill a New One: What Each Option Actually Means
 
@@ -90,7 +90,7 @@ A yield and drawdown test tells you what your well can sustain today, which matt
 
 We see this backwards more often than you'd think: homeowners pricing a new well when a worn pump or a corroded casing coupling near the surface was the real issue all along. A diagnostic visit to test your pump and pressure system typically runs $150 to $250, and our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) can rule that piece out in an afternoon. If your casing has surface corrosion but the deeper sections test sound, sometimes a [well casing repair](/blog/well-casing-repair/) solves the whole problem for a fraction of either drilling option.
 
-If you're staring down a drilling quote and want someone to look at the whole picture first, not just sell you a new hole, [call (509) 351-8404](tel:+15093518404). We'll tell you honestly which way your specific well points.
+If you're staring down a drilling quote and want someone to look at the whole picture first, not just sell you a new hole, [call (509) 300-5151](tel:+15093005151). We'll tell you honestly which way your specific well points.
 
 ## Frequently Asked Questions
 

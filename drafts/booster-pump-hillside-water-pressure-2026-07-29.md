@@ -11,7 +11,7 @@ Every 100 feet you climb above your well or pressure tank costs you about 43 pou
 
 The physics behind this is simple once you see it, and understanding it saves you from paying for the wrong fix. In this guide we'll walk through the exact math of how elevation eats pressure, the signs that tell you a booster pump is the right call, what these systems cost installed around here, and when the smarter move is a bigger tank or a constant pressure setup instead.
 
-Not sure which one applies to your property? [Tell us your address and elevation change and we'll walk you through it](/#contact), or call [(509) 351-8404](tel:+15093518404) for a free estimate. We measure before we quote.
+Not sure which one applies to your property? [Tell us your address and elevation change and we'll walk you through it](/#contact), or call [(509) 300-5151](tel:+15093005151) for a free estimate. We measure before we quote.
 
 ## Why Elevation Beats Your Pump Before You Even Open a Tap
 
@@ -52,7 +52,7 @@ Booster systems range quite a bit depending on how much elevation you're fightin
 
 Ray and Donna bought a place up on the Wenatchee Heights bench two years ago, about 140 feet above where their well sits near the bottom of their lot. Pressure at the kitchen sink was fine. Their second floor shower was a joke, and their two upper rows of Honeycrisp trees never got proper coverage off the drip system. A booster pump with its own small tank, installed between the wellhead and the house, ran them $2,100 and solved both problems the same week.
 
-If your situation is more than one weak fixture, [call us at (509) 351-8404](tel:+15093518404) and we'll measure your actual elevation change with a level and a laser, not a guess, before we recommend anything.
+If your situation is more than one weak fixture, [call us at (509) 300-5151](tel:+15093005151) and we'll measure your actual elevation change with a level and a laser, not a guess, before we recommend anything.
 
 ## Booster Pump, Bigger Pump, or Constant Pressure System: Which One Fixes Hillside Pressure
 
@@ -84,7 +84,7 @@ Any work involving wiring, check valves at the wellhead, or connecting a new pum
 
 Elevation problems are also a good excuse to check your water quality if it's been a while. The Washington State Department of Health recommends private well owners [test their water at least once a year](https://doh.wa.gov/community-and-environment/drinking-water/private-wells), and if we're already out installing a booster or replacing a [pressure tank](/pressure-tank-replacement-wenatchee/), it's an easy add-on to the visit.
 
-If you're fighting weak pressure on a hillside, a bench, or a terraced orchard block anywhere from Cashmere to Chelan, give us a call at [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact). We'll measure the actual elevation change on your property before we recommend a fix, so you pay for what you need and nothing more.
+If you're fighting weak pressure on a hillside, a bench, or a terraced orchard block anywhere from Cashmere to Chelan, give us a call at [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact). We'll measure the actual elevation change on your property before we recommend a fix, so you pay for what you need and nothing more.
 
 ## Frequently Asked Questions
 

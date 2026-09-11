@@ -79,7 +79,7 @@ Before you get there, rule out the cheaper explanations, because a great many lo
 
 If the yield really is the limit, the alternatives are deepening the existing well, drilling a new one, or adding storage so a modest continuous yield can cover peak demand. [Deepening versus drilling new](/blog/deepen-well-vs-drill-new/) compares the first two, and [well drilling cost in Washington](/blog/well-drilling-cost-washington/) sets expectations on the expensive end. Storage is frequently the overlooked answer, since a well producing a steady low rate around the clock can supply a household fine with a tank buffering the morning rush, and [cistern and water storage systems](/blog/cistern-water-storage-systems/) covers that approach.
 
-We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy and Moses Lake. If your well cannot keep up and you want a straight read on whether it is a pump problem, a yield problem, or a candidate for hydrofracturing, [call us at (509) 351-8404](tel:+15093518404).
+We serve Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy and Moses Lake. If your well cannot keep up and you want a straight read on whether it is a pump problem, a yield problem, or a candidate for hydrofracturing, [call us at (509) 300-5151](tel:+15093005151).
 
 ## Frequently Asked Questions
 

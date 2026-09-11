@@ -25,7 +25,7 @@ The pumps were usually fine. What killed them was the wire.
 
 Voltage drop is the quietest, most expensive problem in the well business, because it produces no symptom you can see and no noise you can hear. It just shortens the life of a motor that would otherwise have run for fifteen years. On the long runs that are normal on orchard, benchland, and acreage properties around Wenatchee, undersized wire is one of the most common reasons a pump dies young.
 
-This is the technical piece behind a lot of premature failures, so it is worth understanding before your next replacement. If your pump is on its second or third motor in a decade, [call us at (509) 351-8404](tel:+15093518404) and ask us to check the wire before you buy another one.
+This is the technical piece behind a lot of premature failures, so it is worth understanding before your next replacement. If your pump is on its second or third motor in a decade, [call us at (509) 300-5151](tel:+15093005151) and ask us to check the wire before you buy another one.
 
 ## What Voltage Drop Actually Is
 
@@ -105,7 +105,7 @@ Do not open a well disconnect, a control box, or a pressure switch enclosure to 
 
 What you can do is gather history. How old is the current pump? How old was the one before it? Has anyone deepened the well or changed the pump size? Do the lights dim on start? That information tells a technician where to look before they ever pull a cover.
 
-We check wire sizing as part of every pump replacement across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and we will tell you plainly if your existing cable is not right for the pump you are about to buy. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact).
+We check wire sizing as part of every pump replacement across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and we will tell you plainly if your existing cable is not right for the pump you are about to buy. Call [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact).
 
 ## Frequently Asked Questions
 

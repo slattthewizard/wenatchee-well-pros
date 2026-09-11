@@ -97,7 +97,7 @@ There is a point where the search stops being worth your Saturday. If you have f
 
 There are also cases where you should not go it alone from the start. If the property has an old hand dug well, do not go poking around covers and lids, because those collapse and people have been killed in them. If you suspect an abandoned well somewhere on the parcel, that needs to be handled properly rather than filled in with yard waste, and [well decommissioning in Washington](/blog/well-decommissioning-washington/) explains why. And if you are trying to locate a well because you are mid transaction and the closing date is coming, call sooner rather than later, since [seller disclosure obligations](/blog/selling-home-well-disclosure-washington/) do not pause for a scavenger hunt.
 
-We cover Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy and Moses Lake. If you cannot find your wellhead, [call us at (509) 351-8404](tel:+15093518404) and we will help you track it down, get it back above grade, and get it on a service schedule so the next owner does not have to repeat this exercise.
+We cover Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy and Moses Lake. If you cannot find your wellhead, [call us at (509) 300-5151](tel:+15093005151) and we will help you track it down, get it back above grade, and get it on a service schedule so the next owner does not have to repeat this exercise.
 
 ## Frequently Asked Questions
 

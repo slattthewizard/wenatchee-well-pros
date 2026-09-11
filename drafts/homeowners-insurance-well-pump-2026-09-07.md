@@ -21,7 +21,7 @@ What no standard policy covers is equipment that simply wore out. Insurance is n
 
 That distinction explains nearly every approval and nearly every denial we see. Lightning is a peril. Fifteen years of sand is a maintenance issue.
 
-If you are standing at a dead pump right now and need to know what you are looking at before you call the insurance company, [call (509) 351-8404](tel:+15093518404). Diagnosis runs $150 to $250 and gets applied toward the repair if you hire us. We answer 24/7 for no-water calls, and estimates are free.
+If you are standing at a dead pump right now and need to know what you are looking at before you call the insurance company, [call (509) 300-5151](tel:+15093005151). Diagnosis runs $150 to $250 and gets applied toward the repair if you hire us. We answer 24/7 for no-water calls, and estimates are free.
 
 ## What Homeowners Insurance Covers on a Private Well
 
@@ -103,7 +103,7 @@ Most of the time, the answer to the insurance question is no, and the real quest
 
 Most repairs land between $150 and $450. Most full replacements run $800 to $4,500 depending on well depth and pump type. Depth is the biggest single variable, because a 400-foot pull is a different job than a 120-foot pull, and we cannot know which one you have until we are on site.
 
-That range is the reason a lot of denied claims still end well. Plenty of no-water calls turn out to be a $250 pressure switch rather than a pump. We will not sell you a pump you do not need, and we will tell you when the cheap fix is the right one. See [well pump replacement](/well-pump-replacement-wenatchee/) for what a full swap involves, or [call (509) 351-8404](tel:+15093518404) for a free estimate.
+That range is the reason a lot of denied claims still end well. Plenty of no-water calls turn out to be a $250 pressure switch rather than a pump. We will not sell you a pump you do not need, and we will tell you when the cheap fix is the right one. See [well pump replacement](/well-pump-replacement-wenatchee/) for what a full swap involves, or [call (509) 300-5151](tel:+15093005151) for a free estimate.
 
 If it is 11pm and the house is dry, that is what [emergency well service](/emergency-well-service-wenatchee/) is for. If the number is more than the household can absorb this month, our post on [emergency pump replacement cost and financing](/blog/emergency-pump-replacement-cost-financing/) lays out the options honestly.
 

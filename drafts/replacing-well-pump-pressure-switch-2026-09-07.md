@@ -29,7 +29,7 @@ Some switch complaints are a settings problem. If your pressure is simply lower 
 
 **6. It is more than ten years old and acting up.** A switch on a typical rural property cycles several thousand times a year. Most last five to ten years. Past that, replacing it while the pump house is already open is cheap insurance.
 
-If any of that describes your setup and you are out of water right now, [call (509) 351-8404](tel:+15093518404). Estimates are free and the phone is answered 24 hours a day for no-water calls.
+If any of that describes your setup and you are out of water right now, [call (509) 300-5151](tel:+15093005151). Estimates are free and the phone is answered 24 hours a day for no-water calls.
 
 ## What Well Pump Pressure Switch Replacement Costs
 

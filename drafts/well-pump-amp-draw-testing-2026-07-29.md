@@ -11,7 +11,7 @@ Your electrician clips a clamp meter around the wire feeding your well pump and 
 
 Well pump amp draw testing is one of the fastest, most reliable ways to diagnose a struggling submersible pump without pulling it out of the ground. It doesn't replace a full inspection, but it narrows down the problem fast, often in the first five minutes of a service call. This guide covers what the nameplate number means, how a clamp meter reading is taken, what a high reading tells you, what a low reading tells you, and why this particular test belongs to a professional, not a homeowner with a meter from the hardware store.
 
-If your pump's been acting up, running rough, tripping the breaker, or losing pressure, and you want a straight answer before spending money, [call us at (509) 351-8404](tel:+15093518404) and we'll walk through what an amp draw test on your system would likely show.
+If your pump's been acting up, running rough, tripping the breaker, or losing pressure, and you want a straight answer before spending money, [call us at (509) 300-5151](tel:+15093005151) and we'll walk through what an amp draw test on your system would likely show.
 
 ## What a Nameplate Amp Rating Tells a Technician
 
@@ -92,7 +92,7 @@ An amp draw reading is a diagnostic step, not a repair by itself. Once we have t
 
 If the pump is old enough that repair just delays an inevitable replacement, we'll say so plainly rather than sell you a patch. Our [well pump replacement service](/well-pump-replacement-wenatchee/) walks through what a full swap involves and what it typically costs across Chelan, Douglas, and Grant counties, so you're deciding with real numbers instead of a guess.
 
-If your pump's been humming, tripping, or just not delivering the pressure it used to, don't wait for it to fail outright. [Schedule a free estimate](/#contact) or call [(509) 351-8404](tel:+15093518404) any hour, and we'll bring the meter that actually answers the question.
+If your pump's been humming, tripping, or just not delivering the pressure it used to, don't wait for it to fail outright. [Schedule a free estimate](/#contact) or call [(509) 300-5151](tel:+15093005151) any hour, and we'll bring the meter that actually answers the question.
 
 ## Frequently Asked Questions
 

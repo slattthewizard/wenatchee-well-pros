@@ -41,7 +41,7 @@ Iron can show up two ways. Water that runs clear at the tap and turns rusty afte
 
 Karen in Moses Lake noticed a faint orange ring in her guest bathroom two winters ago and figured it was just an old toilet. By spring, her white towels were coming out of the laundry with a rust cast that no amount of bleach would lift, and bleach actually made it worse by setting the stain into the fibers. A lab test showed 3.8 ppm iron, well above the 0.3 ppm staining threshold. An air-injection iron filter installed for $2,400 solved it inside a week, and her whites have run clean since.
 
-We cover the full picture, including which of the three iron forms you're dealing with and how each one gets treated, in our guide to [iron in well water](/blog/iron-in-well-water/). If your stains are orange and you want a straight answer on cost before you commit to anything, [call us at (509) 351-8404](tel:+15093518404).
+We cover the full picture, including which of the three iron forms you're dealing with and how each one gets treated, in our guide to [iron in well water](/blog/iron-in-well-water/). If your stains are orange and you want a straight answer on cost before you commit to anything, [call us at (509) 300-5151](tel:+15093005151).
 
 ## Black Stains: Manganese in Your Well Water
 
@@ -102,7 +102,7 @@ Our [well pump repair team in Wenatchee](/well-pump-repair-wenatchee/) can tell 
 
 The Washington State Department of Health maintains ongoing guidance for private well owners on water quality and testing, worth a bookmark if you're managing your own well: [doh.wa.gov's drinking water program](https://doh.wa.gov/community-and-environment/drinking-water).
 
-Staining rarely turns into an emergency on its own, but a corroding pipe or a fouling pump can. If you're seeing any of these colors and you're not sure whether it's cosmetic or something more, [call (509) 351-8404](tel:+15093518404) and we'll help you figure out which one you're dealing with.
+Staining rarely turns into an emergency on its own, but a corroding pipe or a fouling pump can. If you're seeing any of these colors and you're not sure whether it's cosmetic or something more, [call (509) 300-5151](tel:+15093005151) and we'll help you figure out which one you're dealing with.
 
 ## Frequently Asked Questions
 

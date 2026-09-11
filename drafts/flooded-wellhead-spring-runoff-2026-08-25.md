@@ -13,7 +13,7 @@ Either way, the question is the same and it is worth taking seriously. A wellhea
 
 The good news is that a properly constructed, undamaged wellhead is designed to keep surface water out, and most flooding events end with nothing wrong. The bad news is that the wells most likely to flood are frequently the older ones least equipped to resist it. This guide covers how to tell the difference, what to do immediately, and how to confirm your water is safe rather than assume it.
 
-If your wellhead has been underwater and you are unsure whether the water is safe to drink, [call us at (509) 351-8404](tel:+15093518404).
+If your wellhead has been underwater and you are unsure whether the water is safe to drink, [call us at (509) 300-5151](tel:+15093005151).
 
 ## Why This Matters More Than It Looks
 
@@ -95,7 +95,7 @@ Call a professional if the wellhead or pump equipment was submerged, if the wate
 
 Call immediately rather than waiting if anyone in the household is pregnant, if there is an infant on formula, or if anyone is immunocompromised. Nitrate and bacterial risks are meaningfully higher for those groups and the precautionary threshold should be lower.
 
-We handle post-flood inspections, shock chlorination, wellhead repairs, and pit conversions across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact).
+We handle post-flood inspections, shock chlorination, wellhead repairs, and pit conversions across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Call [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact).
 
 ## Frequently Asked Questions
 

@@ -17,7 +17,7 @@ faq:
   - question: "My total coliform result says \"Present.\" Does that mean my water made someone sick?"
     answer: "Not necessarily, but it does mean you should stop drinking the water and act on it right away. \"Present\" means bacteria that shouldn't be in a sealed well got in somehow, usually through a cracked cap or a casing issue, and it needs a retest plus a fix at the entry point. It's different from an E. coli detection, which is a more direct indicator of contamination."
   - question: "Do I need a professional to interpret my well water test results, or can I do it myself?"
-    answer: "Simple flags like hardness or iron are easy to read on your own once you know they're secondary standards, not health limits. For anything near or over an MCL, bacteria, nitrate, arsenic, or lead, it's worth a second opinion, either from the lab, the Washington Department of Health, or a local well service that sees these reports regularly. Call (509) 351-8404 any time and we'll walk through a report with you at no charge."
+    answer: "Simple flags like hardness or iron are easy to read on your own once you know they're secondary standards, not health limits. For anything near or over an MCL, bacteria, nitrate, arsenic, or lead, it's worth a second opinion, either from the lab, the Washington Department of Health, or a local well service that sees these reports regularly. Call (509) 300-5151 any time and we'll walk through a report with you at no charge."
 ---
 You just opened the PDF from the lab, and it's a wall of abbreviations, decimal points, and columns with headers like "MCL" and "CFU/100mL" that mean nothing to you. Somewhere in there is the answer to the only question you actually care about: is this water safe to drink. If your well water test results have you more confused than reassured, you're not alone, and this guide walks through exactly what every line means.
 
@@ -106,7 +106,7 @@ Sediment or grit showing up in a sample is its own category. It's not usually a 
 
 Testing costs stay modest whichever direction you go. A basic bacteria and nitrate combo typically runs $50 to $90, and a fuller panel covering arsenic, lead, iron, hardness, and pH lands in the $150 to $400 range depending on the lab. Compare that to what a single missed contamination issue or a prematurely failed pressure tank costs, and retesting on a schedule is the cheap half of well ownership.
 
-None of this is something you need to sort out alone. If your report has a result you can't make sense of, [call us at (509) 351-8404](tel:+15093518404) and we'll go through it with you and tell you plainly whether it's a filtration conversation or a call-your-doctor conversation. Anything involving wellhead electrical work or down-hole repairs is licensed-professional territory, always, no exceptions.
+None of this is something you need to sort out alone. If your report has a result you can't make sense of, [call us at (509) 300-5151](tel:+15093005151) and we'll go through it with you and tell you plainly whether it's a filtration conversation or a call-your-doctor conversation. Anything involving wellhead electrical work or down-hole repairs is licensed-professional territory, always, no exceptions.
 
 ## Frequently Asked Questions
 
@@ -124,4 +124,4 @@ Not necessarily, but it does mean you should stop drinking the water and act on 
 
 ### Do I need a professional to interpret my well water test results, or can I do it myself?
 
-Simple flags like hardness or iron are easy to read on your own once you know they're secondary standards, not health limits. For anything near or over an MCL, bacteria, nitrate, arsenic, or lead, it's worth a second opinion, either from the lab, the Washington Department of Health, or a local well service that sees these reports regularly. Call [(509) 351-8404](tel:+15093518404) any time and we'll walk through a report with you at no charge.
+Simple flags like hardness or iron are easy to read on your own once you know they're secondary standards, not health limits. For anything near or over an MCL, bacteria, nitrate, arsenic, or lead, it's worth a second opinion, either from the lab, the Washington Department of Health, or a local well service that sees these reports regularly. Call [(509) 300-5151](tel:+15093005151) any time and we'll walk through a report with you at no charge.

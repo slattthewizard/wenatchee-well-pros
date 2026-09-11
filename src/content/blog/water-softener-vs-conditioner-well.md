@@ -17,7 +17,7 @@ faq:
   - question: "Will a salt-based softener hurt my septic system or my well pump?"
     answer: "A correctly installed softener has no meaningful effect on a well pump, since it sits downstream of the pressure tank and only sees water that's already been pressurized. Modern high-efficiency softeners use 35 to 65 gallons per regeneration cycle, and most septic systems handle that volume without issue, though homeowners specifically concerned about added sodium sometimes prefer a conditioner or a potassium-chloride softener instead."
   - question: "How much does a softener or conditioner cost installed on a well?"
-    answer: "A quality salt-based softener sized for typical local hardness runs $1,200 to $3,000 installed, with higher costs if iron treatment is needed alongside it. A salt-free conditioner typically runs $800 to $2,000 installed. Get your water tested first. Buying either one based on guesswork is how homeowners end up paying for equipment that doesn't solve the actual problem. --- Water treatment marketing loves to blur the line between softening and conditioning because \"no salt, no maintenance\" sells better than the honest version. Test your water, understand which job you actually need done, and pick the equipment built to do it. Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call (509) 351-8404 or email info@wenatcheewellpros.com."
+    answer: "A quality salt-based softener sized for typical local hardness runs $1,200 to $3,000 installed, with higher costs if iron treatment is needed alongside it. A salt-free conditioner typically runs $800 to $2,000 installed. Get your water tested first. Buying either one based on guesswork is how homeowners end up paying for equipment that doesn't solve the actual problem. --- Water treatment marketing loves to blur the line between softening and conditioning because \"no salt, no maintenance\" sells better than the honest version. Test your water, understand which job you actually need done, and pick the equipment built to do it. Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call (509) 300-5151 or email info@wenatcheewellpros.com."
 ---
 A salt-free "conditioner" ad promising soft water with zero maintenance sounds perfect, right up until you retest your well six months later and the hardness number hasn't moved a single grain.
 
@@ -72,7 +72,7 @@ Denise, who's on a well outside Cashmere, called us in the spring frustrated tha
 
 Compare that to Marcus, whose place near Chelan tested at 9 grains, moderate but not severe, on a septic system with a drain field he didn't want extra sodium anywhere near. A quality conditioner at $1,400 knocked his scale buildup down noticeably within a couple months, and he was never expecting it to fix his shampoo lather. He just wanted his water heater to stop rattling. That's a conditioner working exactly as advertised, because his expectations matched what the equipment actually does.
 
-If your test comes back over 15 grains, or you've got iron alongside the hardness, we'll tell you straight that a properly sized salt-based softener is the equipment that solves the problem, not a conditioner. [Call (509) 351-8404](tel:+15093518404) and we'll size it off your actual numbers, not a guess.
+If your test comes back over 15 grains, or you've got iron alongside the hardness, we'll tell you straight that a properly sized salt-based softener is the equipment that solves the problem, not a conditioner. [Call (509) 300-5151](tel:+15093005151) and we'll size it off your actual numbers, not a guess.
 
 ## Installation and Local Considerations for Either System
 
@@ -114,4 +114,4 @@ A quality salt-based softener sized for typical local hardness runs $1,200 to $3
 
 Water treatment marketing loves to blur the line between softening and conditioning because "no salt, no maintenance" sells better than the honest version. Test your water, understand which job you actually need done, and pick the equipment built to do it.
 
-Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call [(509) 351-8404](tel:+15093518404) or email info@wenatcheewellpros.com.
+Wenatchee Well Pros serves Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. Free estimates, licensed and insured in Washington. Call [(509) 300-5151](tel:+15093005151) or email info@wenatcheewellpros.com.

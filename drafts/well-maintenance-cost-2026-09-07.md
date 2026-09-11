@@ -26,7 +26,7 @@ A useful annual visit covers the whole system, not just the pump. That means the
 - **Cycle behavior.** We run water, watch a full on and off cycle, and count the run time. Short cycling shows up here before it shows up in your water bill or your pump failure.
 - **Water clarity and basic observations.** Sand, cloudiness, iron staining or a sulfur smell all point somewhere specific and change what we recommend next.
 
-If you have no water right now, none of this is your priority. [Call (509) 351-8404](tel:+15093518404) and we will get someone moving today. We answer 24 hours a day and the estimate is free either way.
+If you have no water right now, none of this is your priority. [Call (509) 300-5151](tel:+15093005151) and we will get someone moving today. We answer 24 hours a day and the estimate is free either way.
 
 ## Well Maintenance Cost: The Line Items, One by One
 
@@ -95,7 +95,7 @@ Four things do most of the work.
 
 Some work genuinely needs a rig and a crew: pulling a submersible from a deep well, repairing casing, or anything that involves opening the well itself. That is not a homeowner job and it is not a handyman job, both for safety and because the well is your drinking water supply.
 
-If it has been more than a year since anyone looked at your system, that is the whole signal. We cover Chelan, Douglas and Grant counties, estimates are free, and we answer the phone at any hour when the water stops. Call (509) 351-8404 or [book a free estimate](/#contact), and if you want to see how a service call fits against repair pricing, our [well pump repair page](/well-pump-repair-wenatchee/) lays out the rest.
+If it has been more than a year since anyone looked at your system, that is the whole signal. We cover Chelan, Douglas and Grant counties, estimates are free, and we answer the phone at any hour when the water stops. Call (509) 300-5151 or [book a free estimate](/#contact), and if you want to see how a service call fits against repair pricing, our [well pump repair page](/well-pump-repair-wenatchee/) lays out the rest.
 
 ## Frequently Asked Questions
 

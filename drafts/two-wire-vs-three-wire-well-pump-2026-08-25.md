@@ -11,7 +11,7 @@ Somewhere between the moment your pump quits and the moment you get a quote, som
 
 Most homeowners have no idea which one they own, and that is completely reasonable, because the difference is buried four hundred feet down in a well casing. But there is a dead giveaway sitting in plain sight, and once you know what to look for you can answer the question in about ten seconds.
 
-This guide covers how to identify what you have, how the two designs actually differ, which one fails in which ways, and which you should choose when it comes time to replace. If your pump is down right now and you want a straight answer on the phone, [call us at (509) 351-8404](tel:+15093518404).
+This guide covers how to identify what you have, how the two designs actually differ, which one fails in which ways, and which you should choose when it comes time to replace. If your pump is down right now and you want a straight answer on the phone, [call us at (509) 300-5151](tel:+15093005151).
 
 ## The Ten Second Way to Tell Which One You Have
 
@@ -85,7 +85,7 @@ Checking whether you have a control box on the wall is safe and takes ten second
 
 Any diagnosis past identifying which type you have belongs to somebody with a meter and the training to use it around 240 volt equipment. Both the EPA's [private well resources](https://www.epa.gov/privatewells) and Washington's own [well construction requirements](https://ecology.wa.gov/water-shorelines/water-supply/wells) treat the wellhead and its electrical service as work for licensed professionals, and that is not bureaucratic caution. Pump circuits are unforgiving.
 
-We service both types across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. If you are not sure what you have, send us a photo of the wall by your pressure tank and we can usually tell you on the spot. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact).
+We service both types across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. If you are not sure what you have, send us a photo of the wall by your pressure tank and we can usually tell you on the spot. Call [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact).
 
 ## Frequently Asked Questions
 

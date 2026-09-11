@@ -1,6 +1,6 @@
 ---
 meta_title: "Drought Restrictions and Your Well: What Actually Applies"
-meta_description: "Drought years bring curtailment notices and watering rules, but do they apply to your private well? What Chelan and Douglas County owners should know. (509) 351-8404."
+meta_description: "Drought years bring curtailment notices and watering rules, but do they apply to your private well? What Chelan and Douglas County owners should know. (509) 300-5151."
 primary_keyword: "drought restrictions well washington"
 secondary_keywords: "drought and private wells, well water curtailment washington, does drought affect my well, water rights curtailment drought, Chelan Douglas county drought well"
 ---
@@ -21,7 +21,7 @@ A declaration by itself doesn't shut off anyone's water. It's a switch that turn
 
 That last tool is the one that worries well owners, and it deserves its own explanation before you decide whether it touches your property. Ecology's [drought response page](https://ecology.wa.gov/water-shorelines/water-supply/water-availability/statewide-conditions/drought-response) tracks current declarations and basin conditions if you want to check where Chelan and Douglas counties stand in a given year.
 
-If your well is already acting up while everyone argues about drought policy, don't wait on the paperwork question first. [Call us at (509) 351-8404](tel:+15093518404) and we'll check the well itself, no legal research required.
+If your well is already acting up while everyone argues about drought policy, don't wait on the paperwork question first. [Call us at (509) 300-5151](tel:+15093005151) and we'll check the well itself, no legal research required.
 
 ## Curtailment 101: Junior Water Rights Go First, Not Domestic Wells
 

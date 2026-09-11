@@ -13,7 +13,7 @@ It is the drop pipe. It is the column of pipe that hangs your submersible pump d
 
 Sometimes reusing it is fine. Often it is a false economy that shows up years later as the most expensive kind of well failure there is. This guide covers what the material choices actually mean, how drop pipe fails, and how to decide what goes back in your well.
 
-If you are looking at a pump replacement quote right now and want to know whether the drop pipe line item is right, [call us at (509) 351-8404](tel:+15093518404).
+If you are looking at a pump replacement quote right now and want to know whether the drop pipe line item is right, [call us at (509) 300-5151](tel:+15093005151).
 
 ## What Drop Pipe Does and Why It Fails
 
@@ -95,7 +95,7 @@ What you can do is notice the symptoms that sometimes point here. A pump that ru
 
 And when you are getting quotes for a pump replacement, ask the drop pipe question. It is the single highest-leverage question a homeowner can ask on that job, and almost nobody asks it.
 
-We replace pumps and drop pipe across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and we will tell you honestly when your existing pipe is worth putting back in. Call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact).
+We replace pumps and drop pipe across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake, and we will tell you honestly when your existing pipe is worth putting back in. Call [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact).
 
 ## Frequently Asked Questions
 

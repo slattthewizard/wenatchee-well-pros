@@ -2,7 +2,7 @@
 title: "Power Outage Well Water Backup Plan: What Actually Keeps the Taps Running"
 navTitle: "Power Outage Well Water Backup"
 metaTitle: "Power Outage Well Water Backup Plan for Wenatchee Homes"
-metaDescription: "When the power goes out, so does your well pump. See the pressure tank drawdown reality, how much stored water you need, and generator vs battery backup options. Wenatchee Well Pros, (509) 351-8404."
+metaDescription: "When the power goes out, so does your well pump. See the pressure tank drawdown reality, how much stored water you need, and generator vs battery backup options. Wenatchee Well Pros, (509) 300-5151."
 primaryKeyword: "power outage well water backup plan"
 secondaryKeywords: "well water during power outage, backup water supply for well, pressure tank without power, generator vs battery backup well pump, emergency water plan for well owners"
 publishedDate: "2026-08-04"
@@ -23,7 +23,7 @@ The power flickers, dies, and about thirty seconds later your shower goes from h
 
 Homes on city water barely notice most outages. Homes on a private well anywhere from Wenatchee to Quincy lose water the instant the grid does. A solid backup plan comes down to three layers: knowing how much water your pressure tank actually has in reserve, keeping enough stored water on hand for outages that run long, and deciding whether a generator or battery backup fits your pump.
 
-If you're not sure which layer your household is missing, [talk to us about a free assessment](/#contact) or call [(509) 351-8404](tel:+15093518404) and we'll walk through your setup instead of guessing.
+If you're not sure which layer your household is missing, [talk to us about a free assessment](/#contact) or call [(509) 300-5151](tel:+15093005151) and we'll walk through your setup instead of guessing.
 
 ## Why a Power Outage Kills Your Well Water Before Anything Else Does
 
@@ -108,7 +108,7 @@ A few patterns show up after almost every outage that stretches past a few hours
 
 A power outage well water backup plan isn't about buying the biggest generator on the lot. It's three layers working together: know your pressure tank's real drawdown, keep enough stored water for the outages that run long, and match a generator or battery backup to how often your area actually loses power. Get those three pieces right and the next outage becomes an inconvenience instead of a crisis.
 
-If you want an honest read on your own setup, [request a free estimate](/#contact) or call [(509) 351-8404](tel:+15093518404) any time. We'll check your tank, your pump, and your options without pushing you toward the most expensive fix.
+If you want an honest read on your own setup, [request a free estimate](/#contact) or call [(509) 300-5151](tel:+15093005151) any time. We'll check your tank, your pump, and your options without pushing you toward the most expensive fix.
 
 ## Frequently Asked Questions
 

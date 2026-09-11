@@ -23,7 +23,7 @@ Most people who search for how to dig a well are picturing a shovel, a ring of s
 
 What you are actually asking about is how a modern water well gets put in the ground, what it takes to get one on your property, and whether you can do any of it yourself. That is a fair question with a genuinely useful answer, so here is the honest version, including the part where a licensed driller has to be involved.
 
-If you are weighing a new well against fixing the one you have, [call us at (509) 351-8404](tel:+15093518404) before you commit to the expensive option, because the cheaper one is available more often than people expect.
+If you are weighing a new well against fixing the one you have, [call us at (509) 300-5151](tel:+15093005151) before you commit to the expensive option, because the cheaper one is available more often than people expect.
 
 ## Can You Actually Dig Your Own Well in Washington?
 
@@ -101,7 +101,7 @@ A large share of the properties that call us convinced they need to drill actual
 
 If the aquifer genuinely is the limit, deepening the existing well is often cheaper than starting over, since the upper hole and casing already exist. [Deepening a well versus drilling new](/blog/deepen-well-vs-drill-new/) walks through when each one wins.
 
-We work throughout Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy and Moses Lake. If you are staring at a new well quote, [call us at (509) 351-8404](tel:+15093518404) and let us check the cheap explanations first.
+We work throughout Wenatchee, East Wenatchee, Cashmere, Leavenworth, Lake Chelan, Quincy and Moses Lake. If you are staring at a new well quote, [call us at (509) 300-5151](tel:+15093005151) and let us check the cheap explanations first.
 
 ## Frequently Asked Questions
 

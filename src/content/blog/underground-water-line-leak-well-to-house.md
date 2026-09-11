@@ -25,7 +25,7 @@ That pattern is one of the most reliable signs in the well business. Water is le
 
 Homeowners around Wenatchee tend to assume this is a pump problem, because the pump is the part making noise. It usually is not. The pump is doing exactly what it was built to do, which is replace pressure that keeps disappearing. Chase the pump and you will spend money without fixing anything. This guide walks through how to tell a service line leak apart from the half dozen other things that cause the same symptom, how the line gets located without digging up your whole yard, and what the repair actually runs.
 
-If your pump is short cycling right now and your power bill has jumped, [call us at (509) 351-8404](tel:+15093518404) before you start trenching. A twenty minute pressure test usually settles the question.
+If your pump is short cycling right now and your power bill has jumped, [call us at (509) 300-5151](tel:+15093005151) before you start trenching. A twenty minute pressure test usually settles the question.
 
 ## Signs the Leak Is in the Line, Not the Pump or the House
 
@@ -113,7 +113,7 @@ Past that point, call somebody. Excavating near a pressurized water line, a well
 
 Call sooner rather than later if the pump is cycling every few minutes, if you have lost pressure entirely, if water is surfacing anywhere near the wellhead, or if the leak sits under a driveway or a structure where it can undermine what is on top of it. A slow leak in the middle of a pasture can wait for a scheduled appointment. Water eroding soil under a driveway cannot.
 
-We locate and repair service lines across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. If your pump is running when it should be silent, call [(509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact) and we will find out where your water is going before anybody puts a machine in your yard.
+We locate and repair service lines across Wenatchee, East Wenatchee, Cashmere, Leavenworth, Chelan, Quincy, and Moses Lake. If your pump is running when it should be silent, call [(509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact) and we will find out where your water is going before anybody puts a machine in your yard.
 
 ## Frequently Asked Questions
 

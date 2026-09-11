@@ -51,7 +51,7 @@ On a private well, that wastewater matters more than it does on a city hookup, f
 
 The Hendersons out past Leavenworth ran into exactly this. Their well struggles by August, some years barely holding 4 gallons a minute. They'd been considering a whole-house RO system to deal with iron staining across the whole property. When we ran the numbers, a whole-house unit rejecting three gallons for every gallon delivered would have added meaningful draw to a well that already runs thin in dry months. They went with a $2,400 whole-house iron filter instead and kept RO limited to a single $550 unit at the kitchen sink, protecting the well's limited output rather than taxing it further.
 
-If you're not sure how much daily flow your well can actually support before adding a treatment system, our [well pump repair team](/well-pump-repair-wenatchee/) can check your well's yield as part of a visit, or [call us at (509) 351-8404](tel:+15093518404) and we'll talk through it first.
+If you're not sure how much daily flow your well can actually support before adding a treatment system, our [well pump repair team](/well-pump-repair-wenatchee/) can check your well's yield as part of a visit, or [call us at (509) 300-5151](tel:+15093005151) and we'll talk through it first.
 
 ## Why High-Iron and High-Sediment Wells Need Pre-Treatment First
 
@@ -104,7 +104,7 @@ Once you know your numbers, check your iron and sediment levels specifically. Th
 
 Then think honestly about scope. If the goal is safe drinking and cooking water, an under-sink unit handles it at a fraction of the cost and water waste of a whole-house system. If your well already runs thin by late summer, that wastewater ratio deserves real thought before you commit to anything treating your whole house.
 
-If you're weighing RO against other options, or want someone to look at your well's capacity before you add a system that sends water down the drain daily, [call (509) 351-8404](tel:+15093518404) and we'll walk through it with you, no charge for the conversation.
+If you're weighing RO against other options, or want someone to look at your well's capacity before you add a system that sends water down the drain daily, [call (509) 300-5151](tel:+15093005151) and we'll walk through it with you, no charge for the conversation.
 
 ## Frequently Asked Questions
 

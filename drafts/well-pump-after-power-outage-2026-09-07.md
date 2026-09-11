@@ -25,7 +25,7 @@ That is the moment things break. A motor hit with low voltage sits there straini
 
 The pump itself, the part that costs real money, is usually fine. What fails is the small stuff around it, and that is why the order you work in matters.
 
-If you have livestock to water, someone in the house who needs water for medication, or no stored supply at all, do not spend the morning troubleshooting. Call **[(509) 351-8404](tel:+15093518404)**. We answer 24/7 for no-water calls across Chelan, Douglas and Grant counties, and the estimate is free.
+If you have livestock to water, someone in the house who needs water for medication, or no stored supply at all, do not spend the morning troubleshooting. Call **[(509) 300-5151](tel:+15093005151)**. We answer 24/7 for no-water calls across Chelan, Douglas and Grant counties, and the estimate is free.
 
 ## Restart Your Well Pump After an Outage in This Order
 
@@ -95,7 +95,7 @@ Also stop if you find yourself about to open a control box or a pressure switch 
 
 Anything below the pitless adapter needs specialist equipment, full stop. Pulling a submersible from a 300-foot well means a hoist, a pipe reel, and somewhere safe to lay out several hundred feet of pipe. It is not a rope-and-two-neighbors job, and people get hurt trying. Our [well pump repair](/well-pump-repair-wenatchee/) and [emergency well service](/emergency-well-service-wenatchee/) pages explain what happens on a call.
 
-A fair amount of what we find after an outage was already failing beforehand. A pressure tank that lost its air charge months ago makes the pump start and stop far more often than it should, and a motor doing hundreds of cycles a day is much more fragile when the grid hiccups. If your tank is more than ten years old, [replacing the pressure tank](/pressure-tank-replacement-wenatchee/) is often the cheapest way to protect the expensive part. Not sure which you are dealing with? [Call for a free estimate](tel:+15093518404) and we will diagnose it before we quote anything.
+A fair amount of what we find after an outage was already failing beforehand. A pressure tank that lost its air charge months ago makes the pump start and stop far more often than it should, and a motor doing hundreds of cycles a day is much more fragile when the grid hiccups. If your tank is more than ten years old, [replacing the pressure tank](/pressure-tank-replacement-wenatchee/) is often the cheapest way to protect the expensive part. Not sure which you are dealing with? [Call for a free estimate](tel:+15093005151) and we will diagnose it before we quote anything.
 
 ## Making the Next Outage a Smaller Problem
 

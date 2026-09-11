@@ -37,7 +37,7 @@ A few field tests separate the two quickly:
 - **The smell test.** Plain iron has little odor. Iron bacteria often carries a musty, "ditch water" smell, different from the rotten-egg smell of sulfur bacteria.
 - **The tank test.** Pop the lid on a rarely flushed toilet tank. Rust-colored slime on the walls is the signature sign of a live colony.
 
-No slime on a high-iron test means the mineral form, and our iron in well water article is where to start. Seeing slime? Keep reading, and if you want a straight answer on what it'll take to clear your well, [call us at (509) 351-8404](tel:+15093518404) before you spend money on the wrong fix.
+No slime on a high-iron test means the mineral form, and our iron in well water article is where to start. Seeing slime? Keep reading, and if you want a straight answer on what it'll take to clear your well, [call us at (509) 300-5151](tel:+15093005151) before you spend money on the wrong fix.
 
 ## Signs You're Dealing With Iron Bacteria, Not Just Iron
 
@@ -113,7 +113,7 @@ A first-time, mild case is often a fair DIY project if you're comfortable with t
 - **Anything involves the wellhead's electrical connections.** Flipping the breaker before opening the cap is fine. Touching the wiring or pressure switch is not, since well circuits run on 240 volts.
 - **Your pump's performance has already changed**, with dropping pressure or unusual noise. That's a sign the colony may have reached the intake, and pulling a pump isn't a beginner task.
 
-Iron bacteria rarely announces itself the way a burst pipe does, but it doesn't fix itself either, and every month it sits untreated is another month it works on your pump. If you're seeing slime or watching your pressure fade, [call (509) 351-8404](tel:+15093518404) and we'll help you figure out whether it's a weekend job or something bigger.
+Iron bacteria rarely announces itself the way a burst pipe does, but it doesn't fix itself either, and every month it sits untreated is another month it works on your pump. If you're seeing slime or watching your pressure fade, [call (509) 300-5151](tel:+15093005151) and we'll help you figure out whether it's a weekend job or something bigger.
 
 ## Frequently Asked Questions
 

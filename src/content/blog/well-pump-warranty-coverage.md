@@ -33,7 +33,7 @@ Standard terms run 1 to 3 years on most residential submersible pumps, with the 
 
 None of that coverage kicks in automatically. Most manufacturers require proof of purchase, and a growing number require product registration within 30 to 90 days of installation. Skip that step and you may have zero coverage even if the pump fails from a genuine defect.
 
-If your pump just failed and you're not sure whether it's still under warranty, [call Wenatchee Well Pros at (509) 351-8404](tel:+15093518404) before you assume the worst. We'll check the model, the install date, and the failure mode, and tell you honestly whether a claim is worth filing.
+If your pump just failed and you're not sure whether it's still under warranty, [call Wenatchee Well Pros at (509) 300-5151](tel:+15093005151) before you assume the worst. We'll check the model, the install date, and the failure mode, and tell you honestly whether a claim is worth filing.
 
 ## Parts vs. Labor: Where Well Pump Warranty Coverage Falls Short
 

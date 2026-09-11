@@ -9,7 +9,7 @@ secondary_keywords: "washington form 17 well disclosure, fha well water test req
 
 Your buyer's lender is going to test your well whether you volunteer anything or not, and whatever that test turns up becomes your problem the moment escrow opens. Selling a home with a well in Washington means answering for a system most homeowners never think twice about until a lender starts asking questions.
 
-This guide walks through exactly what Washington's Form 17 disclosure statement requires you to answer about your well, what FHA, VA, and USDA lenders demand before your buyer's loan can fund, and how sellers around Wenatchee, Chelan, and the rest of the Columbia River valley get ahead of it instead of getting blindsided mid-escrow. If you've already got a buyer lined up and a well you haven't looked at in years, [call us at (509) 351-8404](tel:+15093518404) and we'll get a test scheduled before your lender does.
+This guide walks through exactly what Washington's Form 17 disclosure statement requires you to answer about your well, what FHA, VA, and USDA lenders demand before your buyer's loan can fund, and how sellers around Wenatchee, Chelan, and the rest of the Columbia River valley get ahead of it instead of getting blindsided mid-escrow. If you've already got a buyer lined up and a well you haven't looked at in years, [call us at (509) 300-5151](tel:+15093005151) and we'll get a test scheduled before your lender does.
 
 ## What Changes When You're Selling a Home With a Well in Washington
 
@@ -72,7 +72,7 @@ Some findings are minor paperwork. Others can cost you the deal, or cost you aft
 
 **Not disclosing what you already know.** Linda, near Leavenworth, checked "no" on the Form 17 line asking about known problems or repairs needed, because she figured a pressure switch issue from the year before had been fixed for good. It hadn't. Her buyer's pump started short cycling within a month of moving in, traced the history back through a neighbor, and threatened a claim under RCW 64.06 for an omission she knew about at the time she signed. She ended up paying $1,800 to settle and repair the system, more than double what a disclosed $600 pressure tank replacement would have cost her at closing.
 
-The pattern across all three: sellers who get ahead of the problem spend less and keep more control than sellers who wait for someone else to find it. [Call us at (509) 351-8404](tel:+15093518404) if you want a straight read on your system before you sign a disclosure statement you're not sure about.
+The pattern across all three: sellers who get ahead of the problem spend less and keep more control than sellers who wait for someone else to find it. [Call us at (509) 300-5151](tel:+15093005151) if you want a straight read on your system before you sign a disclosure statement you're not sure about.
 
 ## Buyer's Well Inspection vs. Seller's Disclosure: Two Different Jobs
 

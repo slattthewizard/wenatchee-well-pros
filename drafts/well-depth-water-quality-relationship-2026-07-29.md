@@ -13,7 +13,7 @@ So does a deeper well mean cleaner water? Not automatically, and that surprises 
 
 We're Wenatchee Well Pros, and we test and service wells across Chelan, Douglas, and Grant counties every week, from 60-foot valley wells to 600-foot basalt wells out past Quincy. The honest answer on depth and water quality has two halves: one that's genuinely good news, and one that trips people up constantly. This guide walks through both, with real numbers from wells we've tested.
 
-If you're staring at a lab report right now and trying to make sense of it, [call us at (509) 351-8404](tel:+15093518404). We'll help you read it in plain English, free of charge.
+If you're staring at a lab report right now and trying to make sense of it, [call us at (509) 300-5151](tel:+15093005151). We'll help you read it in plain English, free of charge.
 
 ## Does a Deeper Well Mean Cleaner Water? The Short Answer
 
@@ -87,7 +87,7 @@ One more thing depth doesn't change: casing and wellhead work is not a DIY proje
 
 And if you're dealing with no water at all rather than a water quality question, that's a different kind of emergency. Our [24/7 emergency well service](/emergency-well-service-wenatchee/) handles those calls day or night, with an emergency premium of $150 to $300 on top of a standard service call.
 
-Whatever your well's depth, [call (509) 351-8404](tel:+15093518404) or [request a free estimate](/#contact) if you want a straight answer instead of a guess. We're licensed and insured across Chelan, Douglas, and Grant counties, and we'll tell you honestly what your numbers mean.
+Whatever your well's depth, [call (509) 300-5151](tel:+15093005151) or [request a free estimate](/#contact) if you want a straight answer instead of a guess. We're licensed and insured across Chelan, Douglas, and Grant counties, and we'll tell you honestly what your numbers mean.
 
 ## Frequently Asked Questions
 
