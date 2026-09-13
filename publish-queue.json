@@ -516,7 +516,8 @@
   },
   {
     "draft": "drafts/test-well-pump-without-pulling-it-2026-09-07.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-13T17:44:55.716213Z"
   },
   {
     "draft": "drafts/well-maintenance-cost-2026-09-07.md",
