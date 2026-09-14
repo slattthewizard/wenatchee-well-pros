@@ -521,7 +521,8 @@
   },
   {
     "draft": "drafts/well-maintenance-cost-2026-09-07.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-14T19:38:22.033097Z"
   },
   {
     "draft": "drafts/well-pump-after-power-outage-2026-09-07.md",
