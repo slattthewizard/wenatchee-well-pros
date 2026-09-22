@@ -2,8 +2,8 @@ name: Daily Blog Publish
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 8 AM PDT / 3 PM UTC
-  workflow_dispatch:
+    - cron: '0 15 * * *'  # daily 3 PM UTC; PUBLISH_MIN_HOURS below makes it one post every 48 h
+  workflow_dispatch:  # manual runs skip the gate and publish the next draft now
 
 jobs:
   publish:
@@ -21,6 +21,9 @@ jobs:
           python-version: '3.12'
 
       - name: Run publisher
+        env:
+          PUBLISH_MIN_HOURS: '36'  # 48 h cadence (owner's call, 22 Sept 2026); scaffold.py resets this to 0 for new sites
+          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' }}
         run: python .github/scripts/cloud_publish.py
 
       - name: Commit and push

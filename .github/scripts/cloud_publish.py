@@ -215,6 +215,19 @@ def main():
     with open(queue_path, 'r', encoding='utf-8') as f:
         queue = json.load(f)
 
+    # Cadence gate, opt-in per site: a scheduled run publishes only when the newest
+    # publishedAt is at least PUBLISH_MIN_HOURS old. Unset or 0 means one post per run.
+    # The workflow sets it (36 = one post every 48 h on a daily cron, with 12 h of slack
+    # for GitHub cron delays). Manual "Run workflow" sets FORCE_PUBLISH=true and skips it.
+    min_hours = float(os.environ.get('PUBLISH_MIN_HOURS') or 0)
+    stamps = [item['publishedAt'] for item in queue if item.get('published') and item.get('publishedAt')]
+    if min_hours > 0 and stamps and os.environ.get('FORCE_PUBLISH', '').lower() != 'true':
+        last = max(datetime.fromisoformat(s.rstrip('Z')) for s in stamps)
+        age_h = (datetime.utcnow() - last).total_seconds() / 3600
+        if age_h < min_hours:
+            print(f"Cadence gate: last post {age_h:.1f} h ago (< {min_hours:g} h), nothing published this run")
+            sys.exit(0)
+
     next_item = None
     next_idx = None
     for i, item in enumerate(queue):
