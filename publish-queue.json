@@ -541,7 +541,8 @@
   },
   {
     "draft": "drafts/pressure-tank-air-pressure-2026-09-22.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-26T18:06:24.680624Z"
   },
   {
     "draft": "drafts/tankless-water-heater-well-water-2026-09-22.md",
