@@ -551,7 +551,8 @@
   },
   {
     "draft": "drafts/filling-pool-with-well-water-2026-09-22.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-30T19:40:30.944854Z"
   },
   {
     "draft": "drafts/well-pump-reset-button-2026-09-27.md",
