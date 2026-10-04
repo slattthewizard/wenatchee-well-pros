@@ -561,7 +561,8 @@
   },
   {
     "draft": "drafts/how-deep-to-bury-water-line-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-04T18:25:29.965993Z"
   },
   {
     "draft": "drafts/well-pump-capacitor-2026-09-27.md",
