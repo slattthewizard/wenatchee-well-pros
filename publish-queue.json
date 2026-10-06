@@ -566,7 +566,8 @@
   },
   {
     "draft": "drafts/well-pump-capacitor-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-06T19:52:31.325164Z"
   },
   {
     "draft": "drafts/pressure-tank-sizing-2026-09-27.md",
