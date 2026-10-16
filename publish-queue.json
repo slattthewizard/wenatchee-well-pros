@@ -591,7 +591,8 @@
   },
   {
     "draft": "drafts/sediment-filter-well-water-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-16T18:28:06.492812Z"
   },
   {
     "draft": "drafts/iron-filter-well-water-2026-09-27.md",
