@@ -601,7 +601,8 @@
   },
   {
     "draft": "drafts/water-witching-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-20T18:46:55.887838Z"
   },
   {
     "draft": "drafts/well-pressure-gauge-2026-09-27.md",
