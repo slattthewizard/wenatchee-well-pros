@@ -606,7 +606,8 @@
   },
   {
     "draft": "drafts/well-pressure-gauge-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-22T18:53:49.023810Z"
   },
   {
     "draft": "drafts/cycle-stop-valve-2026-09-27.md",
