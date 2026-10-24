@@ -611,7 +611,8 @@
   },
   {
     "draft": "drafts/cycle-stop-valve-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-24T17:41:08.363906Z"
   },
   {
     "draft": "drafts/pump-saver-dry-run-protection-2026-09-27.md",
