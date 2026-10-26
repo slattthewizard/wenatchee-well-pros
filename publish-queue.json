@@ -616,7 +616,8 @@
   },
   {
     "draft": "drafts/pump-saver-dry-run-protection-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-26T20:11:45.904726Z"
   },
   {
     "draft": "drafts/how-to-wire-a-pressure-switch-2026-09-27.md",
