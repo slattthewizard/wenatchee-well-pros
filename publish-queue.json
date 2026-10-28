@@ -621,7 +621,8 @@
   },
   {
     "draft": "drafts/how-to-wire-a-pressure-switch-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-28T19:55:27.606166Z"
   },
   {
     "draft": "drafts/pressure-relief-valve-well-2026-09-27.md",
