@@ -631,7 +631,8 @@
   },
   {
     "draft": "drafts/well-pump-brands-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-01T19:14:36.696123Z"
   },
   {
     "draft": "drafts/well-casing-steel-vs-pvc-2026-09-27.md",
