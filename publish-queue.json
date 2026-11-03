@@ -636,7 +636,8 @@
   },
   {
     "draft": "drafts/well-casing-steel-vs-pvc-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-03T20:40:28.920225Z"
   },
   {
     "draft": "drafts/sand-point-well-2026-09-27.md",
