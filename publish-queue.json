@@ -641,7 +641,8 @@
   },
   {
     "draft": "drafts/sand-point-well-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-05T21:15:10.233131Z"
   },
   {
     "draft": "drafts/spring-water-system-2026-09-27.md",
