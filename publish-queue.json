@@ -646,7 +646,8 @@
   },
   {
     "draft": "drafts/spring-water-system-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-07T19:06:08.595561Z"
   },
   {
     "draft": "drafts/pressure-tank-bladder-test-2026-09-27.md",
