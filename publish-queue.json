@@ -651,7 +651,8 @@
   },
   {
     "draft": "drafts/pressure-tank-bladder-test-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-09T23:36:57.454173Z"
   },
   {
     "draft": "drafts/how-long-do-pressure-tanks-last-2026-09-27.md",
