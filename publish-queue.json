@@ -661,7 +661,8 @@
   },
   {
     "draft": "drafts/pressure-tank-tee-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-13T21:01:23.774470Z"
   },
   {
     "draft": "drafts/galvanized-pressure-tank-2026-09-27.md",
