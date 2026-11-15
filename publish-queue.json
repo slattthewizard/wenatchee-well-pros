@@ -666,7 +666,8 @@
   },
   {
     "draft": "drafts/galvanized-pressure-tank-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-15T20:00:14.250529Z"
   },
   {
     "draft": "drafts/well-pit-2026-09-27.md",
