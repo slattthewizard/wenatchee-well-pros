@@ -686,7 +686,8 @@
   },
   {
     "draft": "drafts/open-loop-geothermal-well-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-24T01:55:59.091273Z"
   },
   {
     "draft": "drafts/well-water-test-kit-vs-lab-2026-09-27.md",
