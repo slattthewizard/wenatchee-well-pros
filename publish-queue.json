@@ -696,7 +696,8 @@
   },
   {
     "draft": "drafts/yellow-well-water-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-27T23:01:09.591633Z"
   },
   {
     "draft": "drafts/black-specks-in-well-water-2026-09-27.md",
